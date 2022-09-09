@@ -1,0 +1,29 @@
+{
+    "name": "KIRK-MICHAEL-VICARAGE",
+    "data": {
+        "KIRK-MICHAEL-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt3-page-008.csv",
+                "start_date": "1870/02",
+                "end_date": "1870/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt3-page-008.csv",
+                "start_date": "1871/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_10_pt3-page-008.csv",
+            "start_date": "1870/01",
+            "end_date": "1870/01"
+        },
+        {
+            "filename": "TYRain_1870-1879_10_pt3-page-008.csv",
+            "start_date": "1870/13",
+            "end_date": "1870/13"
+        }
+    ]
+}

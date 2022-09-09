@@ -1,0 +1,113 @@
+{
+    "name": "REDEWATER-LUMSDEN-LAW-MIX",
+    "data": {
+        "REDEWATER-LUMSDEN-LAW-MIX-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-062.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-047.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "REDEWATER-LUMSDEN-LAW-MIX-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-117.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-042.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "REDEWATER-LUMSDEN-LAW-MIX-4.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-112.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-048.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "REDEWATER-LUMSDEN-LAW-MIX-5.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-115.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-051.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "REDEWATER-LUMSDEN-LAW-MIX-6.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-116.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-052.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "REDEWATER-LUMSDEN-LAW-MIX-7.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-113.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-049.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "REDEWATER-LUMSDEN-LAW-MIX-8.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-114.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-050.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "REDEWATER-LUMSDEN-LAW-MIX-9.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-118.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-043.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "REDEWATER-LUMSDEN-LAW-MIX.csv": [
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-119.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-044.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

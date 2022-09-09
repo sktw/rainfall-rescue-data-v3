@@ -1,0 +1,79 @@
+{
+    "name": "BARTLOW-CASTLE-CAMPS-SCHOOL",
+    "data": {
+        "BARTLOW-CASTLE-CAMPS-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-067.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+                "start_date": "1931/05",
+                "end_date": "1931/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+                "start_date": "1931/10",
+                "end_date": "1931/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+                "start_date": "1932/01",
+                "end_date": "1932/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+                "start_date": "1932/05",
+                "end_date": "1932/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+                "start_date": "1932/10",
+                "end_date": "1932/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+                "start_date": "1932/13",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+            "start_date": "1931/04",
+            "end_date": "1931/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+            "start_date": "1931/07",
+            "end_date": "1931/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+            "start_date": "1931/11",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+            "start_date": "1932/04",
+            "end_date": "1932/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+            "start_date": "1932/08",
+            "end_date": "1932/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-067.csv",
+            "start_date": "1932/12",
+            "end_date": "1932/12"
+        }
+    ]
+}

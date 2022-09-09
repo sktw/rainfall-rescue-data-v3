@@ -1,0 +1,157 @@
+{
+    "name": "PEAK-FOREST-SPARROWPIT",
+    "data": {
+        "PEAK-FOREST-SPARROWPIT.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1955/03",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1956/01",
+                "end_date": "1956/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1956/03",
+                "end_date": "1956/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1957/02",
+                "end_date": "1957/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1957/06",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1958/03",
+                "end_date": "1958/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1958/08",
+                "end_date": "1958/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1958/12",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1959/01",
+                "end_date": "1959/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1959/07",
+                "end_date": "1959/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1960/05",
+                "end_date": "1960/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+                "start_date": "1960/12",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "idr": {
+        "PEAK-FOREST-SPARROWPIT.csv": [
+            {
+                "start_date": "1955/06",
+                "end_date": "1955/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1955/02",
+            "end_date": "1955/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1956/02",
+            "end_date": "1956/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1956/12",
+            "end_date": "1957/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1957/05",
+            "end_date": "1957/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1957/13",
+            "end_date": "1958/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1958/05",
+            "end_date": "1958/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1958/11",
+            "end_date": "1958/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1959/06",
+            "end_date": "1959/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1959/12",
+            "end_date": "1959/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1960/04",
+            "end_date": "1960/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1960/11",
+            "end_date": "1960/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_16_pt1-page-171.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "TORQUAY-BABBACOMBE-KIRKHAM",
+    "data": {
+        "TORQUAY-BABBACOMBE-KIRKHAM-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_05_pt2-page-071.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "TORQUAY-BABBACOMBE-KIRKHAM.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-072.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-053.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-063.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "TORQUAY-BABBACOMBE-KIRKHAM-2.csv": [
+            {
+                "start_date": "1877/10",
+                "end_date": "1877/10"
+            }
+        ]
+    }
+}

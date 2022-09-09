@@ -1,0 +1,17 @@
+{
+    "name": "SHEPTON-MALLET-GRAMMAR-SCHOOL",
+    "data": {
+        "SHEPTON-MALLET-GRAMMAR-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-015.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-092.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

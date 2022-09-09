@@ -1,0 +1,39 @@
+{
+    "name": "DONCASTER-BENTLEY-WORKS",
+    "data": {
+        "DONCASTER-BENTLEY-WORKS.csv": [
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-124.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-132.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/08"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-132.csv",
+                "start_date": "1957/11",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-132.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-132.csv",
+            "start_date": "1957/09",
+            "end_date": "1957/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-132.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

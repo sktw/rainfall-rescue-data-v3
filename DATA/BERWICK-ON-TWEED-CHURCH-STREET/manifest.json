@@ -1,0 +1,25 @@
+{
+    "name": "BERWICK-ON-TWEED-CHURCH-STREET",
+    "data": {
+        "BERWICK-ON-TWEED-CHURCH-STREET.csv": [
+            {
+                "filename": "TYRain_1900-1909_23_pt1-page-003.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_21_pt1-page-246.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "BERWICK-ON-TWEED-CHURCH-STREET.csv": [
+            {
+                "start_date": "1910/03",
+                "end_date": "1910/03"
+            }
+        ]
+    }
+}

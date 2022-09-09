@@ -1,0 +1,147 @@
+{
+    "name": "KINGSBRIDGE-WESTBURN-TERRACE",
+    "data": {
+        "KINGSBRIDGE-WESTBURN-TERRACE.csv": [
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+                "start_date": "1927/08",
+                "end_date": "1927/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+                "start_date": "1928/01",
+                "end_date": "1928/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+                "start_date": "1928/08",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+                "start_date": "1930/11",
+                "end_date": "1930/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+                "start_date": "1931/05",
+                "end_date": "1931/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+                "start_date": "1931/09",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+                "start_date": "1932/01",
+                "end_date": "1934/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+                "start_date": "1934/07",
+                "end_date": "1934/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+                "start_date": "1934/10",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-049.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "KINGSBRIDGE-WESTBURN-TERRACE.csv": [
+            {
+                "start_date": "1939/10",
+                "end_date": "1939/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+            "start_date": "1927/07",
+            "end_date": "1927/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+            "start_date": "1927/12",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+            "start_date": "1928/07",
+            "end_date": "1928/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+            "start_date": "1930/10",
+            "end_date": "1930/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-199.csv",
+            "start_date": "1930/13",
+            "end_date": "1930/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+            "start_date": "1931/03",
+            "end_date": "1931/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+            "start_date": "1931/07",
+            "end_date": "1931/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+            "start_date": "1934/06",
+            "end_date": "1934/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+            "start_date": "1934/09",
+            "end_date": "1934/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-269.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        }
+    ]
+}

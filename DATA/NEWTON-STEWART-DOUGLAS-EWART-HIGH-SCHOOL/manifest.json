@@ -1,0 +1,17 @@
+{
+    "name": "NEWTON-STEWART-DOUGLAS-EWART-HIGH-SCHOOL",
+    "data": {
+        "NEWTON-STEWART-DOUGLAS-EWART-HIGH-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-220.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-020.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

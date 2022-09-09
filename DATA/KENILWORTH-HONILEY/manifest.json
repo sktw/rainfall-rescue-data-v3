@@ -1,0 +1,20 @@
+{
+    "name": "KENILWORTH-HONILEY",
+    "data": {
+        "KENILWORTH-HONILEY.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_17_pt1-page-042.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "KENILWORTH-HONILEY.csv": [
+            {
+                "start_date": "1943/13",
+                "end_date": "1943/13"
+            }
+        ]
+    }
+}

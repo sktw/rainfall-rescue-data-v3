@@ -1,0 +1,79 @@
+{
+    "name": "ST-DAY-SCHOOL",
+    "data": {
+        "ST-DAY-SCHOOL-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-034.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-034.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-120.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-120.csv",
+                "start_date": "1945/03",
+                "end_date": "1945/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-120.csv",
+                "start_date": "1945/07",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-120.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "ST-DAY-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-085.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-033.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_12_pt1-page-034.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_12_pt1-page-034.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-120.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-120.csv",
+            "start_date": "1945/05",
+            "end_date": "1945/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-120.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-142.csv"
+        }
+    ]
+}

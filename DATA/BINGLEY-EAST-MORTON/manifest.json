@@ -1,0 +1,47 @@
+{
+    "name": "BINGLEY-EAST-MORTON",
+    "data": {
+        "BINGLEY-EAST-MORTON.csv": [
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-019.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-012.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_22_pt1-page-197.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-133.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "BINGLEY-EAST-MORTON.csv": [
+            {
+                "start_date": "1929/13",
+                "end_date": "1929/13"
+            },
+            {
+                "start_date": "1937/02",
+                "end_date": "1937/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_20_pt1-page-014.csv"
+        },
+        {
+            "filename": "TYRain_1910-1919_20_pt1-page-016.csv"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PLYMOUTH-ROYAL-HOSPITAL",
+    "data": {
+        "PLYMOUTH-ROYAL-HOSPITAL.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-124.csv",
+                "start_date": "1760/01",
+                "end_date": "1769/13"
+            }
+        ]
+    },
+    "idr": {
+        "PLYMOUTH-ROYAL-HOSPITAL.csv": [
+            {
+                "start_date": "1766/01",
+                "end_date": "1766/01"
+            },
+            {
+                "start_date": "1766/13",
+                "end_date": "1766/13"
+            },
+            {
+                "start_date": "1767/06",
+                "end_date": "1767/06"
+            },
+            {
+                "start_date": "1767/08",
+                "end_date": "1767/11"
+            },
+            {
+                "start_date": "1767/13",
+                "end_date": "1768/01"
+            },
+            {
+                "start_date": "1768/03",
+                "end_date": "1768/05"
+            },
+            {
+                "start_date": "1768/07",
+                "end_date": "1768/08"
+            },
+            {
+                "start_date": "1768/12",
+                "end_date": "1768/13"
+            }
+        ]
+    }
+}

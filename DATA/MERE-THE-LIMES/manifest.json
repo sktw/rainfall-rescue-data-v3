@@ -1,0 +1,59 @@
+{
+    "name": "MERE-THE-LIMES",
+    "data": {
+        "MERE-THE-LIMES.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_10_pt1-page-163.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-192.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/01"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-192.csv",
+                "start_date": "1910/03",
+                "end_date": "1910/06"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-192.csv",
+                "start_date": "1910/09",
+                "end_date": "1910/09"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-192.csv",
+                "start_date": "1910/12",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-192.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-192.csv",
+            "start_date": "1910/02",
+            "end_date": "1910/02"
+        },
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-192.csv",
+            "start_date": "1910/07",
+            "end_date": "1910/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-192.csv",
+            "start_date": "1910/10",
+            "end_date": "1910/11"
+        },
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-192.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        }
+    ]
+}

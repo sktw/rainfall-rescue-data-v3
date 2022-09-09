@@ -1,0 +1,17 @@
+{
+    "name": "KINGS-LANGLEY-BARNES-LODGE",
+    "data": {
+        "KINGS-LANGLEY-BARNES-LODGE.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-234.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-267.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

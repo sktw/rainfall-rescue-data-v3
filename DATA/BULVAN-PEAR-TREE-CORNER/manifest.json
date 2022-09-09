@@ -1,0 +1,24 @@
+{
+    "name": "BULVAN-PEAR-TREE-CORNER",
+    "data": {
+        "BULVAN-PEAR-TREE-CORNER.csv": [
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-037.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/11"
+            },
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-037.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_09_pt1-page-037.csv",
+            "start_date": "1918/12",
+            "end_date": "1918/13"
+        }
+    ]
+}

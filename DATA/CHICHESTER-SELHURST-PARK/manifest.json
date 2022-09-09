@@ -1,0 +1,29 @@
+{
+    "name": "CHICHESTER-SELHURST-PARK",
+    "data": {
+        "CHICHESTER-SELHURST-PARK-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-025.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "CHICHESTER-SELHURST-PARK.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-011.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-025.csv",
+                "start_date": "1890/01",
+                "end_date": "1895/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-025.csv",
+                "start_date": "1897/01",
+                "end_date": "1898/13"
+            }
+        ]
+    }
+}

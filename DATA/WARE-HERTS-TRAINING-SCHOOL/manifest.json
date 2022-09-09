@@ -1,0 +1,59 @@
+{
+    "name": "WARE-HERTS-TRAINING-SCHOOL",
+    "data": {
+        "WARE-HERTS-TRAINING-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-011.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-011.csv",
+                "start_date": "1923/08",
+                "end_date": "1923/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-011.csv",
+                "start_date": "1924/01",
+                "end_date": "1927/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-011.csv",
+                "start_date": "1927/10",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-011.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-010.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-011.csv",
+            "start_date": "1923/07",
+            "end_date": "1923/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-011.csv",
+            "start_date": "1923/13",
+            "end_date": "1923/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-011.csv",
+            "start_date": "1927/08",
+            "end_date": "1927/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-011.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        }
+    ]
+}

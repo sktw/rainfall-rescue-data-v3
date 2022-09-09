@@ -1,0 +1,17 @@
+{
+    "name": "BISHOP-AUCKLAND-MOUNT-PLEASANT",
+    "data": {
+        "BISHOP-AUCKLAND-MOUNT-PLEASANT.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt3-page-022.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_18_pt1-page-033.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

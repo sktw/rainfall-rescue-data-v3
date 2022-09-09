@@ -1,0 +1,62 @@
+{
+    "name": "CHURCHILL-LANGFORD-HOUSE",
+    "data": {
+        "CHURCHILL-LANGFORD-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_12_pt1-page-254.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_12_pt1-page-254.csv",
+                "start_date": "1927/02",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_12_pt1-page-254.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-219.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-269.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-269.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHURCHILL-LANGFORD-HOUSE.csv": [
+            {
+                "start_date": "1928/04",
+                "end_date": "1928/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_12_pt1-page-254.csv",
+            "start_date": "1927/01",
+            "end_date": "1927/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_12_pt1-page-254.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-269.csv",
+            "start_date": "1941/12",
+            "end_date": "1941/13"
+        }
+    ]
+}

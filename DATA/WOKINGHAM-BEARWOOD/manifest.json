@@ -1,0 +1,12 @@
+{
+    "name": "WOKINGHAM-BEARWOOD",
+    "data": {
+        "WOKINGHAM-BEARWOOD.csv": [
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-105.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

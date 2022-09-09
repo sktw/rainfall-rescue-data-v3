@@ -1,0 +1,59 @@
+{
+    "name": "CAERLEON-LLANWERN-HOUSE",
+    "data": {
+        "CAERLEON-LLANWERN-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-080.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-080.csv",
+                "start_date": "1905/02",
+                "end_date": "1905/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-080.csv",
+                "start_date": "1906/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-022.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/05"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-022.csv",
+                "start_date": "1911/07",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-022.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-080.csv",
+            "start_date": "1905/01",
+            "end_date": "1905/01"
+        },
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-080.csv",
+            "start_date": "1905/13",
+            "end_date": "1905/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_22_pt1-page-022.csv",
+            "start_date": "1911/06",
+            "end_date": "1911/06"
+        },
+        {
+            "filename": "TYRain_1910-1919_22_pt1-page-022.csv",
+            "start_date": "1911/13",
+            "end_date": "1911/13"
+        }
+    ]
+}

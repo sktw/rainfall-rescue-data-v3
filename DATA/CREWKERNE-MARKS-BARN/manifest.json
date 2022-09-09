@@ -1,0 +1,22 @@
+{
+    "name": "CREWKERNE-MARKS-BARN",
+    "data": {
+        "CREWKERNE-MARKS-BARN.csv": [
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-148.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_13_pt1-page-008.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-242.csv"
+        }
+    ]
+}

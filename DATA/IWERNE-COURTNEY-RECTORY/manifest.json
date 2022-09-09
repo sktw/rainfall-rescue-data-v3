@@ -1,0 +1,49 @@
+{
+    "name": "IWERNE-COURTNEY-RECTORY",
+    "data": {
+        "IWERNE-COURTNEY-RECTORY.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-122.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-120.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-120.csv",
+                "start_date": "1925/04",
+                "end_date": "1925/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-120.csv",
+                "start_date": "1925/10",
+                "end_date": "1925/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-120.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-120.csv",
+            "start_date": "1925/03",
+            "end_date": "1925/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-120.csv",
+            "start_date": "1925/09",
+            "end_date": "1925/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-120.csv",
+            "start_date": "1925/13",
+            "end_date": "1925/13"
+        }
+    ]
+}

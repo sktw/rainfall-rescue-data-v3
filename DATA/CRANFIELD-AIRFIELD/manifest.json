@@ -1,0 +1,17 @@
+{
+    "name": "CRANFIELD-AIRFIELD",
+    "data": {
+        "CRANFIELD-AIRFIELD.csv": [
+            {
+                "filename": "TYRain_1941-1950_09_pt1-page-051.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-031.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

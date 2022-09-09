@@ -1,0 +1,89 @@
+{
+    "name": "LLANLLYFNI-BRYN-AERAN-SCHOOL",
+    "data": {
+        "LLANLLYFNI-BRYN-AERAN-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-207.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+                "start_date": "1921/09",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+                "start_date": "1922/01",
+                "end_date": "1927/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+                "start_date": "1927/09",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+                "start_date": "1928/01",
+                "end_date": "1929/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+                "start_date": "1929/09",
+                "end_date": "1929/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+                "start_date": "1929/11",
+                "end_date": "1929/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+            "start_date": "1921/08",
+            "end_date": "1921/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+            "start_date": "1927/08",
+            "end_date": "1927/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+            "start_date": "1929/07",
+            "end_date": "1929/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+            "start_date": "1929/10",
+            "end_date": "1929/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_28_pt1-page-027.csv",
+            "start_date": "1929/12",
+            "end_date": "1929/13"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "FORDHAM-WASHINGTON-HOUSE",
+    "data": {
+        "FORDHAM-WASHINGTON-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-233.csv",
+                "start_date": "1914/08",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-233.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "FORDHAM-WASHINGTON-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-218.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-233.csv",
+                "start_date": "1910/01",
+                "end_date": "1914/07"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-233.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-233.csv",
+            "start_date": "1914/13",
+            "end_date": "1914/13"
+        }
+    ]
+}

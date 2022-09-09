@@ -1,0 +1,39 @@
+{
+    "name": "ST-LEONARDS-GILBERT-ROAD-THORNDENE",
+    "data": {
+        "ST-LEONARDS-GILBERT-ROAD-THORNDENE.csv": [
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-195.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-235.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-235.csv",
+                "start_date": "1932/02",
+                "end_date": "1932/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-235.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-235.csv",
+            "start_date": "1932/01",
+            "end_date": "1932/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-235.csv",
+            "start_date": "1932/13",
+            "end_date": "1932/13"
+        }
+    ]
+}

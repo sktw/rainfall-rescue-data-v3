@@ -1,0 +1,17 @@
+{
+    "name": "CRAMOND-BRIDGE-CRAIGIEHALL",
+    "data": {
+        "CRAMOND-BRIDGE-CRAIGIEHALL.csv": [
+            {
+                "filename": "TYRain_1900-1909_27_pt1-page-202.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_26_pt1-page-010.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

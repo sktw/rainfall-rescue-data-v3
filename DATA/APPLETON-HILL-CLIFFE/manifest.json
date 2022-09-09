@@ -1,0 +1,17 @@
+{
+    "name": "APPLETON-HILL-CLIFFE",
+    "data": {
+        "APPLETON-HILL-CLIFFE.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-013.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-172.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

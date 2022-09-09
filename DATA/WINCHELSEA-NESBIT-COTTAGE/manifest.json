@@ -1,0 +1,41 @@
+{
+    "name": "WINCHELSEA-NESBIT-COTTAGE",
+    "data": {
+        "WINCHELSEA-NESBIT-COTTAGE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-189.csv",
+                "start_date": "1910/04",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-189.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "WINCHELSEA-NESBIT-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-189.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/02"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-189.csv",
+                "start_date": "1916/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_04_pt1-page-189.csv",
+            "start_date": "1910/03",
+            "end_date": "1910/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_04_pt1-page-189.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        }
+    ]
+}

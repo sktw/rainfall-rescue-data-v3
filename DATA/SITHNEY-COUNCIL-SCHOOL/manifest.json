@@ -1,0 +1,74 @@
+{
+    "name": "SITHNEY-COUNCIL-SCHOOL",
+    "data": {
+        "SITHNEY-COUNCIL-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-059.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-059.csv",
+                "start_date": "1928/02",
+                "end_date": "1928/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-059.csv",
+                "start_date": "1928/10",
+                "end_date": "1928/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-059.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-010.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-010.csv",
+                "start_date": "1933/06",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-010.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-099.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-059.csv",
+            "start_date": "1928/01",
+            "end_date": "1928/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-059.csv",
+            "start_date": "1928/08",
+            "end_date": "1928/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-059.csv",
+            "start_date": "1928/13",
+            "end_date": "1928/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-010.csv",
+            "start_date": "1932/01",
+            "end_date": "1933/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-010.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        }
+    ]
+}

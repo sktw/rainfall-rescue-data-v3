@@ -1,0 +1,54 @@
+{
+    "name": "CRICCIETH-BRON-EIFION",
+    "data": {
+        "CRICCIETH-BRON-EIFION.csv": [
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-110.csv",
+                "start_date": "1931/03",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-110.csv",
+                "start_date": "1932/01",
+                "end_date": "1939/01"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-110.csv",
+                "start_date": "1939/04",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-110.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_27_pt1-page-183.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-110.csv",
+            "start_date": "1931/01",
+            "end_date": "1931/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-110.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-110.csv",
+            "start_date": "1939/02",
+            "end_date": "1939/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-110.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        }
+    ]
+}

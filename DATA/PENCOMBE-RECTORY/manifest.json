@@ -1,0 +1,30 @@
+{
+    "name": "PENCOMBE-RECTORY",
+    "data": {
+        "PENCOMBE-RECTORY.csv": [
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-045.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_14_pt1-page-195.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-078.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "PENCOMBE-RECTORY.csv": [
+            {
+                "start_date": "1910/12",
+                "end_date": "1910/12"
+            }
+        ]
+    }
+}

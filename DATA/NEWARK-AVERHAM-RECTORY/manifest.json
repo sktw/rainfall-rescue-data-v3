@@ -1,0 +1,54 @@
+{
+    "name": "NEWARK-AVERHAM-RECTORY",
+    "data": {
+        "NEWARK-AVERHAM-RECTORY.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_14_pt1-page-044.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_14_pt1-page-044.csv",
+                "start_date": "1899/03",
+                "end_date": "1899/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-221.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/05"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-221.csv",
+                "start_date": "1901/08",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-221.csv",
+                "start_date": "1902/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_14_pt1-page-044.csv",
+            "start_date": "1899/02",
+            "end_date": "1899/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_14_pt1-page-044.csv",
+            "start_date": "1899/13",
+            "end_date": "1899/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_17_pt1-page-221.csv",
+            "start_date": "1901/06",
+            "end_date": "1901/07"
+        },
+        {
+            "filename": "TYRain_1900-1909_17_pt1-page-221.csv",
+            "start_date": "1901/13",
+            "end_date": "1901/13"
+        }
+    ]
+}

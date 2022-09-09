@@ -1,0 +1,25 @@
+{
+    "name": "CLACTON-ON-SEA-CLACTON-COLLEGE",
+    "data": {
+        "CLACTON-ON-SEA-CLACTON-COLLEGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_09_pt1-page-037.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-130.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "CLACTON-ON-SEA-CLACTON-COLLEGE.csv": [
+            {
+                "start_date": "1907/08",
+                "end_date": "1907/08"
+            }
+        ]
+    }
+}

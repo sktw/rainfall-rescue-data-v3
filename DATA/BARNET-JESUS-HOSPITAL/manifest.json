@@ -1,0 +1,46 @@
+{
+    "name": "BARNET-JESUS-HOSPITAL",
+    "data": {
+        "BARNET-JESUS-HOSPITAL-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-243.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BARNET-JESUS-HOSPITAL-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-241.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-294.csv",
+                "start_date": "1938/01",
+                "end_date": "1938/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-241.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "BARNET-JESUS-HOSPITAL.csv": [
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-244.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-240.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-154.csv"
+        }
+    ]
+}

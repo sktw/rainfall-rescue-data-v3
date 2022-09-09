@@ -1,0 +1,17 @@
+{
+    "name": "KESWICK-BROW-TOP",
+    "data": {
+        "KESWICK-BROW-TOP.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-031.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-049.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

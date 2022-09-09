@@ -1,0 +1,121 @@
+{
+    "name": "UPPINGHAM-SCHOOL",
+    "data": {
+        "UPPINGHAM-SCHOOL-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/01"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1921/07",
+                "end_date": "1921/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1924/01",
+                "end_date": "1924/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1924/12",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1925/01",
+                "end_date": "1929/03"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1929/13",
+                "end_date": "1930/13"
+            }
+        ],
+        "UPPINGHAM-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-053.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-003.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1922/02",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1923/01",
+                "end_date": "1923/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1925/07",
+                "end_date": "1925/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1925/13",
+                "end_date": "1928/01"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1928/04",
+                "end_date": "1928/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1928/08",
+                "end_date": "1928/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1928/13",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+                "start_date": "1929/13",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+            "start_date": "1922/01",
+            "end_date": "1922/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+            "start_date": "1924/11",
+            "end_date": "1924/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-002.csv",
+            "start_date": "1929/04",
+            "end_date": "1929/12"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "WOODBOROUGH",
+    "data": {
+        "WOODBOROUGH.csv": [
+            {
+                "filename": "TYRain_1900-1909_10_pt1-page-131.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-231.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

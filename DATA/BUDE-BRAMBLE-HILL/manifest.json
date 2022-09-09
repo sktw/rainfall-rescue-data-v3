@@ -1,0 +1,51 @@
+{
+    "name": "BUDE-BRAMBLE-HILL",
+    "data": {
+        "BUDE-BRAMBLE-HILL-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-044.csv",
+                "start_date": "1925/01",
+                "end_date": "1925/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-042.csv",
+                "start_date": "1925/06",
+                "end_date": "1925/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-044.csv",
+                "start_date": "1925/13",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-042.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BUDE-BRAMBLE-HILL.csv": [
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-201.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-042.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-042.csv",
+            "start_date": "1925/05",
+            "end_date": "1925/05"
+        },
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-042.csv",
+            "start_date": "1925/13",
+            "end_date": "1925/13"
+        }
+    ]
+}

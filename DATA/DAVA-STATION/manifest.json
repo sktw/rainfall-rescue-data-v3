@@ -1,0 +1,24 @@
+{
+    "name": "DAVA-STATION",
+    "data": {
+        "DAVA-STATION-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-112.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DAVA-STATION.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-086.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-258.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

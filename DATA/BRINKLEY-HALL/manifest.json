@@ -1,0 +1,17 @@
+{
+    "name": "BRINKLEY-HALL",
+    "data": {
+        "BRINKLEY-HALL.csv": [
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-168.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-182.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

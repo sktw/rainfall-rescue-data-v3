@@ -1,0 +1,34 @@
+{
+    "name": "TILSHEAD-THE-MANOR-HOUSE",
+    "data": {
+        "TILSHEAD-THE-MANOR-HOUSE.csv": [
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-039.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-039.csv",
+                "start_date": "1934/02",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-039.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-039.csv",
+            "start_date": "1934/01",
+            "end_date": "1934/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-039.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        }
+    ]
+}

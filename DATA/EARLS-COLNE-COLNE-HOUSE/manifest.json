@@ -1,0 +1,19 @@
+{
+    "name": "EARLS-COLNE-COLNE-HOUSE",
+    "data": {
+        "EARLS-COLNE-COLNE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-276.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_08_pt1-page-276.csv",
+            "start_date": "1930/12",
+            "end_date": "1930/13"
+        }
+    ]
+}

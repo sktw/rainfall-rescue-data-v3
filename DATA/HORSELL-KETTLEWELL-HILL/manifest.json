@@ -1,0 +1,30 @@
+{
+    "name": "HORSELL-KETTLEWELL-HILL",
+    "data": {
+        "HORSELL-KETTLEWELL-HILL.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-187.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-240.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-048.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "HORSELL-KETTLEWELL-HILL.csv": [
+            {
+                "start_date": "1901/08",
+                "end_date": "1901/09"
+            }
+        ]
+    }
+}

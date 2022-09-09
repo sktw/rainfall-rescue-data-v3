@@ -1,0 +1,29 @@
+{
+    "name": "THE-PEAK-NUNGRAIN",
+    "data": {
+        "THE-PEAK-NUNGRAIN.csv": [
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-037.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-046.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "THE-PEAK-NUNGRAIN.csv": [
+            {
+                "start_date": "1902/13",
+                "end_date": "1902/13"
+            },
+            {
+                "start_date": "1903/13",
+                "end_date": "1903/13"
+            }
+        ]
+    }
+}

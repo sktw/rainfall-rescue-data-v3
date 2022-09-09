@@ -1,0 +1,17 @@
+{
+    "name": "ECCLEFECHAN-KIRKCONNEL-HALL",
+    "data": {
+        "ECCLEFECHAN-KIRKCONNEL-HALL.csv": [
+            {
+                "filename": "TYRain_1870-1879_11_pt1-page-031.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-042.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

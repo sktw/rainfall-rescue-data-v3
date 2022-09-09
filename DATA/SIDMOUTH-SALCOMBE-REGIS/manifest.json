@@ -1,0 +1,109 @@
+{
+    "name": "SIDMOUTH-SALCOMBE-REGIS",
+    "data": {
+        "SIDMOUTH-SALCOMBE-REGIS-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+                "start_date": "1913/07",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+                "start_date": "1914/01",
+                "end_date": "1917/08"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+                "start_date": "1917/10",
+                "end_date": "1917/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+                "start_date": "1918/01",
+                "end_date": "1918/08"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+                "start_date": "1918/11",
+                "end_date": "1918/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_11_pt1-page-118.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_11_pt1-page-118.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "SIDMOUTH-SALCOMBE-REGIS.csv": [
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+                "start_date": "1910/02",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+                "start_date": "1911/01",
+                "end_date": "1913/06"
+            }
+        ]
+    },
+    "idr": {
+        "SIDMOUTH-SALCOMBE-REGIS-2.csv": [
+            {
+                "start_date": "1922/10",
+                "end_date": "1922/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_11_pt1-page-118.csv",
+            "start_date": "1922/12",
+            "end_date": "1922/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+            "start_date": "1910/01",
+            "end_date": "1910/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+            "start_date": "1917/09",
+            "end_date": "1917/09"
+        },
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+            "start_date": "1917/13",
+            "end_date": "1917/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+            "start_date": "1918/09",
+            "end_date": "1918/10"
+        },
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-060.csv",
+            "start_date": "1918/13",
+            "end_date": "1918/13"
+        }
+    ]
+}

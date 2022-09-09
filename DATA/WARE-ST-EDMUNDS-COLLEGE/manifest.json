@@ -1,0 +1,24 @@
+{
+    "name": "WARE-ST-EDMUNDS-COLLEGE",
+    "data": {
+        "WARE-ST-EDMUNDS-COLLEGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-198.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-198.csv",
+                "start_date": "1955/02",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_05_pt1-page-198.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/01"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "NEWPORT-LLANGIBBY-CASTLE",
+    "data": {
+        "NEWPORT-LLANGIBBY-CASTLE.csv": [
+            {
+                "filename": "TYRain_1870-1879_10_pt1-page-016.csv",
+                "start_date": "1870/01",
+                "end_date": "1875/08"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt1-page-016.csv",
+                "start_date": "1875/10",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_13_pt1-page-017.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_10_pt1-page-016.csv",
+            "start_date": "1875/09",
+            "end_date": "1875/09"
+        }
+    ]
+}

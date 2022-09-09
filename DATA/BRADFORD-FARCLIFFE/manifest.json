@@ -1,0 +1,17 @@
+{
+    "name": "BRADFORD-FARCLIFFE",
+    "data": {
+        "BRADFORD-FARCLIFFE.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-121.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_10_pt2-page-012.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

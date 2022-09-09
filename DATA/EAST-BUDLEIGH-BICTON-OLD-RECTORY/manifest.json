@@ -1,0 +1,29 @@
+{
+    "name": "EAST-BUDLEIGH-BICTON-OLD-RECTORY",
+    "data": {
+        "EAST-BUDLEIGH-BICTON-OLD-RECTORY.csv": [
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-216.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_11_pt1-page-007.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_11_pt1-page-007.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_11_pt1-page-007.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

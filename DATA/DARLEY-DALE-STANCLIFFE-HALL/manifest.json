@@ -1,0 +1,17 @@
+{
+    "name": "DARLEY-DALE-STANCLIFFE-HALL",
+    "data": {
+        "DARLEY-DALE-STANCLIFFE-HALL.csv": [
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-063.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-034.csv"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "LEIGHTON-BUZZARD-SHENLEY-HOUSE",
+    "data": {
+        "LEIGHTON-BUZZARD-SHENLEY-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-051.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "LEIGHTON-BUZZARD-SHENLEY-HOUSE.csv": [
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-050.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

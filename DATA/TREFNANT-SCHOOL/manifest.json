@@ -1,0 +1,62 @@
+{
+    "name": "TREFNANT-SCHOOL",
+    "data": {
+        "TREFNANT-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_27_pt1-page-146.csv",
+                "start_date": "1922/01",
+                "end_date": "1922/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_27_pt1-page-146.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-303.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-303.csv",
+                "start_date": "1937/10",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-303.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "TREFNANT-SCHOOL.csv": [
+            {
+                "start_date": "1933/08",
+                "end_date": "1933/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_27_pt1-page-146.csv",
+            "start_date": "1920/01",
+            "end_date": "1921/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1920-1930_27_pt1-page-146.csv",
+            "start_date": "1923/01",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_22_pt1-page-303.csv",
+            "start_date": "1937/08",
+            "end_date": "1937/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_22_pt1-page-303.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        }
+    ]
+}

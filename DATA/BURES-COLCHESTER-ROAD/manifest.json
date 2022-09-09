@@ -1,0 +1,24 @@
+{
+    "name": "BURES-COLCHESTER-ROAD",
+    "data": {
+        "BURES-COLCHESTER-ROAD.csv": [
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-090.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-077.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_08_pt1-page-077.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
+}

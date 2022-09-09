@@ -1,0 +1,47 @@
+{
+    "name": "PRINCETOWN-BLACKBROOK-INTAKE",
+    "data": {
+        "PRINCETOWN-BLACKBROOK-INTAKE.csv": [
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-101.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-133.csv",
+                "start_date": "1951/01",
+                "end_date": "1956/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-133.csv",
+                "start_date": "1956/03",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-133.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "PRINCETOWN-BLACKBROOK-INTAKE.csv": [
+            {
+                "start_date": "1951/03",
+                "end_date": "1951/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-133.csv",
+            "start_date": "1956/02",
+            "end_date": "1956/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-133.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

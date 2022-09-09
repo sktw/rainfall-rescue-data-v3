@@ -1,0 +1,29 @@
+{
+    "name": "KINSFORD-GATE-SPAN-HEAD",
+    "data": {
+        "KINSFORD-GATE-SPAN-HEAD.csv": [
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-086.csv",
+                "start_date": "1951/04",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-086.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-086.csv",
+            "start_date": "1951/01",
+            "end_date": "1951/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-086.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        }
+    ]
+}

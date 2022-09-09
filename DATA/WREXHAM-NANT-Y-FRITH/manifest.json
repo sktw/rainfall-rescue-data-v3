@@ -1,0 +1,20 @@
+{
+    "name": "WREXHAM-NANT-Y-FRITH",
+    "data": {
+        "WREXHAM-NANT-Y-FRITH.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_10_pt2-page-033.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "WREXHAM-NANT-Y-FRITH.csv": [
+            {
+                "start_date": "1873/05",
+                "end_date": "1873/05"
+            }
+        ]
+    }
+}

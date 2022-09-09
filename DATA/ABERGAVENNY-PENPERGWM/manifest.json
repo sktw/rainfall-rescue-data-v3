@@ -1,0 +1,29 @@
+{
+    "name": "ABERGAVENNY-PENPERGWM",
+    "data": {
+        "ABERGAVENNY-PENPERGWM.csv": [
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-144.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_25_pt1-page-034.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_25_pt1-page-034.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_25_pt1-page-034.csv",
+            "start_date": "1947/10",
+            "end_date": "1947/13"
+        }
+    ]
+}

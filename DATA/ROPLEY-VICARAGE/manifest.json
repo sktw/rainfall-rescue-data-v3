@@ -1,0 +1,36 @@
+{
+    "name": "ROPLEY-VICARAGE",
+    "data": {
+        "ROPLEY-VICARAGE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-203.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-235.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-235.csv",
+                "start_date": "1922/04",
+                "end_date": "1930/13"
+            }
+        ],
+        "ROPLEY-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-073.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-235.csv",
+            "start_date": "1922/03",
+            "end_date": "1922/03"
+        }
+    ]
+}

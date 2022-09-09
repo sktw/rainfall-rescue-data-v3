@@ -1,0 +1,51 @@
+{
+    "name": "DERWEN-TY-CERRIG",
+    "data": {
+        "DERWEN-TY-CERRIG.csv": [
+            {
+                "filename": "TYRain_1920-1930_27_pt1-page-130.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-286.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-286.csv",
+                "start_date": "1937/11",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_22_pt1-page-286.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "DERWEN-TY-CERRIG.csv": [
+            {
+                "start_date": "1930/13",
+                "end_date": "1930/13"
+            },
+            {
+                "start_date": "1933/13",
+                "end_date": "1933/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_22_pt1-page-286.csv",
+            "start_date": "1937/10",
+            "end_date": "1937/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_22_pt1-page-286.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        }
+    ]
+}

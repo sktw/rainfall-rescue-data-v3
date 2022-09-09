@@ -1,0 +1,17 @@
+{
+    "name": "WITHAM-FREEBOURNES",
+    "data": {
+        "WITHAM-FREEBOURNES.csv": [
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-065.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-059.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "TALYBONT-YSCYTHROG",
+    "data": {
+        "TALYBONT-YSCYTHROG.csv": [
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-101.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-101.csv",
+                "start_date": "1937/13",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-067.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_22_pt1-page-101.csv",
+            "start_date": "1937/11",
+            "end_date": "1937/12"
+        }
+    ]
+}

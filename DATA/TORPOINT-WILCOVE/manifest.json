@@ -1,0 +1,25 @@
+{
+    "name": "TORPOINT-WILCOVE",
+    "data": {
+        "TORPOINT-WILCOVE.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-115.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-066.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "TORPOINT-WILCOVE.csv": [
+            {
+                "start_date": "1934/13",
+                "end_date": "1934/13"
+            }
+        ]
+    }
+}

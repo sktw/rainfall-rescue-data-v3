@@ -1,0 +1,25 @@
+{
+    "name": "ALRESFORD-PLACE",
+    "data": {
+        "ALRESFORD-PLACE.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-244.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-203.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "ALRESFORD-PLACE.csv": [
+            {
+                "start_date": "1925/06",
+                "end_date": "1925/06"
+            }
+        ]
+    }
+}

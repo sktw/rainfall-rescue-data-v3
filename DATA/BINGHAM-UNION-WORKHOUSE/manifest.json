@@ -1,0 +1,45 @@
+{
+    "name": "BINGHAM-UNION-WORKHOUSE",
+    "data": {
+        "BINGHAM-UNION-WORKHOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_04_pt1-page-090.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt1-page-009.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "BINGHAM-UNION-WORKHOUSE.csv": [
+            {
+                "start_date": "1868/13",
+                "end_date": "1868/13"
+            },
+            {
+                "start_date": "1869/13",
+                "end_date": "1869/13"
+            },
+            {
+                "start_date": "1870/13",
+                "end_date": "1870/13"
+            },
+            {
+                "start_date": "1871/13",
+                "end_date": "1871/13"
+            },
+            {
+                "start_date": "1873/13",
+                "end_date": "1873/13"
+            },
+            {
+                "start_date": "1874/13",
+                "end_date": "1874/13"
+            }
+        ]
+    }
+}

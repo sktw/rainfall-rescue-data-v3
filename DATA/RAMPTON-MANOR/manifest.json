@@ -1,0 +1,17 @@
+{
+    "name": "RAMPTON-MANOR",
+    "data": {
+        "RAMPTON-MANOR.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-238.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-197.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

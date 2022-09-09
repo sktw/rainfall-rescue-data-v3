@@ -1,0 +1,53 @@
+{
+    "name": "SNOWDON-LLUCHFA",
+    "data": {
+        "SNOWDON-LLUCHFA.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-160.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-250.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "SNOWDON-LLUCHFA.csv": [
+            {
+                "start_date": "1909/01",
+                "end_date": "1909/04"
+            },
+            {
+                "start_date": "1910/01",
+                "end_date": "1910/03"
+            },
+            {
+                "start_date": "1911/01",
+                "end_date": "1911/05"
+            },
+            {
+                "start_date": "1912/01",
+                "end_date": "1912/02"
+            },
+            {
+                "start_date": "1912/12",
+                "end_date": "1912/12"
+            },
+            {
+                "start_date": "1913/02",
+                "end_date": "1913/04"
+            },
+            {
+                "start_date": "1915/03",
+                "end_date": "1915/03"
+            },
+            {
+                "start_date": "1915/11",
+                "end_date": "1915/12"
+            }
+        ]
+    }
+}

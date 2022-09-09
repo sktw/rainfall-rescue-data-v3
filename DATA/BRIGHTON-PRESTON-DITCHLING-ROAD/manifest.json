@@ -1,0 +1,17 @@
+{
+    "name": "BRIGHTON-PRESTON-DITCHLING-ROAD",
+    "data": {
+        "BRIGHTON-PRESTON-DITCHLING-ROAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-085.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-089.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "CRAGG-WITHENS-CLOUGH-RES",
+    "data": {
+        "CRAGG-WITHENS-CLOUGH-RES-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-110.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "CRAGG-WITHENS-CLOUGH-RES.csv": [
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-102.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-241.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-109.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

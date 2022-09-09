@@ -1,0 +1,17 @@
+{
+    "name": "ROW-GARELOCH",
+    "data": {
+        "ROW-GARELOCH.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-153.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-028.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

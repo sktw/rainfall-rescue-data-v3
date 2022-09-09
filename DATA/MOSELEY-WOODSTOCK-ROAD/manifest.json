@@ -1,0 +1,29 @@
+{
+    "name": "MOSELEY-WOODSTOCK-ROAD",
+    "data": {
+        "MOSELEY-WOODSTOCK-ROAD.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-041.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-164.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/08"
+            },
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-164.csv",
+                "start_date": "1901/13",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_16_pt1-page-164.csv",
+            "start_date": "1901/09",
+            "end_date": "1901/12"
+        }
+    ]
+}

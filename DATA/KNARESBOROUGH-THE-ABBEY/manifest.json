@@ -1,0 +1,30 @@
+{
+    "name": "KNARESBOROUGH-THE-ABBEY",
+    "data": {
+        "KNARESBOROUGH-THE-ABBEY.csv": [
+            {
+                "filename": "TYRain_1910-1919_20_pt1-page-048.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-072.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_19_pt1-page-206.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "KNARESBOROUGH-THE-ABBEY.csv": [
+            {
+                "start_date": "1933/10",
+                "end_date": "1933/10"
+            }
+        ]
+    }
+}

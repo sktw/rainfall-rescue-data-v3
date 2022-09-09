@@ -1,0 +1,17 @@
+{
+    "name": "BENSON-KNOTT",
+    "data": {
+        "BENSON-KNOTT.csv": [
+            {
+                "filename": "TYRain_1677-1886_B_pt1-page-064.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_B_pt1-page-062.csv"
+        }
+    ]
+}

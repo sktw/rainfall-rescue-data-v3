@@ -1,0 +1,17 @@
+{
+    "name": "WESTBURY-HEYWOOD",
+    "data": {
+        "WESTBURY-HEYWOOD.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-268.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_11_pt1-page-128.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

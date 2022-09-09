@@ -1,0 +1,49 @@
+{
+    "name": "PLYMOUTH-EASTERN-KINGS",
+    "data": {
+        "PLYMOUTH-EASTERN-KINGS.csv": [
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-220.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-220.csv",
+                "start_date": "1937/11",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-220.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-004.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-004.csv",
+                "start_date": "1947/05",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-220.csv",
+            "start_date": "1937/01",
+            "end_date": "1937/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-220.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_13_pt1-page-004.csv",
+            "start_date": "1946/01",
+            "end_date": "1947/04"
+        }
+    ]
+}

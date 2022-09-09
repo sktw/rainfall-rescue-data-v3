@@ -1,0 +1,46 @@
+{
+    "name": "NORTON-MANDEVILLE-READINGS",
+    "data": {
+        "NORTON-MANDEVILLE-READINGS-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-037.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/09"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-037.csv",
+                "start_date": "1894/13",
+                "end_date": "1894/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-037.csv",
+                "start_date": "1895/11",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_09_pt1-page-100.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "NORTON-MANDEVILLE-READINGS.csv": [
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-037.csv",
+                "start_date": "1890/01",
+                "end_date": "1895/09"
+            },
+            {
+                "filename": "TYRain_1890-1899_08_pt1-page-037.csv",
+                "start_date": "1895/13",
+                "end_date": "1895/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_08_pt1-page-037.csv",
+            "start_date": "1895/10",
+            "end_date": "1895/10"
+        }
+    ]
+}

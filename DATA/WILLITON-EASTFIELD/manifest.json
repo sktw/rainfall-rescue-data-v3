@@ -1,0 +1,25 @@
+{
+    "name": "WILLITON-EASTFIELD",
+    "data": {
+        "WILLITON-EASTFIELD.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-329.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-100.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "WILLITON-EASTFIELD.csv": [
+            {
+                "start_date": "1940/04",
+                "end_date": "1940/04"
+            }
+        ]
+    }
+}

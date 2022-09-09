@@ -1,0 +1,39 @@
+{
+    "name": "GREAT-CASTERTON-RECTORY",
+    "data": {
+        "GREAT-CASTERTON-RECTORY.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-058.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-009.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/07"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-009.csv",
+                "start_date": "1912/09",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-009.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_16_pt1-page-009.csv",
+            "start_date": "1912/08",
+            "end_date": "1912/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_16_pt1-page-009.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

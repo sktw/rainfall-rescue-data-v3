@@ -1,0 +1,29 @@
+{
+    "name": "NORTHAW-NEWGATE-STREET",
+    "data": {
+        "NORTHAW-NEWGATE-STREET-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt1-page-013.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "NORTHAW-NEWGATE-STREET.csv": [
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-229.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-279.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-301.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

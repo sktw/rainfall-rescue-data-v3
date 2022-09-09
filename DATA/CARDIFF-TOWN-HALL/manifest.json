@@ -1,0 +1,17 @@
+{
+    "name": "CARDIFF-TOWN-HALL",
+    "data": {
+        "CARDIFF-TOWN-HALL.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-012.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt1-page-041.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

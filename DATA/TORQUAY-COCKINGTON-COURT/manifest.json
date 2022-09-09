@@ -1,0 +1,59 @@
+{
+    "name": "TORQUAY-COCKINGTON-COURT",
+    "data": {
+        "TORQUAY-COCKINGTON-COURT.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-033.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/02"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-033.csv",
+                "start_date": "1901/04",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-033.csv",
+                "start_date": "1902/01",
+                "end_date": "1902/03"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-033.csv",
+                "start_date": "1902/05",
+                "end_date": "1902/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-033.csv",
+                "start_date": "1903/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-246.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_12_pt1-page-033.csv",
+            "start_date": "1901/03",
+            "end_date": "1901/03"
+        },
+        {
+            "filename": "TYRain_1900-1909_12_pt1-page-033.csv",
+            "start_date": "1901/13",
+            "end_date": "1901/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_12_pt1-page-033.csv",
+            "start_date": "1902/04",
+            "end_date": "1902/04"
+        },
+        {
+            "filename": "TYRain_1900-1909_12_pt1-page-033.csv",
+            "start_date": "1902/13",
+            "end_date": "1902/13"
+        }
+    ]
+}

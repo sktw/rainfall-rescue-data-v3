@@ -1,0 +1,30 @@
+{
+    "name": "PAPWORTH-EVERARD",
+    "data": {
+        "PAPWORTH-EVERARD.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-031.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_04_pt4-page-003.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_07_pt1-page-026.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "PAPWORTH-EVERARD.csv": [
+            {
+                "start_date": "1880/13",
+                "end_date": "1880/13"
+            }
+        ]
+    }
+}

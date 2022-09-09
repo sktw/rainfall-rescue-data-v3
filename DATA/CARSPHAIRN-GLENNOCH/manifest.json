@@ -1,0 +1,17 @@
+{
+    "name": "CARSPHAIRN-GLENNOCH",
+    "data": {
+        "CARSPHAIRN-GLENNOCH.csv": [
+            {
+                "filename": "TYRain_1920-1930_29_pt1-page-042.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-249.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

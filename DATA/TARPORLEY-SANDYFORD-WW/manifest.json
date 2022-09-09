@@ -1,0 +1,17 @@
+{
+    "name": "TARPORLEY-SANDYFORD-WW",
+    "data": {
+        "TARPORLEY-SANDYFORD-WW.csv": [
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-049.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-089.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

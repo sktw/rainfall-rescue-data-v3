@@ -1,0 +1,364 @@
+{
+    "name": "UPPER-BOOTH",
+    "data": {
+        "UPPER-BOOTH.csv": [
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-064.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-064.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-064.csv",
+                "start_date": "1940/05",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/01"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+                "start_date": "1942/04",
+                "end_date": "1942/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+                "start_date": "1942/10",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+                "start_date": "1943/01",
+                "end_date": "1943/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+                "start_date": "1944/02",
+                "end_date": "1944/03"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+                "start_date": "1944/05",
+                "end_date": "1944/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+                "start_date": "1944/10",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+                "start_date": "1945/02",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1951/04",
+                "end_date": "1951/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1951/07",
+                "end_date": "1951/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1951/09",
+                "end_date": "1951/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1951/11",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1952/02",
+                "end_date": "1952/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1952/12",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1953/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1954/03",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1955/01",
+                "end_date": "1955/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1955/05",
+                "end_date": "1955/08"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1955/11",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1956/03",
+                "end_date": "1956/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1956/11",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1957/01",
+                "end_date": "1957/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1957/06",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1958/01",
+                "end_date": "1958/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1958/11",
+                "end_date": "1958/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1959/01",
+                "end_date": "1959/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1959/05",
+                "end_date": "1959/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1959/08",
+                "end_date": "1959/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1959/11",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+                "start_date": "1960/09",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-064.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-064.csv",
+            "start_date": "1940/04",
+            "end_date": "1940/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-064.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+            "start_date": "1942/02",
+            "end_date": "1942/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+            "start_date": "1942/09",
+            "end_date": "1942/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+            "start_date": "1944/01",
+            "end_date": "1944/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+            "start_date": "1944/04",
+            "end_date": "1944/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+            "start_date": "1944/09",
+            "end_date": "1944/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+            "start_date": "1944/13",
+            "end_date": "1945/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-165.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1951/03",
+            "end_date": "1951/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1951/06",
+            "end_date": "1951/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1951/08",
+            "end_date": "1951/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1951/10",
+            "end_date": "1951/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1951/13",
+            "end_date": "1952/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1952/10",
+            "end_date": "1952/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1955/02",
+            "end_date": "1955/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1955/09",
+            "end_date": "1955/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1955/13",
+            "end_date": "1956/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1956/10",
+            "end_date": "1956/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1957/05",
+            "end_date": "1957/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1958/10",
+            "end_date": "1958/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1958/12",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1959/02",
+            "end_date": "1959/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1959/06",
+            "end_date": "1959/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1959/10",
+            "end_date": "1959/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1960/08",
+            "end_date": "1960/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-190.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

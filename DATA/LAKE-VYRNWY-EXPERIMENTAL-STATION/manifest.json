@@ -1,0 +1,29 @@
+{
+    "name": "LAKE-VYRNWY-EXPERIMENTAL-STATION",
+    "data": {
+        "LAKE-VYRNWY-EXPERIMENTAL-STATION.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_26_pt1-page-194.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-054.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LAKE-VYRNWY-EXPERIMENTAL-STATION.csv": [
+            {
+                "start_date": "1949/03",
+                "end_date": "1949/03"
+            },
+            {
+                "start_date": "1959/07",
+                "end_date": "1959/07"
+            }
+        ]
+    }
+}

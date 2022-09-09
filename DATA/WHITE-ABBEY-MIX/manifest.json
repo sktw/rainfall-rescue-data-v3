@@ -1,0 +1,44 @@
+{
+    "name": "WHITE-ABBEY-MIX",
+    "data": {
+        "WHITE-ABBEY-MIX-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt3-page-011.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "WHITE-ABBEY-MIX-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_38_pt1-page-015.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_28_pt1-page-241.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "WHITE-ABBEY-MIX.csv": [
+            {
+                "filename": "TYRain_1870-1879_13_pt3-page-010.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_17_pt1-page-240.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "WHITE-ABBEY-MIX-3.csv": [
+            {
+                "start_date": "1923/13",
+                "end_date": "1923/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "CARDIFF-WW-CEFN-COED-Y-CYMMER",
+    "data": {
+        "CARDIFF-WW-CEFN-COED-Y-CYMMER.csv": [
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-040.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-007.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-208.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

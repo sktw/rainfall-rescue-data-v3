@@ -1,0 +1,17 @@
+{
+    "name": "UPTON-BISHOP-THE-BACHES",
+    "data": {
+        "UPTON-BISHOP-THE-BACHES.csv": [
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-043.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-056.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

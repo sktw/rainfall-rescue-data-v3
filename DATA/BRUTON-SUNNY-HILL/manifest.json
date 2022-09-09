@@ -1,0 +1,59 @@
+{
+    "name": "BRUTON-SUNNY-HILL",
+    "data": {
+        "BRUTON-SUNNY-HILL.csv": [
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-006.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-086.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/02"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-086.csv",
+                "start_date": "1912/04",
+                "end_date": "1912/05"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-086.csv",
+                "start_date": "1912/07",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-086.csv",
+                "start_date": "1913/01",
+                "end_date": "1916/01"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-086.csv",
+                "start_date": "1916/03",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-086.csv",
+            "start_date": "1912/03",
+            "end_date": "1912/03"
+        },
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-086.csv",
+            "start_date": "1912/06",
+            "end_date": "1912/06"
+        },
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-086.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_13_pt1-page-086.csv",
+            "start_date": "1916/02",
+            "end_date": "1916/02"
+        }
+    ]
+}

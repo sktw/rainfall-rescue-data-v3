@@ -1,0 +1,22 @@
+{
+    "name": "ILFRACOMBE-BICKLEIGHSCOMBE",
+    "data": {
+        "ILFRACOMBE-BICKLEIGHSCOMBE.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-177.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-089.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_11_pt1-page-159.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

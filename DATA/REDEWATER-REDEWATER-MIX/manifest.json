@@ -1,0 +1,63 @@
+{
+    "name": "REDEWATER-REDEWATER-MIX",
+    "data": {
+        "REDEWATER-REDEWATER-MIX-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-204.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-122.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "REDEWATER-REDEWATER-MIX-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-200.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-115.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/04"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-115.csv",
+                "start_date": "1942/06",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-115.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "REDEWATER-REDEWATER-MIX.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-201.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_23_pt1-page-117.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_23_pt1-page-115.csv",
+            "start_date": "1942/05",
+            "end_date": "1942/05"
+        },
+        {
+            "filename": "TYRain_1941-1950_23_pt1-page-115.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        }
+    ]
+}

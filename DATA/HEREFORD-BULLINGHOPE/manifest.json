@@ -1,0 +1,17 @@
+{
+    "name": "HEREFORD-BULLINGHOPE",
+    "data": {
+        "HEREFORD-BULLINGHOPE.csv": [
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-013.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-170.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

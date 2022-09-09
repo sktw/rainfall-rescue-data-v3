@@ -1,0 +1,79 @@
+{
+    "name": "FLIMBY",
+    "data": {
+        "FLIMBY.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_22_pt1-page-091.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-013.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-013.csv",
+                "start_date": "1921/04",
+                "end_date": "1921/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-013.csv",
+                "start_date": "1922/01",
+                "end_date": "1925/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-013.csv",
+                "start_date": "1925/10",
+                "end_date": "1925/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-013.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "FLIMBY.csv": [
+            {
+                "start_date": "1919/06",
+                "end_date": "1919/07"
+            },
+            {
+                "start_date": "1919/09",
+                "end_date": "1919/09"
+            },
+            {
+                "start_date": "1922/06",
+                "end_date": "1922/06"
+            },
+            {
+                "start_date": "1925/11",
+                "end_date": "1925/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_25_pt1-page-013.csv",
+            "start_date": "1921/01",
+            "end_date": "1921/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_25_pt1-page-013.csv",
+            "start_date": "1921/12",
+            "end_date": "1921/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_25_pt1-page-013.csv",
+            "start_date": "1925/09",
+            "end_date": "1925/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_25_pt1-page-013.csv",
+            "start_date": "1925/13",
+            "end_date": "1925/13"
+        }
+    ]
+}

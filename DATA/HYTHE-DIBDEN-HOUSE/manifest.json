@@ -1,0 +1,37 @@
+{
+    "name": "HYTHE-DIBDEN-HOUSE",
+    "data": {
+        "HYTHE-DIBDEN-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_05_pt1-page-098.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-082.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-082.csv",
+                "start_date": "1935/10",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "HYTHE-DIBDEN-HOUSE.csv": [
+            {
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-082.csv",
+            "start_date": "1935/09",
+            "end_date": "1935/09"
+        }
+    ]
+}

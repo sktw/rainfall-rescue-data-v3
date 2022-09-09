@@ -1,0 +1,125 @@
+{
+    "name": "HALWIN-COUNCIL-SCHOOL",
+    "data": {
+        "HALWIN-COUNCIL-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-078.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-078.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-024.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-024.csv",
+                "start_date": "1935/04",
+                "end_date": "1935/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-024.csv",
+                "start_date": "1935/08",
+                "end_date": "1935/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-024.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-113.csv",
+                "start_date": "1941/02",
+                "end_date": "1941/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-113.csv",
+                "start_date": "1941/04",
+                "end_date": "1941/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-113.csv",
+                "start_date": "1941/09",
+                "end_date": "1941/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-113.csv",
+                "start_date": "1941/12",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-113.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "HALWIN-COUNCIL-SCHOOL.csv": [
+            {
+                "start_date": "1936/11",
+                "end_date": "1936/11"
+            },
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            },
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_12_pt1-page-024.csv",
+            "start_date": "1935/03",
+            "end_date": "1935/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_12_pt1-page-024.csv",
+            "start_date": "1935/07",
+            "end_date": "1935/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_12_pt1-page-024.csv",
+            "start_date": "1935/12",
+            "end_date": "1935/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-078.csv",
+            "start_date": "1927/12",
+            "end_date": "1927/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-113.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-113.csv",
+            "start_date": "1941/03",
+            "end_date": "1941/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-113.csv",
+            "start_date": "1941/08",
+            "end_date": "1941/08"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-113.csv",
+            "start_date": "1941/11",
+            "end_date": "1941/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_15_pt1-page-113.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

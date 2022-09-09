@@ -1,0 +1,51 @@
+{
+    "name": "GRINGLEY-CARR-PUMPING-STATION",
+    "data": {
+        "GRINGLEY-CARR-PUMPING-STATION-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-328.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-328.csv",
+                "start_date": "1938/02",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-328.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-071.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-074.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "GRINGLEY-CARR-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-266.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-328.csv",
+            "start_date": "1938/01",
+            "end_date": "1938/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-328.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "KENTISH-TOWN-RESERVOIR-BANK",
+    "data": {
+        "KENTISH-TOWN-RESERVOIR-BANK.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_01_pt1-page-028.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt1-page-008.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "KENTISH-TOWN-RESERVOIR-BANK.csv": [
+            {
+                "start_date": "1872/03",
+                "end_date": "1872/03"
+            },
+            {
+                "start_date": "1872/06",
+                "end_date": "1872/06"
+            },
+            {
+                "start_date": "1872/10",
+                "end_date": "1872/10"
+            },
+            {
+                "start_date": "1875/04",
+                "end_date": "1875/04"
+            },
+            {
+                "start_date": "1877/12",
+                "end_date": "1877/12"
+            }
+        ]
+    }
+}

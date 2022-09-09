@@ -1,0 +1,69 @@
+{
+    "name": "GREENFIELD-CHEW-GREAT-GRUFF",
+    "data": {
+        "GREENFIELD-CHEW-GREAT-GRUFF.csv": [
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-048.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-232.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-245.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-245.csv",
+                "start_date": "1951/04",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-245.csv",
+                "start_date": "1952/01",
+                "end_date": "1953/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-245.csv",
+                "start_date": "1953/03",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-245.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_20_pt1-page-232.csv",
+            "start_date": "1950/12",
+            "end_date": "1950/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-245.csv",
+            "start_date": "1951/02",
+            "end_date": "1951/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-245.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-245.csv",
+            "start_date": "1953/02",
+            "end_date": "1953/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-245.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        }
+    ]
+}

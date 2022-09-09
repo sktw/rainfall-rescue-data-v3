@@ -1,0 +1,41 @@
+{
+    "name": "MORCHARD-BISHOP-RECTORY",
+    "data": {
+        "MORCHARD-BISHOP-RECTORY-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-043.csv",
+                "start_date": "1954/08",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-043.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "MORCHARD-BISHOP-RECTORY.csv": [
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-010.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-043.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-043.csv",
+            "start_date": "1954/07",
+            "end_date": "1954/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-043.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
+}

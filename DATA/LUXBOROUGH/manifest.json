@@ -1,0 +1,42 @@
+{
+    "name": "LUXBOROUGH",
+    "data": {
+        "LUXBOROUGH.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-189.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-189.csv",
+                "start_date": "1958/02",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-189.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "LUXBOROUGH.csv": [
+            {
+                "start_date": "1958/03",
+                "end_date": "1958/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_12_pt1-page-189.csv",
+            "start_date": "1958/01",
+            "end_date": "1958/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_12_pt1-page-189.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "PETWORTH-ROUNDWYCH",
+    "data": {
+        "PETWORTH-ROUNDWYCH.csv": [
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-076.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-076.csv",
+                "start_date": "1921/02",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-076.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-076.csv",
+            "start_date": "1921/01",
+            "end_date": "1921/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_04_pt1-page-076.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        }
+    ]
+}

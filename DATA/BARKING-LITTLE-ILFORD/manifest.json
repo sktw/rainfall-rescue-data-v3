@@ -1,0 +1,12 @@
+{
+    "name": "BARKING-LITTLE-ILFORD",
+    "data": {
+        "BARKING-LITTLE-ILFORD.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt6-page-012.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

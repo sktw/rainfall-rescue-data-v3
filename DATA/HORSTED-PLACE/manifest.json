@@ -1,0 +1,17 @@
+{
+    "name": "HORSTED-PLACE",
+    "data": {
+        "HORSTED-PLACE.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-069.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-129.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

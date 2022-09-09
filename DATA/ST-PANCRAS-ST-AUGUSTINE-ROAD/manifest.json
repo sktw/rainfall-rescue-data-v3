@@ -1,0 +1,24 @@
+{
+    "name": "ST-PANCRAS-ST-AUGUSTINE-ROAD",
+    "data": {
+        "ST-PANCRAS-ST-AUGUSTINE-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-111.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-112.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "ST-PANCRAS-ST-AUGUSTINE-ROAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-110.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

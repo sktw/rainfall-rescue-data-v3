@@ -1,0 +1,17 @@
+{
+    "name": "PEEBLES-KAILZIE",
+    "data": {
+        "PEEBLES-KAILZIE.csv": [
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-083.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-090.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

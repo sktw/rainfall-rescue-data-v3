@@ -1,0 +1,39 @@
+{
+    "name": "CHESTERFIELD-MIDDLE-LINACRE",
+    "data": {
+        "CHESTERFIELD-MIDDLE-LINACRE.csv": [
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-208.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-235.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-235.csv",
+                "start_date": "1958/03",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-235.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-235.csv",
+            "start_date": "1958/02",
+            "end_date": "1958/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-235.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        }
+    ]
+}

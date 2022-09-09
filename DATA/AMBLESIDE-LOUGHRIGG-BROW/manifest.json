@@ -1,0 +1,22 @@
+{
+    "name": "AMBLESIDE-LOUGHRIGG-BROW",
+    "data": {
+        "AMBLESIDE-LOUGHRIGG-BROW.csv": [
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-233.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-064.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_24_pt1-page-052.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

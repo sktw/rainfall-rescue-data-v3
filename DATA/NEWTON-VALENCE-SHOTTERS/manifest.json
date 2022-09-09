@@ -1,0 +1,22 @@
+{
+    "name": "NEWTON-VALENCE-SHOTTERS",
+    "data": {
+        "NEWTON-VALENCE-SHOTTERS.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-276.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-223.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_05_pt1-page-169.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

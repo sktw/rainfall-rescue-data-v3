@@ -1,0 +1,39 @@
+{
+    "name": "WARBLETON-CHURCH-FARM",
+    "data": {
+        "WARBLETON-CHURCH-FARM.csv": [
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-254.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-254.csv",
+                "start_date": "1937/03",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-254.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-190.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-254.csv",
+            "start_date": "1937/01",
+            "end_date": "1937/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-254.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        }
+    ]
+}

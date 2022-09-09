@@ -1,0 +1,42 @@
+{
+    "name": "BROMHAM-PARK-HOUSE",
+    "data": {
+        "BROMHAM-PARK-HOUSE.csv": [
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-058.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-058.csv",
+                "start_date": "1940/02",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_09_pt1-page-063.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "BROMHAM-PARK-HOUSE.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-058.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-058.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        }
+    ]
+}

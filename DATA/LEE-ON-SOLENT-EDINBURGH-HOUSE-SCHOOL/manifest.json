@@ -1,0 +1,25 @@
+{
+    "name": "LEE-ON-SOLENT-EDINBURGH-HOUSE-SCHOOL",
+    "data": {
+        "LEE-ON-SOLENT-EDINBURGH-HOUSE-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-159.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-131.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "LEE-ON-SOLENT-EDINBURGH-HOUSE-SCHOOL.csv": [
+            {
+                "start_date": "1934/02",
+                "end_date": "1934/02"
+            }
+        ]
+    }
+}

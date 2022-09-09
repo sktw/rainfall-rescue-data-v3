@@ -1,0 +1,24 @@
+{
+    "name": "CRANFIELD-SCHOOL",
+    "data": {
+        "CRANFIELD-SCHOOL-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-148.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-164.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CRANFIELD-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_02_pt3-page-067.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

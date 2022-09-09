@@ -1,0 +1,34 @@
+{
+    "name": "ELY-LITTLEPORT",
+    "data": {
+        "ELY-LITTLEPORT-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-034.csv",
+                "start_date": "1870/01",
+                "end_date": "1875/08"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-034.csv",
+                "start_date": "1875/13",
+                "end_date": "1875/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-034.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "ELY-LITTLEPORT.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-034.csv",
+                "start_date": "1870/01",
+                "end_date": "1878/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_04_pt4-page-009.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

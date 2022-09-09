@@ -1,0 +1,12 @@
+{
+    "name": "ST-ABBS-NORTHFIELD",
+    "data": {
+        "ST-ABBS-NORTHFIELD.csv": [
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-223.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

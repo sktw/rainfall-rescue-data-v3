@@ -1,0 +1,22 @@
+{
+    "name": "STEVENAGE-SIX-HILLS",
+    "data": {
+        "STEVENAGE-SIX-HILLS.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-038.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-199.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-209.csv"
+        }
+    ]
+}

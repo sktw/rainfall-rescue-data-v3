@@ -1,0 +1,17 @@
+{
+    "name": "WESTHIDE-THE-COURT",
+    "data": {
+        "WESTHIDE-THE-COURT.csv": [
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-209.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-035.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "name": "BRADFORD-GRANGE-ROAD-HORTON",
+    "data": {
+        "BRADFORD-GRANGE-ROAD-HORTON-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-062.csv",
+                "start_date": "1903/06",
+                "end_date": "1903/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-062.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_19_pt1-page-294.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-147.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-090.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "BRADFORD-GRANGE-ROAD-HORTON.csv": [
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-007.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-062.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/04"
+            }
+        ]
+    },
+    "idr": {
+        "BRADFORD-GRANGE-ROAD-HORTON-2.csv": [
+            {
+                "start_date": "1919/03",
+                "end_date": "1919/03"
+            }
+        ],
+        "BRADFORD-GRANGE-ROAD-HORTON.csv": [
+            {
+                "start_date": "1903/01",
+                "end_date": "1903/04"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_21_pt1-page-062.csv",
+            "start_date": "1903/05",
+            "end_date": "1903/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_21_pt1-page-062.csv",
+            "start_date": "1903/13",
+            "end_date": "1903/13"
+        }
+    ]
+}

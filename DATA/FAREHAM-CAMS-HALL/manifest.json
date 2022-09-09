@@ -1,0 +1,22 @@
+{
+    "name": "FAREHAM-CAMS-HALL",
+    "data": {
+        "FAREHAM-CAMS-HALL.csv": [
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-048.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-191.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-132.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

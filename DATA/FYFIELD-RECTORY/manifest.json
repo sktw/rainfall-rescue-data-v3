@@ -1,0 +1,30 @@
+{
+    "name": "FYFIELD-RECTORY",
+    "data": {
+        "FYFIELD-RECTORY.csv": [
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-108.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-140.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_05_pt1-page-112.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "FYFIELD-RECTORY.csv": [
+            {
+                "start_date": "1932/13",
+                "end_date": "1932/13"
+            }
+        ]
+    }
+}

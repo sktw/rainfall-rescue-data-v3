@@ -1,0 +1,69 @@
+{
+    "name": "MUCH-HADHAM-THE-LORDSHIP",
+    "data": {
+        "MUCH-HADHAM-THE-LORDSHIP.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-017.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-017.csv",
+                "start_date": "1926/02",
+                "end_date": "1926/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-017.csv",
+                "start_date": "1926/07",
+                "end_date": "1926/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-017.csv",
+                "start_date": "1927/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-026.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-026.csv",
+                "start_date": "1931/06",
+                "end_date": "1931/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-026.csv",
+                "start_date": "1932/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-017.csv",
+            "start_date": "1926/01",
+            "end_date": "1926/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-017.csv",
+            "start_date": "1926/06",
+            "end_date": "1926/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_07_pt1-page-017.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-026.csv",
+            "start_date": "1931/04",
+            "end_date": "1931/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_07_pt1-page-026.csv",
+            "start_date": "1931/12",
+            "end_date": "1931/13"
+        }
+    ]
+}

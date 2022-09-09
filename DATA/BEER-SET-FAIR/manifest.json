@@ -1,0 +1,12 @@
+{
+    "name": "BEER-SET-FAIR",
+    "data": {
+        "BEER-SET-FAIR.csv": [
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-013.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

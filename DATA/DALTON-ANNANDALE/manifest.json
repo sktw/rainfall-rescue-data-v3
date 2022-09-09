@@ -1,0 +1,20 @@
+{
+    "name": "DALTON-ANNANDALE",
+    "data": {
+        "DALTON-ANNANDALE.csv": [
+            {
+                "filename": "ERROR_TYRain_1850-1859_H_pt1-page-058.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    },
+    "idr": {
+        "DALTON-ANNANDALE.csv": [
+            {
+                "start_date": "1854/03",
+                "end_date": "1854/03"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "WELLS-ST-CUTHBERTS-LODGE",
+    "data": {
+        "WELLS-ST-CUTHBERTS-LODGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-222.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-190.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-190.csv",
+                "start_date": "1933/07",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-190.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-244.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-190.csv",
+            "start_date": "1933/01",
+            "end_date": "1933/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-190.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        }
+    ]
+}

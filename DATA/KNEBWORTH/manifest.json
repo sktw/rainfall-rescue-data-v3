@@ -1,0 +1,26 @@
+{
+    "name": "KNEBWORTH",
+    "data": {
+        "KNEBWORTH-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-059.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "KNEBWORTH.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-140.csv",
+                "start_date": "1850/01",
+                "end_date": "1858/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1850-1859_G_pt1-page-140.csv",
+            "start_date": "1859/01",
+            "end_date": "1859/13"
+        }
+    ]
+}

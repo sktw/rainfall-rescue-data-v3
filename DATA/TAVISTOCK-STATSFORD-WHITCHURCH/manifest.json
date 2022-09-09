@@ -1,0 +1,29 @@
+{
+    "name": "TAVISTOCK-STATSFORD-WHITCHURCH",
+    "data": {
+        "TAVISTOCK-STATSFORD-WHITCHURCH-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-028.csv",
+                "start_date": "1898/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-118.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-163.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "TAVISTOCK-STATSFORD-WHITCHURCH.csv": [
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-028.csv",
+                "start_date": "1890/01",
+                "end_date": "1897/13"
+            }
+        ]
+    }
+}

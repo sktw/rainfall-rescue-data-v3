@@ -1,0 +1,24 @@
+{
+    "name": "WORTHING-CORPORATION-OBSERVATORY",
+    "data": {
+        "WORTHING-CORPORATION-OBSERVATORY-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-073.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "WORTHING-CORPORATION-OBSERVATORY.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-073.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-073.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

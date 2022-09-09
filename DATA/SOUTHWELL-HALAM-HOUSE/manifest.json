@@ -1,0 +1,29 @@
+{
+    "name": "SOUTHWELL-HALAM-HOUSE",
+    "data": {
+        "SOUTHWELL-HALAM-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-180.csv",
+                "start_date": "1915/09",
+                "end_date": "1919/13"
+            }
+        ],
+        "SOUTHWELL-HALAM-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_17_pt1-page-223.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-180.csv",
+                "start_date": "1910/01",
+                "end_date": "1915/08"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-180.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

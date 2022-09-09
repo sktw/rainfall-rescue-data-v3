@@ -1,0 +1,20 @@
+{
+    "name": "DULVERTON-THE-COTTAGE",
+    "data": {
+        "DULVERTON-THE-COTTAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-224.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "DULVERTON-THE-COTTAGE.csv": [
+            {
+                "start_date": "1955/12",
+                "end_date": "1955/12"
+            }
+        ]
+    }
+}

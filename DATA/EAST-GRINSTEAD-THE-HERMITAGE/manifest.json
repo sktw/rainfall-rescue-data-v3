@@ -1,0 +1,12 @@
+{
+    "name": "EAST-GRINSTEAD-THE-HERMITAGE",
+    "data": {
+        "EAST-GRINSTEAD-THE-HERMITAGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-125.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "CONWAY-MORFA",
+    "data": {
+        "CONWAY-MORFA.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-105.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

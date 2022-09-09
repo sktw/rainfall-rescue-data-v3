@@ -1,0 +1,24 @@
+{
+    "name": "ESSENDON-BEDWELL-PARK",
+    "data": {
+        "ESSENDON-BEDWELL-PARK.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-164.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-164.csv",
+                "start_date": "1954/13",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_05_pt1-page-164.csv",
+            "start_date": "1954/05",
+            "end_date": "1954/12"
+        }
+    ]
+}

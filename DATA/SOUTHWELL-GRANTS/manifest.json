@@ -1,0 +1,49 @@
+{
+    "name": "SOUTHWELL-GRANTS",
+    "data": {
+        "SOUTHWELL-GRANTS.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_08_pt2-page-038.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_08_pt2-page-038.csv",
+                "start_date": "1885/01",
+                "end_date": "1886/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_08_pt2-page-038.csv",
+                "start_date": "1887/02",
+                "end_date": "1887/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_08_pt2-page-038.csv",
+                "start_date": "1888/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-043.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_08_pt2-page-038.csv",
+            "start_date": "1884/01",
+            "end_date": "1884/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_08_pt2-page-038.csv",
+            "start_date": "1887/01",
+            "end_date": "1887/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_08_pt2-page-038.csv",
+            "start_date": "1887/13",
+            "end_date": "1887/13"
+        }
+    ]
+}

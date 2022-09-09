@@ -1,0 +1,22 @@
+{
+    "name": "LANGSETT-MOOR-RANGE-MOOR",
+    "data": {
+        "LANGSETT-MOOR-RANGE-MOOR.csv": [
+            {
+                "filename": "TYRain_1890-1899_16_pt1-page-239.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_20_pt1-page-130.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_19_pt1-page-125.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

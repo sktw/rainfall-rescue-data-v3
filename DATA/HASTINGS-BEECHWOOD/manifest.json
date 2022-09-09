@@ -1,0 +1,34 @@
+{
+    "name": "HASTINGS-BEECHWOOD",
+    "data": {
+        "HASTINGS-BEECHWOOD.csv": [
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-242.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-242.csv",
+                "start_date": "1933/02",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_04_pt1-page-242.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-242.csv",
+            "start_date": "1933/01",
+            "end_date": "1933/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_04_pt1-page-242.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        }
+    ]
+}

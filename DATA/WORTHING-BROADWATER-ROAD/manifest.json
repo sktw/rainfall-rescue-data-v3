@@ -1,0 +1,12 @@
+{
+    "name": "WORTHING-BROADWATER-ROAD",
+    "data": {
+        "WORTHING-BROADWATER-ROAD.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-043.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

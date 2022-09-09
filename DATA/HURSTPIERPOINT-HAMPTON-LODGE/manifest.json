@@ -1,0 +1,39 @@
+{
+    "name": "HURSTPIERPOINT-HAMPTON-LODGE",
+    "data": {
+        "HURSTPIERPOINT-HAMPTON-LODGE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-072.csv",
+                "start_date": "1890/01",
+                "end_date": "1891/09"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-072.csv",
+                "start_date": "1891/13",
+                "end_date": "1891/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-072.csv",
+                "start_date": "1898/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "HURSTPIERPOINT-HAMPTON-LODGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-072.csv",
+                "start_date": "1890/01",
+                "end_date": "1897/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-072.csv",
+                "start_date": "1898/03",
+                "end_date": "1898/04"
+            },
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-072.csv",
+                "start_date": "1898/11",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

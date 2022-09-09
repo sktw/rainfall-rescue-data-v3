@@ -1,0 +1,17 @@
+{
+    "name": "ASPLEY-GUISE-HAYFIELD-HOUSE",
+    "data": {
+        "ASPLEY-GUISE-HAYFIELD-HOUSE.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-013.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_02_pt3-page-059.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

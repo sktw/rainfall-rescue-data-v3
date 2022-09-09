@@ -1,0 +1,37 @@
+{
+    "name": "MARGARETTING-FURZE-HILL",
+    "data": {
+        "MARGARETTING-FURZE-HILL.csv": [
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-232.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-101.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-101.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "MARGARETTING-FURZE-HILL.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_10_pt1-page-101.csv",
+            "start_date": "1941/12",
+            "end_date": "1941/13"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "WOKING-PYRFORD-CROFT",
+    "data": {
+        "WOKING-PYRFORD-CROFT.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-183.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-236.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-042.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

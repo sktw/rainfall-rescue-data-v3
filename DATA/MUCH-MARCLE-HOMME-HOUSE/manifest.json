@@ -1,0 +1,25 @@
+{
+    "name": "MUCH-MARCLE-HOMME-HOUSE",
+    "data": {
+        "MUCH-MARCLE-HOMME-HOUSE.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt4-page-038.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-044.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "MUCH-MARCLE-HOMME-HOUSE.csv": [
+            {
+                "start_date": "1898/04",
+                "end_date": "1898/04"
+            }
+        ]
+    }
+}

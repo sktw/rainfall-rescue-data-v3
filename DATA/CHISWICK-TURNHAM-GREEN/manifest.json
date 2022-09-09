@@ -1,0 +1,142 @@
+{
+    "name": "CHISWICK-TURNHAM-GREEN",
+    "data": {
+        "CHISWICK-TURNHAM-GREEN.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-129.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-141.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-140.csv",
+                "start_date": "1921/01",
+                "end_date": "1922/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-141.csv",
+                "start_date": "1922/07",
+                "end_date": "1922/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-140.csv",
+                "start_date": "1922/09",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-141.csv",
+                "start_date": "1922/13",
+                "end_date": "1924/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-140.csv",
+                "start_date": "1924/05",
+                "end_date": "1924/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-141.csv",
+                "start_date": "1924/07",
+                "end_date": "1924/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-140.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-128.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-128.csv",
+                "start_date": "1940/04",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-023.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-023.csv",
+                "start_date": "1945/01",
+                "end_date": "1947/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-023.csv",
+                "start_date": "1947/07",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-023.csv",
+                "start_date": "1948/01",
+                "end_date": "1948/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-023.csv",
+                "start_date": "1949/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHISWICK-TURNHAM-GREEN.csv": [
+            {
+                "start_date": "1947/02",
+                "end_date": "1947/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-141.csv",
+            "start_date": "1921/01",
+            "end_date": "1922/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-141.csv",
+            "start_date": "1922/09",
+            "end_date": "1922/12"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-141.csv",
+            "start_date": "1924/05",
+            "end_date": "1924/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_06_pt1-page-128.csv",
+            "start_date": "1939/12",
+            "end_date": "1940/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_06_pt1-page-128.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-023.csv",
+            "start_date": "1944/12",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-023.csv",
+            "start_date": "1947/06",
+            "end_date": "1947/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-023.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-023.csv",
+            "start_date": "1948/12",
+            "end_date": "1948/13"
+        }
+    ]
+}

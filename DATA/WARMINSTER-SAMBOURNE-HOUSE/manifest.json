@@ -1,0 +1,25 @@
+{
+    "name": "WARMINSTER-SAMBOURNE-HOUSE",
+    "data": {
+        "WARMINSTER-SAMBOURNE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-032.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_11_pt1-page-188.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "WARMINSTER-SAMBOURNE-HOUSE.csv": [
+            {
+                "start_date": "1942/08",
+                "end_date": "1942/08"
+            }
+        ]
+    }
+}

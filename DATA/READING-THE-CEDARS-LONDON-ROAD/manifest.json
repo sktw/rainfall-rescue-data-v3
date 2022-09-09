@@ -1,0 +1,24 @@
+{
+    "name": "READING-THE-CEDARS-LONDON-ROAD",
+    "data": {
+        "READING-THE-CEDARS-LONDON-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-060.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "READING-THE-CEDARS-LONDON-ROAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-046.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-060.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/13"
+            }
+        ]
+    }
+}

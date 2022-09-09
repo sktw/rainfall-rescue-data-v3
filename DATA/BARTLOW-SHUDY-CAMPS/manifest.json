@@ -1,0 +1,49 @@
+{
+    "name": "BARTLOW-SHUDY-CAMPS",
+    "data": {
+        "BARTLOW-SHUDY-CAMPS.csv": [
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-191.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-191.csv",
+                "start_date": "1914/02",
+                "end_date": "1914/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-191.csv",
+                "start_date": "1915/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-073.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-073.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-191.csv",
+            "start_date": "1914/01",
+            "end_date": "1914/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-191.csv",
+            "start_date": "1914/13",
+            "end_date": "1914/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_08_pt1-page-073.csv",
+            "start_date": "1927/12",
+            "end_date": "1927/13"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "GRENOSIDE-COUNCIL-OFFICES",
+    "data": {
+        "GRENOSIDE-COUNCIL-OFFICES.csv": [
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-067.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-067.csv",
+                "start_date": "1952/05",
+                "end_date": "1952/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-067.csv",
+                "start_date": "1952/11",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-067.csv",
+                "start_date": "1953/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-067.csv",
+            "start_date": "1952/03",
+            "end_date": "1952/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-067.csv",
+            "start_date": "1952/10",
+            "end_date": "1952/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-067.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        }
+    ]
+}

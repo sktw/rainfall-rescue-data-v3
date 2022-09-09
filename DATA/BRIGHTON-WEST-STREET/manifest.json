@@ -1,0 +1,20 @@
+{
+    "name": "BRIGHTON-WEST-STREET",
+    "data": {
+        "BRIGHTON-WEST-STREET.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-054.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRIGHTON-WEST-STREET.csv": [
+            {
+                "start_date": "1790/03",
+                "end_date": "1790/03"
+            }
+        ]
+    }
+}

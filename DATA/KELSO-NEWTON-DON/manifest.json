@@ -1,0 +1,12 @@
+{
+    "name": "KELSO-NEWTON-DON",
+    "data": {
+        "KELSO-NEWTON-DON.csv": [
+            {
+                "filename": "TYRain_1890-1899_23_pt1-page-100.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

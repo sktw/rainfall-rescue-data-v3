@@ -1,0 +1,12 @@
+{
+    "name": "HAWICK-FALNASH",
+    "data": {
+        "HAWICK-FALNASH.csv": [
+            {
+                "filename": "TYRain_1860-1869_07_pt1-page-044.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

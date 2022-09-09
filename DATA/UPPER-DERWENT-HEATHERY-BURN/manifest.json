@@ -1,0 +1,64 @@
+{
+    "name": "UPPER-DERWENT-HEATHERY-BURN",
+    "data": {
+        "UPPER-DERWENT-HEATHERY-BURN.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+                "start_date": "1952/11",
+                "end_date": "1953/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+                "start_date": "1953/07",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+                "start_date": "1954/01",
+                "end_date": "1956/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+                "start_date": "1956/11",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+            "start_date": "1952/09",
+            "end_date": "1952/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+            "start_date": "1953/05",
+            "end_date": "1953/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+            "start_date": "1956/09",
+            "end_date": "1956/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_22_pt1-page-193.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

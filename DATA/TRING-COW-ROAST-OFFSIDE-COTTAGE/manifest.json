@@ -1,0 +1,29 @@
+{
+    "name": "TRING-COW-ROAST-OFFSIDE-COTTAGE",
+    "data": {
+        "TRING-COW-ROAST-OFFSIDE-COTTAGE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-034.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-034.csv",
+                "start_date": "1896/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-221.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "TRING-COW-ROAST-OFFSIDE-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-034.csv",
+                "start_date": "1890/01",
+                "end_date": "1895/13"
+            }
+        ]
+    }
+}

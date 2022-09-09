@@ -1,0 +1,20 @@
+{
+    "name": "LAPWORTH-RECTORY",
+    "data": {
+        "LAPWORTH-RECTORY.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_16_pt1-page-073.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "LAPWORTH-RECTORY.csv": [
+            {
+                "start_date": "1923/13",
+                "end_date": "1923/13"
+            }
+        ]
+    }
+}

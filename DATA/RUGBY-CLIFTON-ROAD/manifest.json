@@ -1,0 +1,29 @@
+{
+    "name": "RUGBY-CLIFTON-ROAD",
+    "data": {
+        "RUGBY-CLIFTON-ROAD.csv": [
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-048.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-048.csv",
+                "start_date": "1944/10",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_15_pt1-page-043.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_17_pt1-page-048.csv",
+            "start_date": "1944/07",
+            "end_date": "1944/09"
+        }
+    ]
+}

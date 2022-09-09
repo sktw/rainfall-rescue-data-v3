@@ -1,0 +1,29 @@
+{
+    "name": "ST-GERMANS-FAIRFIELD",
+    "data": {
+        "ST-GERMANS-FAIRFIELD.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_13_pt1-page-013.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-267.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "ST-GERMANS-FAIRFIELD.csv": [
+            {
+                "start_date": "1907/13",
+                "end_date": "1907/13"
+            },
+            {
+                "start_date": "1909/08",
+                "end_date": "1909/08"
+            }
+        ]
+    }
+}

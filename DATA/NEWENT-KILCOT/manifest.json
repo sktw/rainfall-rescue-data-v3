@@ -1,0 +1,25 @@
+{
+    "name": "NEWENT-KILCOT",
+    "data": {
+        "NEWENT-KILCOT.csv": [
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-062.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_13_pt1-page-149.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "NEWENT-KILCOT.csv": [
+            {
+                "start_date": "1960/13",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

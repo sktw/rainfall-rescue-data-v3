@@ -1,0 +1,17 @@
+{
+    "name": "SUNDERLAND-THE-HALL",
+    "data": {
+        "SUNDERLAND-THE-HALL.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-232.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_05_pt2-page-035.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

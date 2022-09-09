@@ -1,0 +1,29 @@
+{
+    "name": "NEW-RADNOR-RECTORY",
+    "data": {
+        "NEW-RADNOR-RECTORY.csv": [
+            {
+                "filename": "TYRain_1941-1950_26_pt1-page-114.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-319.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-319.csv",
+                "start_date": "1953/11",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-319.csv",
+            "start_date": "1953/10",
+            "end_date": "1953/10"
+        }
+    ]
+}

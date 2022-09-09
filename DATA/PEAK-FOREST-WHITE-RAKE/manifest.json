@@ -1,0 +1,64 @@
+{
+    "name": "PEAK-FOREST-WHITE-RAKE",
+    "data": {
+        "PEAK-FOREST-WHITE-RAKE.csv": [
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+                "start_date": "1955/04",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+                "start_date": "1956/01",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+                "start_date": "1958/02",
+                "end_date": "1958/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+                "start_date": "1958/11",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+            "start_date": "1955/03",
+            "end_date": "1955/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+            "start_date": "1958/01",
+            "end_date": "1958/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+            "start_date": "1958/10",
+            "end_date": "1958/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-166.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "MINEHEAD-ALCOMBE",
+    "data": {
+        "MINEHEAD-ALCOMBE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-176.csv",
+                "start_date": "1900/10",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-176.csv",
+                "start_date": "1901/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "MINEHEAD-ALCOMBE.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-118.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-176.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-176.csv",
+            "start_date": "1900/09",
+            "end_date": "1900/09"
+        },
+        {
+            "filename": "TYRain_1900-1909_13_pt1-page-176.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "LEICESTER-INSTITUTION",
+    "data": {
+        "LEICESTER-INSTITUTION.csv": [
+            {
+                "filename": "TYRain_1840-1849_D_pt2-page-183.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    }
+}

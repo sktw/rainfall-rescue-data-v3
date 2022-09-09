@@ -1,0 +1,25 @@
+{
+    "name": "ASHOPTON-INN",
+    "data": {
+        "ASHOPTON-INN.csv": [
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-049.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_17_pt1-page-031.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "ASHOPTON-INN.csv": [
+            {
+                "start_date": "1903/13",
+                "end_date": "1903/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "ELGIN-NEWTON-NURSERY",
+    "data": {
+        "ELGIN-NEWTON-NURSERY.csv": [
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-206.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-108.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

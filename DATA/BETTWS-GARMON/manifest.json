@@ -1,0 +1,24 @@
+{
+    "name": "BETTWS-GARMON",
+    "data": {
+        "BETTWS-GARMON-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-034.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-087.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "BETTWS-GARMON.csv": [
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-035.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

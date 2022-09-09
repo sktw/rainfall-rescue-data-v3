@@ -1,0 +1,12 @@
+{
+    "name": "EARLS-COLNE",
+    "data": {
+        "EARLS-COLNE.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-045.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

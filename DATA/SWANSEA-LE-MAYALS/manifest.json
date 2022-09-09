@@ -1,0 +1,39 @@
+{
+    "name": "SWANSEA-LE-MAYALS",
+    "data": {
+        "SWANSEA-LE-MAYALS.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-052.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-125.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/08"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-125.csv",
+                "start_date": "1903/12",
+                "end_date": "1903/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-125.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-125.csv",
+            "start_date": "1903/09",
+            "end_date": "1903/11"
+        },
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-125.csv",
+            "start_date": "1903/13",
+            "end_date": "1903/13"
+        }
+    ]
+}

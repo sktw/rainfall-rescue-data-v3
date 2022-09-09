@@ -1,0 +1,59 @@
+{
+    "name": "WOKINGHAM-PINEWOOD",
+    "data": {
+        "WOKINGHAM-PINEWOOD.csv": [
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-008.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-015.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/08"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-015.csv",
+                "start_date": "1910/10",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-015.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-020.csv",
+                "start_date": "1920/02",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-020.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_06_pt1-page-015.csv",
+            "start_date": "1910/09",
+            "end_date": "1910/09"
+        },
+        {
+            "filename": "TYRain_1910-1919_06_pt1-page-015.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-020.csv",
+            "start_date": "1920/01",
+            "end_date": "1920/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-020.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        }
+    ]
+}

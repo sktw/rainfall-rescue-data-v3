@@ -1,0 +1,25 @@
+{
+    "name": "LLANDAFF-HOWELLS-SCHOOL",
+    "data": {
+        "LLANDAFF-HOWELLS-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_24_pt1-page-161.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-057.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "LLANDAFF-HOWELLS-SCHOOL.csv": [
+            {
+                "start_date": "1908/13",
+                "end_date": "1908/13"
+            }
+        ]
+    }
+}

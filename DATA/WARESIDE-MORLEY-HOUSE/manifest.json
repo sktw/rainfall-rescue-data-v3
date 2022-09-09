@@ -1,0 +1,39 @@
+{
+    "name": "WARESIDE-MORLEY-HOUSE",
+    "data": {
+        "WARESIDE-MORLEY-HOUSE.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-016.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-182.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/02"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-182.csv",
+                "start_date": "1942/05",
+                "end_date": "1942/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-182.csv",
+                "start_date": "1942/09",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-182.csv",
+            "start_date": "1942/03",
+            "end_date": "1942/04"
+        },
+        {
+            "filename": "TYRain_1941-1950_07_pt1-page-182.csv",
+            "start_date": "1942/08",
+            "end_date": "1942/08"
+        }
+    ]
+}

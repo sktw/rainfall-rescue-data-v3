@@ -1,0 +1,17 @@
+{
+    "name": "HEMEL-HEMPSTEAD-CHURCH-CROFT",
+    "data": {
+        "HEMEL-HEMPSTEAD-CHURCH-CROFT.csv": [
+            {
+                "filename": "TYRain_1900-1909_06_pt1-page-207.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-248.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

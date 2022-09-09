@@ -1,0 +1,57 @@
+{
+    "name": "SNOWDON-PEN-Y-PASS-GORPHWYSFA-HOTEL",
+    "data": {
+        "SNOWDON-PEN-Y-PASS-GORPHWYSFA-HOTEL.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-167.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-167.csv",
+                "start_date": "1907/03",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-256.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/10"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-256.csv",
+                "start_date": "1911/12",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-256.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "SNOWDON-PEN-Y-PASS-GORPHWYSFA-HOTEL.csv": [
+            {
+                "start_date": "1912/01",
+                "end_date": "1912/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_26_pt1-page-167.csv",
+            "start_date": "1907/01",
+            "end_date": "1907/02"
+        },
+        {
+            "filename": "TYRain_1910-1919_24_pt1-page-256.csv",
+            "start_date": "1911/11",
+            "end_date": "1911/11"
+        },
+        {
+            "filename": "TYRain_1910-1919_24_pt1-page-256.csv",
+            "start_date": "1911/13",
+            "end_date": "1911/13"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "KIRK-MICHAEL-BISHOPS-COURT",
+    "data": {
+        "KIRK-MICHAEL-BISHOPS-COURT.csv": [
+            {
+                "filename": "TYRain_1890-1899_22_pt1-page-014.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-195.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-012.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-113.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

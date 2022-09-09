@@ -1,0 +1,57 @@
+{
+    "name": "ONGAR-FOLYATS",
+    "data": {
+        "ONGAR-FOLYATS.csv": [
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-057.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-185.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-185.csv",
+                "start_date": "1923/05",
+                "end_date": "1923/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-185.csv",
+                "start_date": "1923/09",
+                "end_date": "1923/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-185.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "ONGAR-FOLYATS.csv": [
+            {
+                "start_date": "1921/10",
+                "end_date": "1921/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_08_pt1-page-185.csv",
+            "start_date": "1923/03",
+            "end_date": "1923/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_08_pt1-page-185.csv",
+            "start_date": "1923/08",
+            "end_date": "1923/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_08_pt1-page-185.csv",
+            "start_date": "1923/13",
+            "end_date": "1923/13"
+        }
+    ]
+}

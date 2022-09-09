@@ -1,0 +1,44 @@
+{
+    "name": "PEEBLES-HYDRO",
+    "data": {
+        "PEEBLES-HYDRO.csv": [
+            {
+                "filename": "TYRain_1920-1930_29_pt1-page-140.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/01"
+            },
+            {
+                "filename": "TYRain_1920-1930_29_pt1-page-140.csv",
+                "start_date": "1930/04",
+                "end_date": "1930/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_29_pt1-page-140.csv",
+                "start_date": "1930/08",
+                "end_date": "1930/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_24_pt1-page-020.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_29_pt1-page-140.csv",
+            "start_date": "1930/02",
+            "end_date": "1930/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_29_pt1-page-140.csv",
+            "start_date": "1930/06",
+            "end_date": "1930/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_29_pt1-page-140.csv",
+            "start_date": "1930/13",
+            "end_date": "1930/13"
+        }
+    ]
+}

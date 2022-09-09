@@ -1,0 +1,19 @@
+{
+    "name": "COCKERMOUTH-LOWESWATER",
+    "data": {
+        "COCKERMOUTH-LOWESWATER.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-297.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_20_pt1-page-297.csv",
+            "start_date": "1940/11",
+            "end_date": "1940/13"
+        }
+    ]
+}

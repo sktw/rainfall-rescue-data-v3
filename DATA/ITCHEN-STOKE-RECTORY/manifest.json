@@ -1,0 +1,44 @@
+{
+    "name": "ITCHEN-STOKE-RECTORY",
+    "data": {
+        "ITCHEN-STOKE-RECTORY.csv": [
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-111.csv",
+                "start_date": "1890/01",
+                "end_date": "1893/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-111.csv",
+                "start_date": "1894/05",
+                "end_date": "1894/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-111.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-206.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-239.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_05_pt1-page-111.csv",
+            "start_date": "1894/01",
+            "end_date": "1894/04"
+        },
+        {
+            "filename": "TYRain_1890-1899_05_pt1-page-111.csv",
+            "start_date": "1894/13",
+            "end_date": "1894/13"
+        }
+    ]
+}

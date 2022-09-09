@@ -1,0 +1,20 @@
+{
+    "name": "SHAP-CHURCHVIEW",
+    "data": {
+        "SHAP-CHURCHVIEW.csv": [
+            {
+                "filename": "TYRain_1890-1899_21_pt1-page-011.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "SHAP-CHURCHVIEW.csv": [
+            {
+                "start_date": "1898/11",
+                "end_date": "1898/11"
+            }
+        ]
+    }
+}

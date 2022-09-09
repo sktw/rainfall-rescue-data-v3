@@ -1,0 +1,31 @@
+{
+    "name": "OAKWOOD-RESERVOIR",
+    "data": {
+        "OAKWOOD-RESERVOIR-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-206.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "OAKWOOD-RESERVOIR.csv": [
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-215.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_08_pt1-page-215.csv",
+                "start_date": "1940/06",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_08_pt1-page-215.csv",
+            "start_date": "1940/05",
+            "end_date": "1940/05"
+        }
+    ]
+}

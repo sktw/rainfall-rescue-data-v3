@@ -1,0 +1,59 @@
+{
+    "name": "PETERBOROUGH-FARCET",
+    "data": {
+        "PETERBOROUGH-FARCET.csv": [
+            {
+                "filename": "TYRain_1941-1950_09_pt1-page-017.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-163.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-163.csv",
+                "start_date": "1953/05",
+                "end_date": "1953/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-163.csv",
+                "start_date": "1953/07",
+                "end_date": "1953/08"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-163.csv",
+                "start_date": "1953/11",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_06_pt1-page-163.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-163.csv",
+            "start_date": "1953/04",
+            "end_date": "1953/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-163.csv",
+            "start_date": "1953/06",
+            "end_date": "1953/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-163.csv",
+            "start_date": "1953/09",
+            "end_date": "1953/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_06_pt1-page-163.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        }
+    ]
+}

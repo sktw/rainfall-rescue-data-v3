@@ -1,0 +1,17 @@
+{
+    "name": "LEEDS-ROUNDHAY-PARK",
+    "data": {
+        "LEEDS-ROUNDHAY-PARK.csv": [
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-271.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-053.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

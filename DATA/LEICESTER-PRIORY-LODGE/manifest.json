@@ -1,0 +1,36 @@
+{
+    "name": "LEICESTER-PRIORY-LODGE",
+    "data": {
+        "LEICESTER-PRIORY-LODGE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-273.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-273.csv",
+                "start_date": "1913/09",
+                "end_date": "1919/13"
+            }
+        ],
+        "LEICESTER-PRIORY-LODGE.csv": [
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-273.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/07"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-273.csv",
+                "start_date": "1918/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_15_pt1-page-273.csv",
+            "start_date": "1913/08",
+            "end_date": "1913/08"
+        }
+    ]
+}

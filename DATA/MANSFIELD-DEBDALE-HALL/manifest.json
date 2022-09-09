@@ -1,0 +1,44 @@
+{
+    "name": "MANSFIELD-DEBDALE-HALL",
+    "data": {
+        "MANSFIELD-DEBDALE-HALL.csv": [
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-188.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-170.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-170.csv",
+                "start_date": "1926/09",
+                "end_date": "1926/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-170.csv",
+                "start_date": "1927/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-240.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-170.csv",
+            "start_date": "1926/07",
+            "end_date": "1926/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-170.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        }
+    ]
+}

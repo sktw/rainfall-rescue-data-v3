@@ -1,0 +1,59 @@
+{
+    "name": "PURLEY-GREEN-LANE",
+    "data": {
+        "PURLEY-GREEN-LANE.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-065.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-071.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-071.csv",
+                "start_date": "1937/02",
+                "end_date": "1937/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-071.csv",
+                "start_date": "1938/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-071.csv",
+                "start_date": "1940/02",
+                "end_date": "1940/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-053.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-071.csv",
+            "start_date": "1937/01",
+            "end_date": "1937/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-071.csv",
+            "start_date": "1937/12",
+            "end_date": "1937/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-071.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-071.csv",
+            "start_date": "1940/12",
+            "end_date": "1940/13"
+        }
+    ]
+}

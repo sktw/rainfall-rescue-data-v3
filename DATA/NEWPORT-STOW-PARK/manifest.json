@@ -1,0 +1,59 @@
+{
+    "name": "NEWPORT-STOW-PARK",
+    "data": {
+        "NEWPORT-STOW-PARK-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_19_pt1-page-012.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-213.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/05"
+            }
+        ],
+        "NEWPORT-STOW-PARK.csv": [
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-213.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-213.csv",
+                "start_date": "1930/07",
+                "end_date": "1930/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_21_pt1-page-130.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_25_pt1-page-019.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "NEWPORT-STOW-PARK.csv": [
+            {
+                "start_date": "1933/08",
+                "end_date": "1933/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_25_pt1-page-213.csv",
+            "start_date": "1930/06",
+            "end_date": "1930/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_25_pt1-page-213.csv",
+            "start_date": "1930/13",
+            "end_date": "1930/13"
+        }
+    ]
+}

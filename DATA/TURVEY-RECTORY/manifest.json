@@ -1,0 +1,12 @@
+{
+    "name": "TURVEY-RECTORY",
+    "data": {
+        "TURVEY-RECTORY.csv": [
+            {
+                "filename": "TYRain_1941-1950_09_pt1-page-064.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

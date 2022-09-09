@@ -1,0 +1,29 @@
+{
+    "name": "ST-ALBANS-TORRINGTON-HOUSE",
+    "data": {
+        "ST-ALBANS-TORRINGTON-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt3-page-003.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-025.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "ST-ALBANS-TORRINGTON-HOUSE.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt3-page-002.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-024.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

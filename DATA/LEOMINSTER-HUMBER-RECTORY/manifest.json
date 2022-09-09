@@ -1,0 +1,17 @@
+{
+    "name": "LEOMINSTER-HUMBER-RECTORY",
+    "data": {
+        "LEOMINSTER-HUMBER-RECTORY.csv": [
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-098.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-229.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

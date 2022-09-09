@@ -1,0 +1,64 @@
+{
+    "name": "DAWLISH-SPORTS-FIELD",
+    "data": {
+        "DAWLISH-SPORTS-FIELD-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-052.csv",
+                "start_date": "1935/08",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-052.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-128.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "DAWLISH-SPORTS-FIELD.csv": [
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-052.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-052.csv",
+                "start_date": "1934/02",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-052.csv",
+                "start_date": "1935/01",
+                "end_date": "1935/07"
+            }
+        ]
+    },
+    "idr": {
+        "DAWLISH-SPORTS-FIELD-2.csv": [
+            {
+                "start_date": "1936/08",
+                "end_date": "1936/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-052.csv",
+            "start_date": "1934/01",
+            "end_date": "1934/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-052.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_11_pt1-page-052.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
+}

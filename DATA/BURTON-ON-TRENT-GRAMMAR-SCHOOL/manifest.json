@@ -1,0 +1,113 @@
+{
+    "name": "BURTON-ON-TRENT-GRAMMAR-SCHOOL",
+    "data": {
+        "BURTON-ON-TRENT-GRAMMAR-SCHOOL-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1883/04",
+                "end_date": "1885/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1885/13",
+                "end_date": "1885/13"
+            }
+        ],
+        "BURTON-ON-TRENT-GRAMMAR-SCHOOL-3.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1883/04",
+                "end_date": "1883/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1883/13",
+                "end_date": "1883/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1885/04",
+                "end_date": "1889/10"
+            }
+        ],
+        "BURTON-ON-TRENT-GRAMMAR-SCHOOL-4.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1883/04",
+                "end_date": "1883/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1883/13",
+                "end_date": "1883/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1885/04",
+                "end_date": "1885/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1885/13",
+                "end_date": "1885/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1889/12",
+                "end_date": "1889/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-149.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "BURTON-ON-TRENT-GRAMMAR-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-114.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1883/13",
+                "end_date": "1883/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1885/04",
+                "end_date": "1885/04"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+                "start_date": "1885/13",
+                "end_date": "1885/13"
+            }
+        ]
+    },
+    "idr": {
+        "BURTON-ON-TRENT-GRAMMAR-SCHOOL.csv": [
+            {
+                "start_date": "1882/05",
+                "end_date": "1882/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+            "start_date": "1889/11",
+            "end_date": "1889/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_07_pt2-page-037.csv",
+            "start_date": "1889/13",
+            "end_date": "1889/13"
+        }
+    ]
+}

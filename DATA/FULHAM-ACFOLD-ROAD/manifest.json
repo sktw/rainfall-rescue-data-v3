@@ -1,0 +1,54 @@
+{
+    "name": "FULHAM-ACFOLD-ROAD",
+    "data": {
+        "FULHAM-ACFOLD-ROAD.csv": [
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-058.csv",
+                "start_date": "1910/01",
+                "end_date": "1916/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-058.csv",
+                "start_date": "1917/02",
+                "end_date": "1917/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-058.csv",
+                "start_date": "1918/01",
+                "end_date": "1918/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-058.csv",
+                "start_date": "1919/02",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_01_pt1-page-051.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-058.csv",
+            "start_date": "1917/01",
+            "end_date": "1917/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-058.csv",
+            "start_date": "1917/13",
+            "end_date": "1917/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-058.csv",
+            "start_date": "1919/01",
+            "end_date": "1919/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-058.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        }
+    ]
+}

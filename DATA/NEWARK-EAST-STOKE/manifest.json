@@ -1,0 +1,22 @@
+{
+    "name": "NEWARK-EAST-STOKE",
+    "data": {
+        "NEWARK-EAST-STOKE.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt1-page-011.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt2-page-017.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-010.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

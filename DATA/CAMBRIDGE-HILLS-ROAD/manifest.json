@@ -1,0 +1,12 @@
+{
+    "name": "CAMBRIDGE-HILLS-ROAD",
+    "data": {
+        "CAMBRIDGE-HILLS-ROAD.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt4-page-039.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

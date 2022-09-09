@@ -1,0 +1,41 @@
+{
+    "name": "TROWBRIDGE",
+    "data": {
+        "TROWBRIDGE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-005.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "TROWBRIDGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-006.csv",
+                "start_date": "1880/01",
+                "end_date": "1884/09"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-006.csv",
+                "start_date": "1884/11",
+                "end_date": "1884/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-006.csv",
+                "start_date": "1885/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_05_pt2-page-006.csv",
+            "start_date": "1884/10",
+            "end_date": "1884/10"
+        },
+        {
+            "filename": "TYRain_1880-1889_05_pt2-page-006.csv",
+            "start_date": "1884/13",
+            "end_date": "1884/13"
+        }
+    ]
+}

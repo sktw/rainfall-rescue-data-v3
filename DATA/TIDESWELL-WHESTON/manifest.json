@@ -1,0 +1,157 @@
+{
+    "name": "TIDESWELL-WHESTON",
+    "data": {
+        "TIDESWELL-WHESTON.csv": [
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1951/09",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1952/01",
+                "end_date": "1952/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1952/12",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1953/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1955/02",
+                "end_date": "1955/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1955/04",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1956/01",
+                "end_date": "1957/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1957/12",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1958/01",
+                "end_date": "1958/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1958/03",
+                "end_date": "1958/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1958/07",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1959/01",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+                "start_date": "1960/03",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "idr": {
+        "TIDESWELL-WHESTON.csv": [
+            {
+                "start_date": "1956/05",
+                "end_date": "1956/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1951/08",
+            "end_date": "1951/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1952/11",
+            "end_date": "1952/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1955/03",
+            "end_date": "1955/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1957/11",
+            "end_date": "1957/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1958/02",
+            "end_date": "1958/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1958/06",
+            "end_date": "1958/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1959/13",
+            "end_date": "1960/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-162.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

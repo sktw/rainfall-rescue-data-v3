@@ -1,0 +1,51 @@
+{
+    "name": "PINNER-HILLCREST-AVENUE",
+    "data": {
+        "PINNER-HILLCREST-AVENUE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-056.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-054.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-054.csv",
+                "start_date": "1954/04",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-054.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "PINNER-HILLCREST-AVENUE.csv": [
+            {
+                "filename": "TYRain_1931-1940_06_pt1-page-174.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_07_pt1-page-055.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-054.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-054.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
+}

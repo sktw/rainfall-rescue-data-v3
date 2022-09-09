@@ -1,0 +1,17 @@
+{
+    "name": "KNAPTOFT-HALL",
+    "data": {
+        "KNAPTOFT-HALL.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt1-page-005.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt2-page-089.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

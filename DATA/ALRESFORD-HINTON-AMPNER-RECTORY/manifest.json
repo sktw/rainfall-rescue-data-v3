@@ -1,0 +1,17 @@
+{
+    "name": "ALRESFORD-HINTON-AMPNER-RECTORY",
+    "data": {
+        "ALRESFORD-HINTON-AMPNER-RECTORY.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-070.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-107.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "DUNSTABLE-THE-GRAMMAR-SCHOOL",
+    "data": {
+        "DUNSTABLE-THE-GRAMMAR-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-148.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/06"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-148.csv",
+                "start_date": "1919/08",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_08_pt1-page-026.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-148.csv",
+            "start_date": "1919/07",
+            "end_date": "1919/07"
+        },
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-148.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "name": "FERNILEE-WYTHEN",
+    "data": {
+        "FERNILEE-WYTHEN-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-279.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_15_pt1-page-279.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "FERNILEE-WYTHEN.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-280.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-280.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+                "start_date": "1941/03",
+                "end_date": "1941/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+                "start_date": "1941/11",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+                "start_date": "1942/03",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+                "start_date": "1943/01",
+                "end_date": "1943/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+                "start_date": "1943/08",
+                "end_date": "1943/09"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+                "start_date": "1943/12",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "FERNILEE-WYTHEN-2.csv": [
+            {
+                "start_date": "1931/09",
+                "end_date": "1931/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_15_pt1-page-279.csv",
+            "start_date": "1938/12",
+            "end_date": "1938/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-280.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_15_pt1-page-280.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+            "start_date": "1941/10",
+            "end_date": "1941/10"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+            "start_date": "1941/13",
+            "end_date": "1942/02"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+            "start_date": "1943/07",
+            "end_date": "1943/07"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+            "start_date": "1943/10",
+            "end_date": "1943/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_18_pt1-page-082.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

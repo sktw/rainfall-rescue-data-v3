@@ -1,0 +1,37 @@
+{
+    "name": "HEREFORD-ST-OWEN-STREET",
+    "data": {
+        "HEREFORD-ST-OWEN-STREET-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt2-page-060.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "HEREFORD-ST-OWEN-STREET.csv": [
+            {
+                "filename": "TYRain_1890-1899_12_pt1-page-015.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-018.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-174.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "HEREFORD-ST-OWEN-STREET.csv": [
+            {
+                "start_date": "1900/09",
+                "end_date": "1900/10"
+            }
+        ]
+    }
+}

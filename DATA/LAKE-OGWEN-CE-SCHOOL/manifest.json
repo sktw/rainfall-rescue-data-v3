@@ -1,0 +1,42 @@
+{
+    "name": "LAKE-OGWEN-CE-SCHOOL",
+    "data": {
+        "LAKE-OGWEN-CE-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_24_pt1-page-217.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_28_pt1-page-037.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-089.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-089.csv",
+                "start_date": "1933/07",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "LAKE-OGWEN-CE-SCHOOL.csv": [
+            {
+                "start_date": "1920/11",
+                "end_date": "1920/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-089.csv",
+            "start_date": "1933/06",
+            "end_date": "1933/06"
+        }
+    ]
+}

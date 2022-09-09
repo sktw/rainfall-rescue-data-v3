@@ -1,0 +1,37 @@
+{
+    "name": "ROSS-SELLACK-VICARAGE",
+    "data": {
+        "ROSS-SELLACK-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt2-page-052.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_06_pt1-page-005.csv",
+                "start_date": "1870/01",
+                "end_date": "1877/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_06_pt1-page-005.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "ROSS-SELLACK-VICARAGE.csv": [
+            {
+                "start_date": "1871/10",
+                "end_date": "1871/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_06_pt1-page-005.csv",
+            "start_date": "1878/01",
+            "end_date": "1878/13"
+        }
+    ]
+}

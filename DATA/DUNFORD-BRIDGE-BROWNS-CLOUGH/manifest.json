@@ -1,0 +1,80 @@
+{
+    "name": "DUNFORD-BRIDGE-BROWNS-CLOUGH",
+    "data": {
+        "DUNFORD-BRIDGE-BROWNS-CLOUGH.csv": [
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-154.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-084.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-084.csv",
+                "start_date": "1942/04",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-084.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-099.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-099.csv",
+                "start_date": "1956/02",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-099.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "DUNFORD-BRIDGE-BROWNS-CLOUGH.csv": [
+            {
+                "start_date": "1941/01",
+                "end_date": "1941/02"
+            },
+            {
+                "start_date": "1952/01",
+                "end_date": "1952/02"
+            },
+            {
+                "start_date": "1953/09",
+                "end_date": "1953/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_21_pt1-page-084.csv",
+            "start_date": "1942/01",
+            "end_date": "1942/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_21_pt1-page-084.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-099.csv",
+            "start_date": "1956/01",
+            "end_date": "1956/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-099.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

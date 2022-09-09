@@ -1,0 +1,42 @@
+{
+    "name": "WALSDEN-BROADHEAD-DRAIN",
+    "data": {
+        "WALSDEN-BROADHEAD-DRAIN.csv": [
+            {
+                "filename": "TYRain_1900-1909_21_pt1-page-119.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_19_pt1-page-224.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-091.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "WALSDEN-BROADHEAD-DRAIN.csv": [
+            {
+                "start_date": "1915/04",
+                "end_date": "1915/04"
+            },
+            {
+                "start_date": "1915/12",
+                "end_date": "1915/12"
+            },
+            {
+                "start_date": "1916/02",
+                "end_date": "1916/02"
+            },
+            {
+                "start_date": "1919/03",
+                "end_date": "1919/03"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "LEEDS-KINGFISHER",
+    "data": {
+        "LEEDS-KINGFISHER.csv": [
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-173.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-173.csv",
+                "start_date": "1922/09",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-173.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-108.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_22_pt1-page-173.csv",
+            "start_date": "1922/08",
+            "end_date": "1922/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_22_pt1-page-173.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        }
+    ]
+}

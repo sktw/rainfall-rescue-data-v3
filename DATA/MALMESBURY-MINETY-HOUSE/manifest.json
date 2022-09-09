@@ -1,0 +1,34 @@
+{
+    "name": "MALMESBURY-MINETY-HOUSE",
+    "data": {
+        "MALMESBURY-MINETY-HOUSE.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-078.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-078.csv",
+                "start_date": "1884/02",
+                "end_date": "1884/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt2-page-078.csv",
+                "start_date": "1885/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_05_pt2-page-078.csv",
+            "start_date": "1884/01",
+            "end_date": "1884/01"
+        },
+        {
+            "filename": "TYRain_1880-1889_05_pt2-page-078.csv",
+            "start_date": "1884/13",
+            "end_date": "1884/13"
+        }
+    ]
+}

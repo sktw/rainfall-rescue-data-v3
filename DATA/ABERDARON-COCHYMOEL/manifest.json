@@ -1,0 +1,25 @@
+{
+    "name": "ABERDARON-COCHYMOEL",
+    "data": {
+        "ABERDARON-COCHYMOEL.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-121.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_10_pt2-page-102.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "ABERDARON-COCHYMOEL.csv": [
+            {
+                "start_date": "1872/03",
+                "end_date": "1872/03"
+            }
+        ]
+    }
+}

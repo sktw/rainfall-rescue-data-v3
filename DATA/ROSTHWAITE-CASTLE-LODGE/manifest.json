@@ -1,0 +1,20 @@
+{
+    "name": "ROSTHWAITE-CASTLE-LODGE",
+    "data": {
+        "ROSTHWAITE-CASTLE-LODGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-055.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "ROSTHWAITE-CASTLE-LODGE.csv": [
+            {
+                "start_date": "1887/07",
+                "end_date": "1887/07"
+            }
+        ]
+    }
+}

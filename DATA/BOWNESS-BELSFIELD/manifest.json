@@ -1,0 +1,17 @@
+{
+    "name": "BOWNESS-BELSFIELD",
+    "data": {
+        "BOWNESS-BELSFIELD.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt4-page-015.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_11_pt5-page-054.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

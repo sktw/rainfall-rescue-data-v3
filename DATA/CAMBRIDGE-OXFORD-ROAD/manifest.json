@@ -1,0 +1,36 @@
+{
+    "name": "CAMBRIDGE-OXFORD-ROAD",
+    "data": {
+        "CAMBRIDGE-OXFORD-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-076.csv",
+                "start_date": "1955/12",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-076.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "CAMBRIDGE-OXFORD-ROAD.csv": [
+            {
+                "filename": "TYRain_1941-1950_09_pt1-page-094.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-076.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-076.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

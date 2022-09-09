@@ -1,0 +1,17 @@
+{
+    "name": "GUERNSEY-LANCRESSE-LES-MIELLES",
+    "data": {
+        "GUERNSEY-LANCRESSE-LES-MIELLES.csv": [
+            {
+                "filename": "TYRain_1890-1899_22_pt1-page-031.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-214.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

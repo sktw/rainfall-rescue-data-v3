@@ -1,0 +1,25 @@
+{
+    "name": "WINDERMERE-HIGH-HOUSE",
+    "data": {
+        "WINDERMERE-HIGH-HOUSE.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-087.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_09_pt4-page-019.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "WINDERMERE-HIGH-HOUSE.csv": [
+            {
+                "start_date": "1870/07",
+                "end_date": "1870/07"
+            }
+        ]
+    }
+}

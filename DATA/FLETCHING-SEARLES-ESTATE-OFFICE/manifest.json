@@ -1,0 +1,29 @@
+{
+    "name": "FLETCHING-SEARLES-ESTATE-OFFICE",
+    "data": {
+        "FLETCHING-SEARLES-ESTATE-OFFICE.csv": [
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-138.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_04_pt1-page-138.csv",
+                "start_date": "1950/02",
+                "end_date": "1950/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_04_pt1-page-138.csv",
+            "start_date": "1950/01",
+            "end_date": "1950/01"
+        },
+        {
+            "filename": "TYRain_1941-1950_04_pt1-page-138.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        }
+    ]
+}

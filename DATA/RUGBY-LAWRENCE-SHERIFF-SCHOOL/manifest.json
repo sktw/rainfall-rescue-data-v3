@@ -1,0 +1,34 @@
+{
+    "name": "RUGBY-LAWRENCE-SHERIFF-SCHOOL",
+    "data": {
+        "RUGBY-LAWRENCE-SHERIFF-SCHOOL.csv": [
+            {
+                "filename": "MISFILED_TYRain_1941-1950_17_pt1-page-047.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "RUGBY-LAWRENCE-SHERIFF-SCHOOL.csv": [
+            {
+                "start_date": "1942/02",
+                "end_date": "1942/12"
+            },
+            {
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "MISFILED_TYRain_1941-1950_17_pt1-page-047.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "MISFILED_TYRain_1951-1960_15_pt1-page-042.csv"
+        }
+    ]
+}

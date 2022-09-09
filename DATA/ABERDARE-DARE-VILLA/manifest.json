@@ -1,0 +1,29 @@
+{
+    "name": "ABERDARE-DARE-VILLA",
+    "data": {
+        "ABERDARE-DARE-VILLA.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-020.csv",
+                "start_date": "1860/01",
+                "end_date": "1865/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_06_pt3-page-020.csv",
+                "start_date": "1866/02",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_10_pt1-page-055.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_06_pt3-page-020.csv",
+            "start_date": "1866/01",
+            "end_date": "1866/01"
+        }
+    ]
+}

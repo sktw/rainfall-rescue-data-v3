@@ -1,0 +1,64 @@
+{
+    "name": "ROCKING-MOOR-SPITTLE-INGS",
+    "data": {
+        "ROCKING-MOOR-SPITTLE-INGS.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-043.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-043.csv",
+                "start_date": "1943/02",
+                "end_date": "1943/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-043.csv",
+                "start_date": "1943/09",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-043.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-043.csv",
+                "start_date": "1950/05",
+                "end_date": "1950/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_20_pt1-page-115.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-043.csv",
+            "start_date": "1943/01",
+            "end_date": "1943/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-043.csv",
+            "start_date": "1943/08",
+            "end_date": "1943/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-043.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-043.csv",
+            "start_date": "1950/04",
+            "end_date": "1950/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_22_pt1-page-043.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        }
+    ]
+}

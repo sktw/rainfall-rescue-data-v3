@@ -1,0 +1,24 @@
+{
+    "name": "CHICHESTER-OAKLANDS",
+    "data": {
+        "CHICHESTER-OAKLANDS-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-014.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "CHICHESTER-OAKLANDS.csv": [
+            {
+                "filename": "TYRain_1890-1899_04_pt1-page-013.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-014.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

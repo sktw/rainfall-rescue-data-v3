@@ -1,0 +1,17 @@
+{
+    "name": "CHICHESTER-SUMMERSDALE",
+    "data": {
+        "CHICHESTER-SUMMERSDALE.csv": [
+            {
+                "filename": "TYRain_1910-1919_04_pt1-page-018.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_04_pt1-page-021.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

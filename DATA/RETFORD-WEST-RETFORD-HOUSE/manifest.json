@@ -1,0 +1,17 @@
+{
+    "name": "RETFORD-WEST-RETFORD-HOUSE",
+    "data": {
+        "RETFORD-WEST-RETFORD-HOUSE.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt2-page-052.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_14_pt1-page-060.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

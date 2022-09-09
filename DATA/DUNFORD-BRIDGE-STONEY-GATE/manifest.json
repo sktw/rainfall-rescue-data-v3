@@ -1,0 +1,22 @@
+{
+    "name": "DUNFORD-BRIDGE-STONEY-GATE",
+    "data": {
+        "DUNFORD-BRIDGE-STONEY-GATE.csv": [
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-170.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-100.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-114.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

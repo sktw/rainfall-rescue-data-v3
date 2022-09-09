@@ -1,0 +1,109 @@
+{
+    "name": "PENISTONE-GRINGLEY-CARR",
+    "data": {
+        "PENISTONE-GRINGLEY-CARR.csv": [
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-183.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-183.csv",
+                "start_date": "1938/05",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-183.csv",
+                "start_date": "1939/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-183.csv",
+                "start_date": "1940/03",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+                "start_date": "1942/04",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+                "start_date": "1943/01",
+                "end_date": "1943/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+                "start_date": "1943/07",
+                "end_date": "1943/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+                "start_date": "1943/10",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+                "start_date": "1944/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-125.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_18B_pt1-page-183.csv",
+            "start_date": "1938/04",
+            "end_date": "1938/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_18B_pt1-page-183.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_18B_pt1-page-183.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_18B_pt1-page-183.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+            "start_date": "1941/12",
+            "end_date": "1942/03"
+        },
+        {
+            "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+            "start_date": "1943/06",
+            "end_date": "1943/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+            "start_date": "1943/09",
+            "end_date": "1943/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_21_pt1-page-116.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        }
+    ]
+}

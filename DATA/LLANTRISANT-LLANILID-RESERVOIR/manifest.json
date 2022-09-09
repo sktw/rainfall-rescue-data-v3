@@ -1,0 +1,39 @@
+{
+    "name": "LLANTRISANT-LLANILID-RESERVOIR",
+    "data": {
+        "LLANTRISANT-LLANILID-RESERVOIR.csv": [
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-155.csv",
+                "start_date": "1900/01",
+                "end_date": "1908/01"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-155.csv",
+                "start_date": "1908/03",
+                "end_date": "1908/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-155.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-050.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-155.csv",
+            "start_date": "1908/02",
+            "end_date": "1908/02"
+        },
+        {
+            "filename": "TYRain_1900-1909_24_pt1-page-155.csv",
+            "start_date": "1908/13",
+            "end_date": "1908/13"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "LYDBURY-NORTH-LOWER-GARDENS",
+    "data": {
+        "LYDBURY-NORTH-LOWER-GARDENS.csv": [
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-150.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-150.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-273.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_16_pt1-page-089.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_14_pt1-page-150.csv",
+            "start_date": "1923/13",
+            "end_date": "1923/13"
+        }
+    ]
+}

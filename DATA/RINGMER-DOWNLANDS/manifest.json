@@ -1,0 +1,12 @@
+{
+    "name": "RINGMER-DOWNLANDS",
+    "data": {
+        "RINGMER-DOWNLANDS.csv": [
+            {
+                "filename": "TYRain_1900-1909_04_pt1-page-128.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

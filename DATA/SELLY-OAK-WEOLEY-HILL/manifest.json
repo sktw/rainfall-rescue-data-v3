@@ -1,0 +1,51 @@
+{
+    "name": "SELLY-OAK-WEOLEY-HILL",
+    "data": {
+        "SELLY-OAK-WEOLEY-HILL-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-269.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_17_pt1-page-067.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "SELLY-OAK-WEOLEY-HILL.csv": [
+            {
+                "filename": "TYRain_1920-1930_16_pt1-page-096.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_14_pt1-page-270.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_14_pt1-page-270.csv",
+                "start_date": "1939/10",
+                "end_date": "1939/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_14_pt1-page-270.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_14_pt1-page-270.csv",
+            "start_date": "1939/06",
+            "end_date": "1939/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_14_pt1-page-270.csv",
+            "start_date": "1939/13",
+            "end_date": "1939/13"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "WINSFORD-MEADOW-BANK",
+    "data": {
+        "WINSFORD-MEADOW-BANK.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt3-page-039.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-054.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "WINSFORD-MEADOW-BANK.csv": [
+            {
+                "start_date": "1876/13",
+                "end_date": "1876/13"
+            }
+        ]
+    }
+}

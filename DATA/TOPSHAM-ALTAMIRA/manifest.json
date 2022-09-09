@@ -1,0 +1,41 @@
+{
+    "name": "TOPSHAM-ALTAMIRA",
+    "data": {
+        "TOPSHAM-ALTAMIRA.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_11_pt1-page-063.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_11_pt1-page-102.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_11_pt1-page-102.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "TOPSHAM-ALTAMIRA.csv": [
+            {
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            },
+            {
+                "start_date": "1935/07",
+                "end_date": "1935/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_11_pt1-page-102.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
+}

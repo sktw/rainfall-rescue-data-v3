@@ -1,0 +1,17 @@
+{
+    "name": "SNELSTON-HALL",
+    "data": {
+        "SNELSTON-HALL.csv": [
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-244.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_18_pt1-page-029.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

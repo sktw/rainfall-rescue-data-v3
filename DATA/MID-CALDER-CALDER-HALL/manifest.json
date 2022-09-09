@@ -1,0 +1,25 @@
+{
+    "name": "MID-CALDER-CALDER-HALL",
+    "data": {
+        "MID-CALDER-CALDER-HALL.csv": [
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-281.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_30_pt1-page-039.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "MID-CALDER-CALDER-HALL.csv": [
+            {
+                "start_date": "1921/08",
+                "end_date": "1921/08"
+            }
+        ]
+    }
+}

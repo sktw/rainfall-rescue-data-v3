@@ -1,0 +1,17 @@
+{
+    "name": "NEWPORT-TREDEGAR-PARK",
+    "data": {
+        "NEWPORT-TREDEGAR-PARK.csv": [
+            {
+                "filename": "TYRain_1900-1909_24_pt1-page-069.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-006.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

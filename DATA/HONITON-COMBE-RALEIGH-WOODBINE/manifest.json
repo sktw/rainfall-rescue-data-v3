@@ -1,0 +1,25 @@
+{
+    "name": "HONITON-COMBE-RALEIGH-WOODBINE",
+    "data": {
+        "HONITON-COMBE-RALEIGH-WOODBINE.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_12_pt1-page-090.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_12_pt1-page-077.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "HONITON-COMBE-RALEIGH-WOODBINE.csv": [
+            {
+                "start_date": "1911/11",
+                "end_date": "1911/11"
+            }
+        ]
+    }
+}
