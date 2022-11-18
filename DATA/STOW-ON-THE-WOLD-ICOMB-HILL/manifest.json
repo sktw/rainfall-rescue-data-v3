@@ -1,0 +1,25 @@
+{
+    "name": "STOW-ON-THE-WOLD-ICOMB-HILL",
+    "data": {
+        "STOW-ON-THE-WOLD-ICOMB-HILL.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-172.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-265.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "STOW-ON-THE-WOLD-ICOMB-HILL.csv": [
+            {
+                "start_date": "1935/13",
+                "end_date": "1935/13"
+            }
+        ]
+    }
+}

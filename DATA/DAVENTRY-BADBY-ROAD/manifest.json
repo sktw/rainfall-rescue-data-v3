@@ -1,0 +1,51 @@
+{
+    "name": "DAVENTRY-BADBY-ROAD",
+    "data": {
+        "DAVENTRY-BADBY-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-042.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "DAVENTRY-BADBY-ROAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-034.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-042.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/08"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-042.csv",
+                "start_date": "1910/10",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-042.csv",
+                "start_date": "1911/01",
+                "end_date": "1912/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_08_pt1-page-042.csv",
+                "start_date": "1914/07",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-042.csv",
+            "start_date": "1910/09",
+            "end_date": "1910/09"
+        },
+        {
+            "filename": "TYRain_1910-1919_08_pt1-page-042.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        }
+    ]
+}

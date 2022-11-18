@@ -1,0 +1,12 @@
+{
+    "name": "WALTHAMSTOW",
+    "data": {
+        "WALTHAMSTOW.csv": [
+            {
+                "filename": "TYRain_1870-1879_03_pt1-page-041.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

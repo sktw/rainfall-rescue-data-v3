@@ -1,0 +1,56 @@
+{
+    "name": "HAMPSTEAD-BRANCH-HILL",
+    "data": {
+        "HAMPSTEAD-BRANCH-HILL-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt1-page-049.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "HAMPSTEAD-BRANCH-HILL.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt1-page-046.csv",
+                "start_date": "1870/01",
+                "end_date": "1872/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt1-page-046.csv",
+                "start_date": "1872/03",
+                "end_date": "1872/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt1-page-046.csv",
+                "start_date": "1872/05",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-064.csv",
+                "start_date": "1890/01",
+                "end_date": "1896/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-064.csv",
+                "start_date": "1899/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_01_pt1-page-046.csv",
+            "start_date": "1872/02",
+            "end_date": "1872/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_01_pt1-page-046.csv",
+            "start_date": "1872/04",
+            "end_date": "1872/04"
+        },
+        {
+            "filename": "TYRain_1890-1899_01_pt1-page-064.csv",
+            "start_date": "1897/01",
+            "end_date": "1898/13"
+        }
+    ]
+}

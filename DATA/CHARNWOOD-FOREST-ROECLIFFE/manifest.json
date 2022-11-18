@@ -8,5 +8,15 @@
                 "end_date": "1889/13"
             }
         ]
+    },
+    "external": {
+        "CHARNWOOD-FOREST-ROECLIFFE.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt5-page-026.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1890/01",
+                "end_date": "1890/08"
+            }
+        ]
     }
 }

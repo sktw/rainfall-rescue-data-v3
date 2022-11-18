@@ -1,0 +1,46 @@
+{
+    "name": "BOLTON-VALE-BANK",
+    "data": {
+        "BOLTON-VALE-BANK-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-034.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-052.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "BOLTON-VALE-BANK.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-037.csv",
+                "start_date": "1860/01",
+                "end_date": "1866/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-034.csv",
+                "start_date": "1866/13",
+                "end_date": "1866/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_04_pt3-page-037.csv",
+                "start_date": "1867/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-050.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1860-1869_04_pt3-page-037.csv",
+            "start_date": "1866/13",
+            "end_date": "1866/13"
+        }
+    ]
+}

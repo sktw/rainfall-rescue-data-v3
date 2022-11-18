@@ -1,0 +1,44 @@
+{
+    "name": "BRISTOL-KINGSWOOD",
+    "data": {
+        "BRISTOL-KINGSWOOD.csv": [
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-135.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-135.csv",
+                "start_date": "1935/01",
+                "end_date": "1935/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-135.csv",
+                "start_date": "1935/08",
+                "end_date": "1935/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-135.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_13_pt1-page-135.csv",
+            "start_date": "1934/11",
+            "end_date": "1934/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_13_pt1-page-135.csv",
+            "start_date": "1935/07",
+            "end_date": "1935/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_13_pt1-page-135.csv",
+            "start_date": "1935/13",
+            "end_date": "1935/13"
+        }
+    ]
+}

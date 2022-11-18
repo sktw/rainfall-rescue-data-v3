@@ -1,0 +1,39 @@
+{
+    "name": "HOLMFIRTH-THONGSBRIDGE",
+    "data": {
+        "HOLMFIRTH-THONGSBRIDGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-041.csv",
+                "start_date": "1920/01",
+                "end_date": "1927/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-041.csv",
+                "start_date": "1927/07",
+                "end_date": "1927/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_22_pt1-page-041.csv",
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_18B_pt1-page-210.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_22_pt1-page-041.csv",
+            "start_date": "1927/06",
+            "end_date": "1927/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_22_pt1-page-041.csv",
+            "start_date": "1927/13",
+            "end_date": "1927/13"
+        }
+    ]
+}

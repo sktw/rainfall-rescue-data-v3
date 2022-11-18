@@ -1,0 +1,44 @@
+{
+    "name": "MILNTHORPE-ST-ANTHONYS",
+    "data": {
+        "MILNTHORPE-ST-ANTHONYS.csv": [
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-253.csv",
+                "start_date": "1910/01",
+                "end_date": "1917/04"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-253.csv",
+                "start_date": "1917/06",
+                "end_date": "1917/06"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-253.csv",
+                "start_date": "1917/08",
+                "end_date": "1917/08"
+            },
+            {
+                "filename": "TYRain_1910-1919_22_pt1-page-253.csv",
+                "start_date": "1917/10",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_22_pt1-page-253.csv",
+            "start_date": "1917/05",
+            "end_date": "1917/05"
+        },
+        {
+            "filename": "TYRain_1910-1919_22_pt1-page-253.csv",
+            "start_date": "1917/07",
+            "end_date": "1917/07"
+        },
+        {
+            "filename": "TYRain_1910-1919_22_pt1-page-253.csv",
+            "start_date": "1917/09",
+            "end_date": "1917/09"
+        }
+    ]
+}

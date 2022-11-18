@@ -1,0 +1,17 @@
+{
+    "name": "MUNDESLEY-INGLESIDE",
+    "data": {
+        "MUNDESLEY-INGLESIDE.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-182.csv",
+                "start_date": "1931/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-193.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

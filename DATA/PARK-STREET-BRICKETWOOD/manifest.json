@@ -13,5 +13,13 @@
                 "end_date": "1940/13"
             }
         ]
+    },
+    "idr": {
+        "PARK-STREET-BRICKETWOOD.csv": [
+            {
+                "start_date": "1929/03",
+                "end_date": "1929/03"
+            }
+        ]
     }
 }

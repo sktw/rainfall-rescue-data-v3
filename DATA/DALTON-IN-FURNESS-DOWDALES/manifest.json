@@ -1,0 +1,44 @@
+{
+    "name": "DALTON-IN-FURNESS-DOWDALES",
+    "data": {
+        "DALTON-IN-FURNESS-DOWDALES.csv": [
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-115.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-115.csv",
+                "start_date": "1953/02",
+                "end_date": "1953/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-115.csv",
+                "start_date": "1953/09",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-115.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-115.csv",
+            "start_date": "1953/01",
+            "end_date": "1953/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-115.csv",
+            "start_date": "1953/08",
+            "end_date": "1953/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-115.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        }
+    ]
+}

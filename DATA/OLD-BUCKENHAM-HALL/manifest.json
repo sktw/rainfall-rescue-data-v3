@@ -1,0 +1,17 @@
+{
+    "name": "OLD-BUCKENHAM-HALL",
+    "data": {
+        "OLD-BUCKENHAM-HALL.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-080.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-218.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

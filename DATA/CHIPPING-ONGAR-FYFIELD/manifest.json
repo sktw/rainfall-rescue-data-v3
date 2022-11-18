@@ -1,0 +1,59 @@
+{
+    "name": "CHIPPING-ONGAR-FYFIELD",
+    "data": {
+        "CHIPPING-ONGAR-FYFIELD.csv": [
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-075.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-194.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-194.csv",
+                "start_date": "1958/07",
+                "end_date": "1958/08"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-194.csv",
+                "start_date": "1958/10",
+                "end_date": "1958/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-194.csv",
+                "start_date": "1958/12",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_07_pt1-page-194.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-194.csv",
+            "start_date": "1958/06",
+            "end_date": "1958/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-194.csv",
+            "start_date": "1958/09",
+            "end_date": "1958/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-194.csv",
+            "start_date": "1958/11",
+            "end_date": "1958/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_07_pt1-page-194.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        }
+    ]
+}

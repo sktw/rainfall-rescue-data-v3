@@ -1,0 +1,25 @@
+{
+    "name": "LOCH-MORAR-MEOBLE-LODGE",
+    "data": {
+        "LOCH-MORAR-MEOBLE-LODGE.csv": [
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-019.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_28_pt1-page-232.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "LOCH-MORAR-MEOBLE-LODGE.csv": [
+            {
+                "start_date": "1912/06",
+                "end_date": "1912/06"
+            }
+        ]
+    }
+}

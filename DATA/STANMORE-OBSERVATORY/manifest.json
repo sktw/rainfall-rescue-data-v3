@@ -1,0 +1,12 @@
+{
+    "name": "STANMORE-OBSERVATORY",
+    "data": {
+        "STANMORE-OBSERVATORY.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-132.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "HULL-WW-BRANSDALE-ONE",
+    "data": {
+        "HULL-WW-BRANSDALE-ONE.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-042.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "HULL-WW-BRANSDALE-ONE.csv": [
+            {
+                "start_date": "1936/03",
+                "end_date": "1936/03"
+            },
+            {
+                "start_date": "1937/03",
+                "end_date": "1937/03"
+            }
+        ]
+    }
+}

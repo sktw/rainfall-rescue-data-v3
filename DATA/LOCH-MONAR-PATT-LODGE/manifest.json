@@ -1,0 +1,39 @@
+{
+    "name": "LOCH-MONAR-PATT-LODGE",
+    "data": {
+        "LOCH-MONAR-PATT-LODGE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-009.csv",
+                "start_date": "1952/11",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCH-MONAR-PATT-LODGE.csv": [
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-121.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-009.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-009.csv",
+                "start_date": "1955/05",
+                "end_date": "1957/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-009.csv",
+                "start_date": "1957/13",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-009.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "POPPLETON-SUGAR-FACTORY",
+    "data": {
+        "POPPLETON-SUGAR-FACTORY.csv": [
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-189.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-189.csv",
+                "start_date": "1932/04",
+                "end_date": "1932/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_19_pt1-page-189.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-189.csv",
+            "start_date": "1932/01",
+            "end_date": "1932/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_19_pt1-page-189.csv",
+            "start_date": "1932/13",
+            "end_date": "1932/13"
+        }
+    ]
+}

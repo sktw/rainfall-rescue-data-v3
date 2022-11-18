@@ -1,0 +1,60 @@
+{
+    "name": "KEMPSEY-NAPLETON-HOUSE",
+    "data": {
+        "KEMPSEY-NAPLETON-HOUSE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_15_pt1-page-164.csv",
+                "start_date": "1922/11",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_14_pt1-page-143.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_14_pt1-page-143.csv",
+                "start_date": "1940/10",
+                "end_date": "1940/12"
+            }
+        ],
+        "KEMPSEY-NAPLETON-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_15_pt1-page-164.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/09"
+            }
+        ]
+    },
+    "idr": {
+        "KEMPSEY-NAPLETON-HOUSE-2.csv": [
+            {
+                "start_date": "1936/02",
+                "end_date": "1936/02"
+            }
+        ],
+        "KEMPSEY-NAPLETON-HOUSE.csv": [
+            {
+                "start_date": "1920/07",
+                "end_date": "1920/07"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_15_pt1-page-164.csv",
+            "start_date": "1921/10",
+            "end_date": "1922/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_14_pt1-page-143.csv",
+            "start_date": "1940/09",
+            "end_date": "1940/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_14_pt1-page-143.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        }
+    ]
+}

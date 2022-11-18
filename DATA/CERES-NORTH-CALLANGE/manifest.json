@@ -1,0 +1,49 @@
+{
+    "name": "CERES-NORTH-CALLANGE",
+    "data": {
+        "CERES-NORTH-CALLANGE.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-015.csv",
+                "start_date": "1870/01",
+                "end_date": "1874/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-015.csv",
+                "start_date": "1875/07",
+                "end_date": "1875/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-015.csv",
+                "start_date": "1876/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-116.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/09"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-116.csv",
+                "start_date": "1880/12",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_12_pt1-page-015.csv",
+            "start_date": "1875/01",
+            "end_date": "1875/06"
+        },
+        {
+            "filename": "TYRain_1870-1879_12_pt1-page-015.csv",
+            "start_date": "1875/13",
+            "end_date": "1875/13"
+        },
+        {
+            "filename": "TYRain_1880-1889_15_pt1-page-116.csv",
+            "start_date": "1880/10",
+            "end_date": "1880/11"
+        }
+    ]
+}

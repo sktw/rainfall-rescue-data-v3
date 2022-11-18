@@ -1,0 +1,25 @@
+{
+    "name": "SILVERDALE-HAWTHORN-BANK",
+    "data": {
+        "SILVERDALE-HAWTHORN-BANK.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_18A_pt1-page-046.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-159.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "SILVERDALE-HAWTHORN-BANK.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ]
+    }
+}

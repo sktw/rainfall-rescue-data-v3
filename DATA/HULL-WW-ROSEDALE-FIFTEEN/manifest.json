@@ -1,0 +1,20 @@
+{
+    "name": "HULL-WW-ROSEDALE-FIFTEEN",
+    "data": {
+        "HULL-WW-ROSEDALE-FIFTEEN.csv": [
+            {
+                "filename": "TYRain_1931-1940_20_pt1-page-038.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "HULL-WW-ROSEDALE-FIFTEEN.csv": [
+            {
+                "start_date": "1937/02",
+                "end_date": "1937/03"
+            }
+        ]
+    }
+}

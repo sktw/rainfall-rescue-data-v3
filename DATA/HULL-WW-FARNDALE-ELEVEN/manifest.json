@@ -1,0 +1,20 @@
+{
+    "name": "HULL-WW-FARNDALE-ELEVEN",
+    "data": {
+        "HULL-WW-FARNDALE-ELEVEN.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-036.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "HULL-WW-FARNDALE-ELEVEN.csv": [
+            {
+                "start_date": "1937/03",
+                "end_date": "1937/03"
+            }
+        ]
+    }
+}

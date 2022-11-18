@@ -1,0 +1,19 @@
+{
+    "name": "BEACONSFIELD-GERRARDS-CROSS",
+    "data": {
+        "BEACONSFIELD-GERRARDS-CROSS-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-038.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "BEACONSFIELD-GERRARDS-CROSS.csv": [
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-037.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

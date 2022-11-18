@@ -1,0 +1,29 @@
+{
+    "name": "WYCOLLER-BANK-HOUSE",
+    "data": {
+        "WYCOLLER-BANK-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_20_pt1-page-055.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_20_pt1-page-055.csv",
+                "start_date": "1950/11",
+                "end_date": "1950/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_20_pt1-page-055.csv",
+            "start_date": "1950/10",
+            "end_date": "1950/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_20_pt1-page-055.csv",
+            "start_date": "1950/12",
+            "end_date": "1950/13"
+        }
+    ]
+}

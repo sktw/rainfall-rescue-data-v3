@@ -1,0 +1,29 @@
+{
+    "name": "HEATON-CHAPEL-ROSELEIGH",
+    "data": {
+        "HEATON-CHAPEL-ROSELEIGH.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-014.csv",
+                "start_date": "1870/07",
+                "end_date": "1870/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-014.csv",
+                "start_date": "1871/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_07_pt4-page-014.csv",
+            "start_date": "1870/01",
+            "end_date": "1870/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1870-1879_07_pt4-page-014.csv",
+            "start_date": "1870/13",
+            "end_date": "1870/13"
+        }
+    ]
+}

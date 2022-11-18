@@ -1,0 +1,19 @@
+{
+    "name": "DISS-STEWART",
+    "data": {
+        "DISS-STEWART-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-099.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "DISS-STEWART.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-098.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

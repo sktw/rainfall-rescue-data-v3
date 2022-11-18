@@ -1,0 +1,68 @@
+{
+    "name": "HAMPSTEAD-AKENSIDE-ROAD",
+    "data": {
+        "HAMPSTEAD-AKENSIDE-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-089.csv",
+                "start_date": "1900/01",
+                "end_date": "1905/03"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-089.csv",
+                "start_date": "1905/08",
+                "end_date": "1905/08"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-089.csv",
+                "start_date": "1905/13",
+                "end_date": "1905/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-089.csv",
+                "start_date": "1907/04",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-089.csv",
+                "start_date": "1908/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_01_pt1-page-097.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "HAMPSTEAD-AKENSIDE-ROAD-3.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-097.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-098.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "HAMPSTEAD-AKENSIDE-ROAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-089.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_01_pt1-page-089.csv",
+            "start_date": "1907/03",
+            "end_date": "1907/03"
+        },
+        {
+            "filename": "TYRain_1900-1909_01_pt1-page-089.csv",
+            "start_date": "1907/13",
+            "end_date": "1907/13"
+        }
+    ]
+}

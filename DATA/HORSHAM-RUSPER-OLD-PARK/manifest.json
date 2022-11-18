@@ -20,5 +20,15 @@
                 "end_date": "1889/13"
             }
         ]
+    },
+    "external": {
+        "HORSHAM-RUSPER-OLD-PARK.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt2-page-038.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1890/01",
+                "end_date": "1890/03"
+            }
+        ]
     }
 }

@@ -1,0 +1,12 @@
+{
+    "name": "DUNSLEY-MANOR",
+    "data": {
+        "DUNSLEY-MANOR.csv": [
+            {
+                "filename": "TYRain_1860-1869_03_pt3-page-072.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

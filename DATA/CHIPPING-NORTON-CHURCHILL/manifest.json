@@ -1,0 +1,17 @@
+{
+    "name": "CHIPPING-NORTON-CHURCHILL",
+    "data": {
+        "CHIPPING-NORTON-CHURCHILL.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-122.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_07_pt1-page-092.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

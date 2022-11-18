@@ -1,0 +1,24 @@
+{
+    "name": "AYLSHAM-BURGH-ROAD",
+    "data": {
+        "AYLSHAM-BURGH-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-127.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-127.csv",
+                "start_date": "1916/07",
+                "end_date": "1919/13"
+            }
+        ],
+        "AYLSHAM-BURGH-ROAD.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-127.csv",
+                "start_date": "1910/01",
+                "end_date": "1916/06"
+            }
+        ]
+    }
+}

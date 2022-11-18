@@ -1,0 +1,29 @@
+{
+    "name": "LYTHAM-MIX",
+    "data": {
+        "LYTHAM-MIX-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_20_pt1-page-101.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "LYTHAM-MIX.csv": [
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-100.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_09_pt1-page-012.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-215.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

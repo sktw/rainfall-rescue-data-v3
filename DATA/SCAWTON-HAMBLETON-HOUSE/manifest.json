@@ -1,0 +1,20 @@
+{
+    "name": "SCAWTON-HAMBLETON-HOUSE",
+    "data": {
+        "SCAWTON-HAMBLETON-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_22_pt1-page-201.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "SCAWTON-HAMBLETON-HOUSE.csv": [
+            {
+                "start_date": "1942/07",
+                "end_date": "1942/07"
+            }
+        ]
+    }
+}

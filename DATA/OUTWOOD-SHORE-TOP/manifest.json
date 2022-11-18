@@ -1,0 +1,17 @@
+{
+    "name": "OUTWOOD-SHORE-TOP",
+    "data": {
+        "OUTWOOD-SHORE-TOP.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-031.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-042.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

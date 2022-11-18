@@ -20,5 +20,15 @@
                 "end_date": "1879/13"
             }
         ]
+    },
+    "external": {
+        "TAUNTON-BISHOPS-LYDEARD-HOUSE-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-074.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1890/01",
+                "end_date": "1890/05"
+            }
+        ]
     }
 }

@@ -1,0 +1,25 @@
+{
+    "name": "ENSTONE-LITCHFIELD-FARM",
+    "data": {
+        "ENSTONE-LITCHFIELD-FARM.csv": [
+            {
+                "filename": "TYRain_1920-1930_07_pt1-page-154.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_07_pt1-page-161.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "ENSTONE-LITCHFIELD-FARM.csv": [
+            {
+                "start_date": "1932/13",
+                "end_date": "1932/13"
+            }
+        ]
+    }
+}

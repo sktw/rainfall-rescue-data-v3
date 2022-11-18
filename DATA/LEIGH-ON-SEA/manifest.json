@@ -1,0 +1,12 @@
+{
+    "name": "LEIGH-ON-SEA",
+    "data": {
+        "LEIGH-ON-SEA.csv": [
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-080.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

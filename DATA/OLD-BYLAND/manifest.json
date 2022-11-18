@@ -1,0 +1,36 @@
+{
+    "name": "OLD-BYLAND",
+    "data": {
+        "OLD-BYLAND-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-008.csv",
+                "start_date": "1920/04",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-008.csv",
+                "start_date": "1921/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "OLD-BYLAND.csv": [
+            {
+                "filename": "TYRain_1910-1919_21_pt1-page-027.csv",
+                "start_date": "1918/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_24_pt1-page-008.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_24_pt1-page-008.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        }
+    ]
+}

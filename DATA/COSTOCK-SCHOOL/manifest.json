@@ -1,0 +1,44 @@
+{
+    "name": "COSTOCK-SCHOOL",
+    "data": {
+        "COSTOCK-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-120.csv",
+                "start_date": "1920/01",
+                "end_date": "1926/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-120.csv",
+                "start_date": "1926/07",
+                "end_date": "1926/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-120.csv",
+                "start_date": "1926/12",
+                "end_date": "1926/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_17_pt1-page-120.csv",
+                "start_date": "1927/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-120.csv",
+            "start_date": "1926/05",
+            "end_date": "1926/06"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-120.csv",
+            "start_date": "1926/11",
+            "end_date": "1926/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_17_pt1-page-120.csv",
+            "start_date": "1926/13",
+            "end_date": "1926/13"
+        }
+    ]
+}

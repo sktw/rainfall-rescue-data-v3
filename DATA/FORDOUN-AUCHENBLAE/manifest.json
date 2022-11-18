@@ -1,0 +1,36 @@
+{
+    "name": "FORDOUN-AUCHENBLAE",
+    "data": {
+        "FORDOUN-AUCHENBLAE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-124.csv",
+                "start_date": "1944/04",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-005.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "FORDOUN-AUCHENBLAE.csv": [
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-221.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-124.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_31_pt1-page-124.csv",
+            "start_date": "1944/01",
+            "end_date": "1944/03"
+        }
+    ]
+}

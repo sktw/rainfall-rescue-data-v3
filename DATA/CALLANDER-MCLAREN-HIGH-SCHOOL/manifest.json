@@ -1,0 +1,89 @@
+{
+    "name": "CALLANDER-MCLAREN-HIGH-SCHOOL",
+    "data": {
+        "CALLANDER-MCLAREN-HIGH-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-263.csv",
+                "start_date": "1941/01",
+                "end_date": "1949/08"
+            },
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-263.csv",
+                "start_date": "1949/10",
+                "end_date": "1949/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-263.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+                "start_date": "1951/06",
+                "end_date": "1951/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+                "start_date": "1951/09",
+                "end_date": "1951/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+                "start_date": "1951/12",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+                "start_date": "1952/04",
+                "end_date": "1958/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_30_pt1-page-263.csv",
+            "start_date": "1949/09",
+            "end_date": "1949/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_30_pt1-page-263.csv",
+            "start_date": "1949/13",
+            "end_date": "1949/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+            "start_date": "1951/05",
+            "end_date": "1951/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+            "start_date": "1951/08",
+            "end_date": "1951/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+            "start_date": "1951/10",
+            "end_date": "1951/11"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+            "start_date": "1951/13",
+            "end_date": "1952/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-053.csv",
+            "start_date": "1958/12",
+            "end_date": "1958/13"
+        }
+    ]
+}

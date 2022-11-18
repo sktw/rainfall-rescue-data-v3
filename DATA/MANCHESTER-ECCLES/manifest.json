@@ -1,0 +1,44 @@
+{
+    "name": "MANCHESTER-ECCLES",
+    "data": {
+        "MANCHESTER-ECCLES-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-021.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "MANCHESTER-ECCLES-3.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-023.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_07_pt4-page-027.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "MANCHESTER-ECCLES.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-020.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_07_pt4-page-026.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "MANCHESTER-ECCLES.csv": [
+            {
+                "start_date": "1871/13",
+                "end_date": "1871/13"
+            }
+        ]
+    }
+}

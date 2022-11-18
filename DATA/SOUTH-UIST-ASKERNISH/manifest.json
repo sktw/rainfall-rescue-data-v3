@@ -1,0 +1,39 @@
+{
+    "name": "SOUTH-UIST-ASKERNISH",
+    "data": {
+        "SOUTH-UIST-ASKERNISH.csv": [
+            {
+                "filename": "TYRain_1890-1899_26_pt1-page-043.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_30_pt1-page-059.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_30_pt1-page-059.csv",
+                "start_date": "1902/02",
+                "end_date": "1902/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_30_pt1-page-059.csv",
+                "start_date": "1903/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1900-1909_30_pt1-page-059.csv",
+            "start_date": "1901/12",
+            "end_date": "1902/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_30_pt1-page-059.csv",
+            "start_date": "1902/13",
+            "end_date": "1902/13"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "WIGTON-CUMBERLAND",
+    "data": {
+        "WIGTON-CUMBERLAND.csv": [
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt1-page-070.csv",
+                "start_date": "1820/01",
+                "end_date": "1821/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1820-1829_C_pt1-page-070.csv",
+                "start_date": "1821/08",
+                "end_date": "1829/13"
+            }
+        ]
+    },
+    "idr": {
+        "WIGTON-CUMBERLAND.csv": [
+            {
+                "start_date": "1822/13",
+                "end_date": "1822/13"
+            },
+            {
+                "start_date": "1824/13",
+                "end_date": "1824/13"
+            },
+            {
+                "start_date": "1825/13",
+                "end_date": "1825/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1820-1829_C_pt1-page-070.csv",
+            "start_date": "1821/06",
+            "end_date": "1821/07"
+        }
+    ]
+}

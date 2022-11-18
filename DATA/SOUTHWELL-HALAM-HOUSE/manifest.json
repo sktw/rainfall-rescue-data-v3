@@ -5,6 +5,11 @@
             {
                 "filename": "TYRain_1910-1919_16_pt1-page-180.csv",
                 "start_date": "1915/09",
+                "end_date": "1915/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_16_pt1-page-180.csv",
+                "start_date": "1916/01",
                 "end_date": "1919/13"
             }
         ],
@@ -25,5 +30,12 @@
                 "end_date": "1919/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_16_pt1-page-180.csv",
+            "start_date": "1915/13",
+            "end_date": "1915/13"
+        }
+    ]
 }

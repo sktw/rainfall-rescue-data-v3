@@ -1,0 +1,17 @@
+{
+    "name": "WELLINGTON-OLD-HALL-SCHOOL",
+    "data": {
+        "WELLINGTON-OLD-HALL-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-074.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-042.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

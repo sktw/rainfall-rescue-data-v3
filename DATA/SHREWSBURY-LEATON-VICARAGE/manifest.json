@@ -1,0 +1,22 @@
+{
+    "name": "SHREWSBURY-LEATON-VICARAGE",
+    "data": {
+        "SHREWSBURY-LEATON-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-077.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_07_pt1-page-044.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_07_pt1-page-045.csv"
+        }
+    ]
+}

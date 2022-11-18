@@ -1,0 +1,20 @@
+{
+    "name": "SOYLAND-MOOR-TURVIN-TWO",
+    "data": {
+        "SOYLAND-MOOR-TURVIN-TWO.csv": [
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-194.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "SOYLAND-MOOR-TURVIN-TWO.csv": [
+            {
+                "start_date": "1956/01",
+                "end_date": "1956/02"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "GAIRLOCH-THE-MANSE",
+    "data": {
+        "GAIRLOCH-THE-MANSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-092.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-157.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

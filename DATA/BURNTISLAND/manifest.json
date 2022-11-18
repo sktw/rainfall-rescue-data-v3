@@ -1,0 +1,39 @@
+{
+    "name": "BURNTISLAND",
+    "data": {
+        "BURNTISLAND.csv": [
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-106.csv",
+                "start_date": "1860/01",
+                "end_date": "1862/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-106.csv",
+                "start_date": "1863/04",
+                "end_date": "1863/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_07_pt2-page-106.csv",
+                "start_date": "1864/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt1-page-006.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_07_pt2-page-106.csv",
+            "start_date": "1863/01",
+            "end_date": "1863/03"
+        },
+        {
+            "filename": "TYRain_1860-1869_07_pt2-page-106.csv",
+            "start_date": "1863/13",
+            "end_date": "1863/13"
+        }
+    ]
+}

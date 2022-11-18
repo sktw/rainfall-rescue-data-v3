@@ -1,0 +1,12 @@
+{
+    "name": "WANGFORD",
+    "data": {
+        "WANGFORD.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-081.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

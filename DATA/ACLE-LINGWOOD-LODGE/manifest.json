@@ -1,0 +1,25 @@
+{
+    "name": "ACLE-LINGWOOD-LODGE",
+    "data": {
+        "ACLE-LINGWOOD-LODGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1860-1869_02_pt2-page-126.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-039.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "ACLE-LINGWOOD-LODGE.csv": [
+            {
+                "start_date": "1868/09",
+                "end_date": "1868/09"
+            }
+        ]
+    }
+}

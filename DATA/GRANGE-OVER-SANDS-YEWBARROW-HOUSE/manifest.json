@@ -1,0 +1,17 @@
+{
+    "name": "GRANGE-OVER-SANDS-YEWBARROW-HOUSE",
+    "data": {
+        "GRANGE-OVER-SANDS-YEWBARROW-HOUSE.csv": [
+            {
+                "filename": "TYRain_1931-1940_18A_pt1-page-014.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_20_pt1-page-128.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

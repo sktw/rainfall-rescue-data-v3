@@ -1,0 +1,25 @@
+{
+    "name": "IPSDEN-VICARAGE",
+    "data": {
+        "IPSDEN-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-136.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_06_pt1-page-051.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "IPSDEN-VICARAGE.csv": [
+            {
+                "start_date": "1951/13",
+                "end_date": "1951/13"
+            }
+        ]
+    }
+}

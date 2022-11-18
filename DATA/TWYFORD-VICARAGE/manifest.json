@@ -1,0 +1,54 @@
+{
+    "name": "TWYFORD-VICARAGE",
+    "data": {
+        "TWYFORD-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-285.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-285.csv",
+                "start_date": "1954/07",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-285.csv",
+                "start_date": "1955/01",
+                "end_date": "1955/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-285.csv",
+                "start_date": "1955/04",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-285.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-285.csv",
+            "start_date": "1954/06",
+            "end_date": "1954/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-285.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-285.csv",
+            "start_date": "1955/02",
+            "end_date": "1955/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-285.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

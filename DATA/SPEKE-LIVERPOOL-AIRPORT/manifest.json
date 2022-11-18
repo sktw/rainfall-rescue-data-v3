@@ -1,0 +1,29 @@
+{
+    "name": "SPEKE-LIVERPOOL-AIRPORT",
+    "data": {
+        "SPEKE-LIVERPOOL-AIRPORT.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_19_pt1-page-104.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_17_pt1-page-140.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "SPEKE-LIVERPOOL-AIRPORT.csv": [
+            {
+                "start_date": "1948/13",
+                "end_date": "1948/13"
+            },
+            {
+                "start_date": "1949/13",
+                "end_date": "1949/13"
+            }
+        ]
+    }
+}

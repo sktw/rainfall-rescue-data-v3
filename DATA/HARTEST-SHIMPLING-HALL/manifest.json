@@ -1,0 +1,19 @@
+{
+    "name": "HARTEST-SHIMPLING-HALL",
+    "data": {
+        "HARTEST-SHIMPLING-HALL-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-014.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "HARTEST-SHIMPLING-HALL.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-054.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

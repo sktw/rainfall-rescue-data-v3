@@ -1,0 +1,19 @@
+{
+    "name": "WELSHPOOL-LEIGHTON-HALL",
+    "data": {
+        "WELSHPOOL-LEIGHTON-HALL-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-059.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "WELSHPOOL-LEIGHTON-HALL.csv": [
+            {
+                "filename": "TYRain_1900-1909_25_pt1-page-201.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

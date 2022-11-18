@@ -1,0 +1,34 @@
+{
+    "name": "RICHMOND-MARSKE-HALL",
+    "data": {
+        "RICHMOND-MARSKE-HALL.csv": [
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-205.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-205.csv",
+                "start_date": "1924/04",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_23_pt1-page-205.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-205.csv",
+            "start_date": "1924/03",
+            "end_date": "1924/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_23_pt1-page-205.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        }
+    ]
+}

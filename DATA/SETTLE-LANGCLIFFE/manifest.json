@@ -1,0 +1,12 @@
+{
+    "name": "SETTLE-LANGCLIFFE",
+    "data": {
+        "SETTLE-LANGCLIFFE.csv": [
+            {
+                "filename": "TYRain_1870-1879_08_pt1-page-219.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

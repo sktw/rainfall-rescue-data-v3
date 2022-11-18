@@ -1,0 +1,54 @@
+{
+    "name": "WIDNES-WADE-DEACON-GRAMMAR-SCHOOL",
+    "data": {
+        "WIDNES-WADE-DEACON-GRAMMAR-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-017.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/02"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-017.csv",
+                "start_date": "1933/05",
+                "end_date": "1933/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-017.csv",
+                "start_date": "1933/07",
+                "end_date": "1933/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-017.csv",
+                "start_date": "1933/09",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_17_pt1-page-017.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_17_pt1-page-017.csv",
+            "start_date": "1933/03",
+            "end_date": "1933/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_17_pt1-page-017.csv",
+            "start_date": "1933/06",
+            "end_date": "1933/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_17_pt1-page-017.csv",
+            "start_date": "1933/08",
+            "end_date": "1933/08"
+        },
+        {
+            "filename": "TYRain_1931-1940_17_pt1-page-017.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        }
+    ]
+}

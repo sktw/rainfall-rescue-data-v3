@@ -1,0 +1,81 @@
+{
+    "name": "PANT-MARTEG-GAMALLT",
+    "data": {
+        "PANT-MARTEG-GAMALLT-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/13"
+            }
+        ],
+        "PANT-MARTEG-GAMALLT.csv": [
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+                "start_date": "1951/13",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+                "start_date": "1953/05",
+                "end_date": "1956/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+                "start_date": "1956/03",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+                "start_date": "1957/01",
+                "end_date": "1959/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+                "start_date": "1959/05",
+                "end_date": "1959/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+                "start_date": "1959/08",
+                "end_date": "1959/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+            "start_date": "1956/02",
+            "end_date": "1956/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+            "start_date": "1959/04",
+            "end_date": "1959/04"
+        },
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+            "start_date": "1959/06",
+            "end_date": "1959/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-350.csv",
+            "start_date": "1959/12",
+            "end_date": "1959/13"
+        }
+    ]
+}

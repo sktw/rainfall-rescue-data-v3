@@ -1,0 +1,19 @@
+{
+    "name": "WIGAN-THE-MARIEBONNE",
+    "data": {
+        "WIGAN-THE-MARIEBONNE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-167.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "WIGAN-THE-MARIEBONNE.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-166.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

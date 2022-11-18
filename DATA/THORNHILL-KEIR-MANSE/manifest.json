@@ -16,5 +16,15 @@
                 "end_date": "1858/07"
             }
         ]
+    },
+    "external": {
+        "THORNHILL-KEIR-MANSE.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-048.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1860/01",
+                "end_date": "1860/04"
+            }
+        ]
     }
 }

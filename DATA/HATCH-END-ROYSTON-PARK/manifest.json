@@ -1,0 +1,39 @@
+{
+    "name": "HATCH-END-ROYSTON-PARK",
+    "data": {
+        "HATCH-END-ROYSTON-PARK.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-164.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-179.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-179.csv",
+                "start_date": "1921/10",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-179.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-179.csv",
+            "start_date": "1921/08",
+            "end_date": "1921/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_06_pt1-page-179.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        }
+    ]
+}

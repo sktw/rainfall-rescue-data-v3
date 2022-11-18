@@ -1,0 +1,51 @@
+{
+    "name": "CLEISH-HILLS-DEANHEAD-FARM",
+    "data": {
+        "CLEISH-HILLS-DEANHEAD-FARM-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-035.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "CLEISH-HILLS-DEANHEAD-FARM.csv": [
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-120.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-120.csv",
+                "start_date": "1912/02",
+                "end_date": "1912/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-120.csv",
+                "start_date": "1913/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-035.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_32_pt1-page-035.csv",
+                "start_date": "1928/11",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_27_pt1-page-120.csv",
+            "start_date": "1912/01",
+            "end_date": "1912/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_27_pt1-page-120.csv",
+            "start_date": "1912/13",
+            "end_date": "1912/13"
+        }
+    ]
+}

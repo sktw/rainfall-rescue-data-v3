@@ -1,0 +1,29 @@
+{
+    "name": "LITTLE-INGESTRE",
+    "data": {
+        "LITTLE-INGESTRE.csv": [
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-043.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/05"
+            },
+            {
+                "filename": "TYRain_1910-1919_15_pt1-page-043.csv",
+                "start_date": "1913/07",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_15_pt1-page-088.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_15_pt1-page-043.csv",
+            "start_date": "1913/06",
+            "end_date": "1913/06"
+        }
+    ]
+}

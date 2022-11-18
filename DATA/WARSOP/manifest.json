@@ -1,0 +1,12 @@
+{
+    "name": "WARSOP",
+    "data": {
+        "WARSOP.csv": [
+            {
+                "filename": "TYRain_1931-1940_15_pt1-page-242.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

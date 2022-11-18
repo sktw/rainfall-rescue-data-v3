@@ -1,0 +1,20 @@
+{
+    "name": "WARSOP-GLEADTHORPE-EXPERIMENTAL-HUSBANDRY-FARM",
+    "data": {
+        "WARSOP-GLEADTHORPE-EXPERIMENTAL-HUSBANDRY-FARM.csv": [
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-058.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WARSOP-GLEADTHORPE-EXPERIMENTAL-HUSBANDRY-FARM.csv": [
+            {
+                "start_date": "1959/09",
+                "end_date": "1959/09"
+            }
+        ]
+    }
+}

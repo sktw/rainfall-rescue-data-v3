@@ -1,0 +1,12 @@
+{
+    "name": "UXBRIDGE",
+    "data": {
+        "UXBRIDGE.csv": [
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-032.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "FOREST-HILL-BATTLEMOOR-COTTAGE",
+    "data": {
+        "FOREST-HILL-BATTLEMOOR-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1941-1950_08_pt1-page-153.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/10"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-153.csv",
+            "start_date": "1950/11",
+            "end_date": "1950/13"
+        }
+    ]
+}

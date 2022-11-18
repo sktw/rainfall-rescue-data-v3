@@ -1,0 +1,17 @@
+{
+    "name": "NORTHAMPTON-ST-GEORGES-PLACE",
+    "data": {
+        "NORTHAMPTON-ST-GEORGES-PLACE.csv": [
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-208.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_08_pt1-page-030.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

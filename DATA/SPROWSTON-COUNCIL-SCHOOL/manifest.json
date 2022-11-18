@@ -1,0 +1,39 @@
+{
+    "name": "SPROWSTON-COUNCIL-SCHOOL",
+    "data": {
+        "SPROWSTON-COUNCIL-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-113.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-153.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-153.csv",
+                "start_date": "1922/02",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-153.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_09_pt1-page-153.csv",
+            "start_date": "1922/01",
+            "end_date": "1922/01"
+        },
+        {
+            "filename": "TYRain_1920-1930_09_pt1-page-153.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        }
+    ]
+}

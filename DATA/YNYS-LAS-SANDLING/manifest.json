@@ -1,0 +1,17 @@
+{
+    "name": "YNYS-LAS-SANDLING",
+    "data": {
+        "YNYS-LAS-SANDLING.csv": [
+            {
+                "filename": "TYRain_1910-1919_23_pt1-page-155.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_26_pt1-page-165.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

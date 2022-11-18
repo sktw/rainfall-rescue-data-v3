@@ -1,0 +1,19 @@
+{
+    "name": "MOFFAT-HUNTLY-LODGE",
+    "data": {
+        "MOFFAT-HUNTLY-LODGE.csv": [
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-287.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/11"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-287.csv",
+            "start_date": "1940/12",
+            "end_date": "1940/13"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "SWALCLIFFE-PARK",
+    "data": {
+        "SWALCLIFFE-PARK-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt5-page-011.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_06_pt1-page-145.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "SWALCLIFFE-PARK.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt5-page-010.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

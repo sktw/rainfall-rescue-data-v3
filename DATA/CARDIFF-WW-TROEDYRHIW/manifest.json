@@ -8,5 +8,24 @@
                 "end_date": "1930/13"
             }
         ]
+    },
+    "external": {
+        "CARDIFF-WW-TROEDYRHIW.csv": [
+            {
+                "comment": "Data from British Rainfall 1917",
+                "start_date": "1917/13",
+                "end_date": "1917/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1918",
+                "start_date": "1918/13",
+                "end_date": "1918/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1919",
+                "start_date": "1919/13",
+                "end_date": "1919/13"
+            }
+        ]
     }
 }

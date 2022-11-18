@@ -1,0 +1,39 @@
+{
+    "name": "CHEDDLETON-COUNTY-MENTAL-HOSPITAL",
+    "data": {
+        "CHEDDLETON-COUNTY-MENTAL-HOSPITAL.csv": [
+            {
+                "filename": "TYRain_1920-1930_15_pt1-page-122.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-103.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-103.csv",
+                "start_date": "1934/08",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_14_pt1-page-103.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_14_pt1-page-103.csv",
+            "start_date": "1934/07",
+            "end_date": "1934/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_14_pt1-page-103.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        }
+    ]
+}

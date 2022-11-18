@@ -1,0 +1,17 @@
+{
+    "name": "PRESTWICH-POLEFIELD-HOUSE",
+    "data": {
+        "PRESTWICH-POLEFIELD-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-077.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_17_pt1-page-245.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

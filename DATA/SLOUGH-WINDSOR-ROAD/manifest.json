@@ -1,0 +1,19 @@
+{
+    "name": "SLOUGH-WINDSOR-ROAD",
+    "data": {
+        "SLOUGH-WINDSOR-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-074.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "SLOUGH-WINDSOR-ROAD.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-073.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

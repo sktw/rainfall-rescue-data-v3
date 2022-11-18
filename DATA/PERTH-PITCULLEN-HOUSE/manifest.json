@@ -1,0 +1,24 @@
+{
+    "name": "PERTH-PITCULLEN-HOUSE",
+    "data": {
+        "PERTH-PITCULLEN-HOUSE.csv": [
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-091.csv",
+                "start_date": "1900/01",
+                "end_date": "1908/03"
+            },
+            {
+                "filename": "TYRain_1900-1909_29_pt1-page-091.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_29_pt1-page-091.csv",
+            "start_date": "1908/04",
+            "end_date": "1908/13"
+        }
+    ]
+}

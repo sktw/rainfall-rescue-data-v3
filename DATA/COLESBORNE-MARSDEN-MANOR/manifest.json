@@ -1,0 +1,47 @@
+{
+    "name": "COLESBORNE-MARSDEN-MANOR",
+    "data": {
+        "COLESBORNE-MARSDEN-MANOR.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-163.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-163.csv",
+                "start_date": "1938/08",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_13_pt1-page-163.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-255.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "COLESBORNE-MARSDEN-MANOR.csv": [
+            {
+                "start_date": "1940/09",
+                "end_date": "1940/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_13_pt1-page-163.csv",
+            "start_date": "1938/04",
+            "end_date": "1938/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_13_pt1-page-163.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "SHELSLEY-WALSH",
+    "data": {
+        "SHELSLEY-WALSH.csv": [
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-264.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_15_pt1-page-098.csv"
+        }
+    ]
+}

@@ -1,11 +1,36 @@
 {
     "name": "DUMFRIES-KELTON-HOUSE",
     "data": {
-        "DUMFRIES-KELTON-HOUSE.csv": []
+        "DUMFRIES-KELTON-HOUSE.csv": [
+            {
+                "filename": "MISFILED_TYRain_1860-1869_07_pt1-page-032.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
     },
-    "unused": [
-        {
-            "filename": "MISFILED_TYRain_1860-1869_07_pt1-page-032.csv"
-        }
-    ]
+    "idr": {
+        "DUMFRIES-KELTON-HOUSE.csv": [
+            {
+                "start_date": "1870/01",
+                "end_date": "1870/01"
+            },
+            {
+                "start_date": "1870/06",
+                "end_date": "1871/01"
+            },
+            {
+                "start_date": "1871/06",
+                "end_date": "1871/12"
+            },
+            {
+                "start_date": "1872/01",
+                "end_date": "1872/03"
+            },
+            {
+                "start_date": "1872/06",
+                "end_date": "1873/13"
+            }
+        ]
+    }
 }

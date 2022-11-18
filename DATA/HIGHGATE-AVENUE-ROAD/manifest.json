@@ -1,0 +1,44 @@
+{
+    "name": "HIGHGATE-AVENUE-ROAD",
+    "data": {
+        "HIGHGATE-AVENUE-ROAD.csv": [
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-184.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/01"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-184.csv",
+                "start_date": "1919/03",
+                "end_date": "1919/05"
+            },
+            {
+                "filename": "TYRain_1910-1919_06_pt1-page-184.csv",
+                "start_date": "1919/07",
+                "end_date": "1919/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_06_pt1-page-199.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_06_pt1-page-184.csv",
+            "start_date": "1919/02",
+            "end_date": "1919/02"
+        },
+        {
+            "filename": "TYRain_1910-1919_06_pt1-page-184.csv",
+            "start_date": "1919/06",
+            "end_date": "1919/06"
+        },
+        {
+            "filename": "TYRain_1910-1919_06_pt1-page-184.csv",
+            "start_date": "1919/13",
+            "end_date": "1919/13"
+        }
+    ]
+}

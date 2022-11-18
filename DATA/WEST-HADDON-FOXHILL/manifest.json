@@ -1,0 +1,17 @@
+{
+    "name": "WEST-HADDON-FOXHILL",
+    "data": {
+        "WEST-HADDON-FOXHILL.csv": [
+            {
+                "filename": "TYRain_1931-1940_07_pt1-page-277.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_08_pt1-page-197.csv"
+        }
+    ]
+}

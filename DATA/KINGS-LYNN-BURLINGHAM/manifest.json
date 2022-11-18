@@ -1,0 +1,73 @@
+{
+    "name": "KINGS-LYNN-BURLINGHAM",
+    "data": {
+        "KINGS-LYNN-BURLINGHAM-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-151.csv",
+                "start_date": "1910/01",
+                "end_date": "1916/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-151.csv",
+                "start_date": "1917/11",
+                "end_date": "1917/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-151.csv",
+                "start_date": "1918/01",
+                "end_date": "1918/06"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-151.csv",
+                "start_date": "1918/08",
+                "end_date": "1918/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-151.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-242.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "KINGS-LYNN-BURLINGHAM-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-244.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "KINGS-LYNN-BURLINGHAM.csv": [
+            {
+                "filename": "TYRain_1910-1919_10_pt1-page-152.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-151.csv",
+            "start_date": "1917/01",
+            "end_date": "1917/10"
+        },
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-151.csv",
+            "start_date": "1917/13",
+            "end_date": "1917/13"
+        },
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-151.csv",
+            "start_date": "1918/07",
+            "end_date": "1918/07"
+        },
+        {
+            "filename": "TYRain_1910-1919_10_pt1-page-151.csv",
+            "start_date": "1918/13",
+            "end_date": "1918/13"
+        }
+    ]
+}

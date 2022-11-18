@@ -1,0 +1,17 @@
+{
+    "name": "MAISEY-HAMPTON-THE-NEST",
+    "data": {
+        "MAISEY-HAMPTON-THE-NEST.csv": [
+            {
+                "filename": "TYRain_1920-1930_14_pt1-page-014.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_13_pt1-page-153.csv"
+        }
+    ]
+}

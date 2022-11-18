@@ -1,0 +1,29 @@
+{
+    "name": "KIRKHAM-ESPRICK",
+    "data": {
+        "KIRKHAM-ESPRICK.csv": [
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-152.csv",
+                "start_date": "1951/02",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-152.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-152.csv",
+            "start_date": "1951/01",
+            "end_date": "1951/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-152.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        }
+    ]
+}

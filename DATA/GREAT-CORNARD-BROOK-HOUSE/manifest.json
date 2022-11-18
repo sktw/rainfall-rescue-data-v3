@@ -1,0 +1,17 @@
+{
+    "name": "GREAT-CORNARD-BROOK-HOUSE",
+    "data": {
+        "GREAT-CORNARD-BROOK-HOUSE.csv": [
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-008.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_10_pt1-page-183.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

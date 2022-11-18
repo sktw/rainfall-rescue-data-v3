@@ -30,5 +30,15 @@
                 "end_date": "1889/13"
             }
         ]
+    },
+    "external": {
+        "ELY-LITTLEPORT.csv": [
+            {
+                "filename": "TYRain_1880-1889_04_pt4-page-009.jpg",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1890/01",
+                "end_date": "1890/04"
+            }
+        ]
     }
 }

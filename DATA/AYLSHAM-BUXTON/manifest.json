@@ -1,0 +1,17 @@
+{
+    "name": "AYLSHAM-BUXTON",
+    "data": {
+        "AYLSHAM-BUXTON.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-099.csv",
+                "start_date": "1790/01",
+                "end_date": "1799/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1677-1886_A_pt1-page-097.csv"
+        }
+    ]
+}

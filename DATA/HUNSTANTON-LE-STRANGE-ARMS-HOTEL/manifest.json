@@ -1,0 +1,52 @@
+{
+    "name": "HUNSTANTON-LE-STRANGE-ARMS-HOTEL",
+    "data": {
+        "HUNSTANTON-LE-STRANGE-ARMS-HOTEL.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_10_pt1-page-025.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-205.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-205.csv",
+                "start_date": "1923/11",
+                "end_date": "1923/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_09_pt1-page-205.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_09_pt1-page-210.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "HUNSTANTON-LE-STRANGE-ARMS-HOTEL.csv": [
+            {
+                "start_date": "1907/01",
+                "end_date": "1907/01"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_09_pt1-page-205.csv",
+            "start_date": "1923/10",
+            "end_date": "1923/10"
+        },
+        {
+            "filename": "TYRain_1920-1930_09_pt1-page-205.csv",
+            "start_date": "1923/13",
+            "end_date": "1923/13"
+        }
+    ]
+}

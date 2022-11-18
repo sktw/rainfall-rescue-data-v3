@@ -1,0 +1,17 @@
+{
+    "name": "WEASENHAM-LITCHAM",
+    "data": {
+        "WEASENHAM-LITCHAM.csv": [
+            {
+                "filename": "TYRain_1860-1869_02_pt2-page-124.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_03_pt3-page-034.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}
