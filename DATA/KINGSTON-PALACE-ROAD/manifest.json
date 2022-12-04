@@ -1,0 +1,41 @@
+{
+    "name": "KINGSTON-PALACE-ROAD",
+    "data": {
+        "KINGSTON-PALACE-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-187.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-178.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "KINGSTON-PALACE-ROAD.csv": [
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-186.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/03"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-186.csv",
+                "start_date": "1913/05",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-177.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-186.csv",
+            "start_date": "1913/04",
+            "end_date": "1913/04"
+        }
+    ]
+}

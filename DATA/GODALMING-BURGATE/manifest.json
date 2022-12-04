@@ -1,0 +1,44 @@
+{
+    "name": "GODALMING-BURGATE",
+    "data": {
+        "GODALMING-BURGATE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-006.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/11"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-006.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-056.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "GODALMING-BURGATE.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_02_pt1-page-215.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "GODALMING-BURGATE.csv": [
+            {
+                "start_date": "1939/13",
+                "end_date": "1939/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-006.csv",
+            "start_date": "1941/12",
+            "end_date": "1941/13"
+        }
+    ]
+}

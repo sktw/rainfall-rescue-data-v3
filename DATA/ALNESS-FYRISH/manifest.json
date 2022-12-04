@@ -1,0 +1,29 @@
+{
+    "name": "ALNESS-FYRISH",
+    "data": {
+        "ALNESS-FYRISH.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-138.csv",
+                "start_date": "1910/02",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-138.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_28_pt1-page-138.csv",
+            "start_date": "1910/01",
+            "end_date": "1910/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_28_pt1-page-138.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        }
+    ]
+}

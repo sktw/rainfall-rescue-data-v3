@@ -1,0 +1,12 @@
+{
+    "name": "BURY-HILL-DORKING",
+    "data": {
+        "BURY-HILL-DORKING.csv": [
+            {
+                "filename": "TYRain_1850-1859_G_pt1-page-038.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            }
+        ]
+    }
+}

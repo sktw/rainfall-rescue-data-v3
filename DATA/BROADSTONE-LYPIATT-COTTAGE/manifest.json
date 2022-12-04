@@ -1,0 +1,24 @@
+{
+    "name": "BROADSTONE-LYPIATT-COTTAGE",
+    "data": {
+        "BROADSTONE-LYPIATT-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-063.csv",
+                "start_date": "1910/01",
+                "end_date": "1917/09"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-063.csv",
+                "start_date": "1917/11",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_11_pt1-page-063.csv",
+            "start_date": "1917/10",
+            "end_date": "1917/10"
+        }
+    ]
+}

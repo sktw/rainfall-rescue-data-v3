@@ -1,0 +1,43 @@
+{
+    "name": "CHISLEHURST-HEATHFIELD-LODGE",
+    "data": {
+        "CHISLEHURST-HEATHFIELD-LODGE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt3-page-106.csv",
+                "start_date": "1870/01",
+                "end_date": "1872/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt3-page-106.csv",
+                "start_date": "1873/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "CHISLEHURST-HEATHFIELD-LODGE-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-104.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "CHISLEHURST-HEATHFIELD-LODGE.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt2-page-065.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt3-page-105.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_01_pt3-page-106.csv",
+            "start_date": "1872/13",
+            "end_date": "1872/13"
+        }
+    ]
+}

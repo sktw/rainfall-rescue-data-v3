@@ -1,0 +1,64 @@
+{
+    "name": "RED-HILL-LINKFIELD-LANE",
+    "data": {
+        "RED-HILL-LINKFIELD-LANE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-105.csv",
+                "start_date": "1906/06",
+                "end_date": "1906/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-105.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-120.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "RED-HILL-LINKFIELD-LANE.csv": [
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-105.csv",
+                "start_date": "1901/03",
+                "end_date": "1901/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-105.csv",
+                "start_date": "1902/01",
+                "end_date": "1905/13"
+            }
+        ]
+    },
+    "idr": {
+        "RED-HILL-LINKFIELD-LANE.csv": [
+            {
+                "start_date": "1904/07",
+                "end_date": "1904/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_02_pt1-page-105.csv",
+            "start_date": "1900/01",
+            "end_date": "1901/02"
+        },
+        {
+            "filename": "TYRain_1900-1909_02_pt1-page-105.csv",
+            "start_date": "1901/13",
+            "end_date": "1901/13"
+        },
+        {
+            "filename": "TYRain_1900-1909_02_pt1-page-105.csv",
+            "start_date": "1906/01",
+            "end_date": "1906/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_02_pt1-page-105.csv",
+            "start_date": "1906/13",
+            "end_date": "1906/13"
+        }
+    ]
+}

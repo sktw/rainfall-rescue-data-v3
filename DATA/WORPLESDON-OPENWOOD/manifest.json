@@ -1,0 +1,37 @@
+{
+    "name": "WORPLESDON-OPENWOOD",
+    "data": {
+        "WORPLESDON-OPENWOOD.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_02_pt1-page-286.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-032.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-032.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "WORPLESDON-OPENWOOD.csv": [
+            {
+                "start_date": "1925/06",
+                "end_date": "1925/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-032.csv",
+            "start_date": "1932/10",
+            "end_date": "1932/13"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "KINGSTON-GRAMMAR-SCHOOL",
+    "data": {
+        "KINGSTON-GRAMMAR-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-180.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-180.csv",
+                "start_date": "1923/09",
+                "end_date": "1923/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-180.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-180.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-180.csv",
+                "start_date": "1936/03",
+                "end_date": "1936/08"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-180.csv",
+                "start_date": "1936/11",
+                "end_date": "1936/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-180.csv",
+                "start_date": "1937/03",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-180.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-180.csv",
+            "start_date": "1923/07",
+            "end_date": "1923/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-180.csv",
+            "start_date": "1923/13",
+            "end_date": "1923/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-180.csv",
+            "start_date": "1936/01",
+            "end_date": "1936/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-180.csv",
+            "start_date": "1936/09",
+            "end_date": "1936/10"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-180.csv",
+            "start_date": "1936/12",
+            "end_date": "1937/02"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-180.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        }
+    ]
+}

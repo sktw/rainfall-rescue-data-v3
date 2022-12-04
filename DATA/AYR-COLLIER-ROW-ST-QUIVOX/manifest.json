@@ -1,0 +1,25 @@
+{
+    "name": "AYR-COLLIER-ROW-ST-QUIVOX",
+    "data": {
+        "AYR-COLLIER-ROW-ST-QUIVOX.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_26_pt1-page-088.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_30_pt1-page-198.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "AYR-COLLIER-ROW-ST-QUIVOX.csv": [
+            {
+                "start_date": "1919/09",
+                "end_date": "1919/09"
+            }
+        ]
+    }
+}

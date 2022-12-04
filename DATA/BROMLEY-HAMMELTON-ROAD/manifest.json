@@ -1,0 +1,47 @@
+{
+    "name": "BROMLEY-HAMMELTON-ROAD",
+    "data": {
+        "BROMLEY-HAMMELTON-ROAD.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-279.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-258.csv",
+                "start_date": "1920/01",
+                "end_date": "1922/05"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-258.csv",
+                "start_date": "1922/08",
+                "end_date": "1922/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-258.csv",
+                "start_date": "1923/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "BROMLEY-HAMMELTON-ROAD.csv": [
+            {
+                "start_date": "1921/06",
+                "end_date": "1921/06"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-258.csv",
+            "start_date": "1922/06",
+            "end_date": "1922/07"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-258.csv",
+            "start_date": "1922/13",
+            "end_date": "1922/13"
+        }
+    ]
+}

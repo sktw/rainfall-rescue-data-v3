@@ -1,0 +1,49 @@
+{
+    "name": "RAYNES-PARK-SCHOOL",
+    "data": {
+        "RAYNES-PARK-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-187.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-186.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-186.csv",
+                "start_date": "1935/05",
+                "end_date": "1935/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-186.csv",
+                "start_date": "1935/07",
+                "end_date": "1935/07"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-186.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-186.csv",
+            "start_date": "1935/04",
+            "end_date": "1935/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-186.csv",
+            "start_date": "1935/06",
+            "end_date": "1935/06"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-186.csv",
+            "start_date": "1935/08",
+            "end_date": "1935/13"
+        }
+    ]
+}

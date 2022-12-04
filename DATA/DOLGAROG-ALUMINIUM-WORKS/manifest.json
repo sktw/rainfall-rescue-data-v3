@@ -1,0 +1,17 @@
+{
+    "name": "DOLGAROG-ALUMINIUM-WORKS",
+    "data": {
+        "DOLGAROG-ALUMINIUM-WORKS.csv": [
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-141.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-194.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

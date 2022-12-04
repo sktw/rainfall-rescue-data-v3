@@ -70,7 +70,12 @@
             {
                 "filename": "TYRain_1920-1930_26_pt1-page-255.csv",
                 "start_date": "1930/10",
-                "end_date": "1930/13"
+                "end_date": "1930/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_22_pt1-page-098.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
             }
         ]
     },
@@ -111,6 +116,10 @@
             {
                 "start_date": "1917/04",
                 "end_date": "1917/04"
+            },
+            {
+                "start_date": "1917/12",
+                "end_date": "1917/12"
             }
         ]
     },
@@ -166,7 +175,9 @@
             "end_date": "1930/09"
         },
         {
-            "filename": "TYRain_1931-1940_22_pt1-page-098.csv"
+            "filename": "TYRain_1920-1930_26_pt1-page-255.csv",
+            "start_date": "1930/13",
+            "end_date": "1930/13"
         }
     ]
 }

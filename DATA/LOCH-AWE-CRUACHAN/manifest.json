@@ -1,0 +1,27 @@
+{
+    "name": "LOCH-AWE-CRUACHAN",
+    "data": {
+        "LOCH-AWE-CRUACHAN.csv": [
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-171.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-022.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-164.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-257.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

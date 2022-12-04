@@ -1,0 +1,29 @@
+{
+    "name": "HYTHE-SEABROOK-ROAD",
+    "data": {
+        "HYTHE-SEABROOK-ROAD.csv": [
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-018.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-015.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-015.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-015.csv",
+            "start_date": "1954/11",
+            "end_date": "1954/13"
+        }
+    ]
+}

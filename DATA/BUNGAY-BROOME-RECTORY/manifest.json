@@ -1,0 +1,49 @@
+{
+    "name": "BUNGAY-BROOME-RECTORY",
+    "data": {
+        "BUNGAY-BROOME-RECTORY.csv": [
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-197.csv",
+                "start_date": "1951/01",
+                "end_date": "1959/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-197.csv",
+                "start_date": "1959/06",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-197.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_08_pt1-page-197.csv",
+                "start_date": "1960/07",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_08_pt1-page-197.csv",
+            "start_date": "1959/04",
+            "end_date": "1959/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_08_pt1-page-197.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_08_pt1-page-197.csv",
+            "start_date": "1960/06",
+            "end_date": "1960/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_08_pt1-page-197.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

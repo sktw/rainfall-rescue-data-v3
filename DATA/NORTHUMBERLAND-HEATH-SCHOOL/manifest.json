@@ -1,0 +1,114 @@
+{
+    "name": "NORTHUMBERLAND-HEATH-SCHOOL",
+    "data": {
+        "NORTHUMBERLAND-HEATH-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1951/10",
+                "end_date": "1953/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1954/01",
+                "end_date": "1954/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1954/03",
+                "end_date": "1954/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1954/10",
+                "end_date": "1954/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1955/01",
+                "end_date": "1956/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1956/10",
+                "end_date": "1956/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1957/02",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1958/02",
+                "end_date": "1958/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1958/10",
+                "end_date": "1958/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+            "start_date": "1951/08",
+            "end_date": "1951/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+            "start_date": "1953/07",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+            "start_date": "1954/02",
+            "end_date": "1954/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+            "start_date": "1954/07",
+            "end_date": "1954/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+            "start_date": "1954/11",
+            "end_date": "1954/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+            "start_date": "1956/07",
+            "end_date": "1956/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+            "start_date": "1956/12",
+            "end_date": "1957/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+            "start_date": "1957/13",
+            "end_date": "1958/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+            "start_date": "1958/07",
+            "end_date": "1958/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_02_pt1-page-228.csv",
+            "start_date": "1958/11",
+            "end_date": "1958/13"
+        }
+    ]
+}

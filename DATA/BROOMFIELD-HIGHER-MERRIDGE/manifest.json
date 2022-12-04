@@ -1,0 +1,20 @@
+{
+    "name": "BROOMFIELD-HIGHER-MERRIDGE",
+    "data": {
+        "BROOMFIELD-HIGHER-MERRIDGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_12_pt1-page-147.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BROOMFIELD-HIGHER-MERRIDGE.csv": [
+            {
+                "start_date": "1956/13",
+                "end_date": "1956/13"
+            }
+        ]
+    }
+}

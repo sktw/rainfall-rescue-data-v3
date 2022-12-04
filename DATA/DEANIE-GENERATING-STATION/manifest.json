@@ -1,0 +1,12 @@
+{
+    "name": "DEANIE-GENERATING-STATION",
+    "data": {
+        "DEANIE-GENERATING-STATION.csv": [
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-235.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

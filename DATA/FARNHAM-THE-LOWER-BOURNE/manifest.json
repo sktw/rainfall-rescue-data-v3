@@ -1,0 +1,39 @@
+{
+    "name": "FARNHAM-THE-LOWER-BOURNE",
+    "data": {
+        "FARNHAM-THE-LOWER-BOURNE.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_01_pt1-page-184.csv",
+                "start_date": "1900/01",
+                "end_date": "1907/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_01_pt1-page-184.csv",
+                "start_date": "1908/03",
+                "end_date": "1908/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_01_pt1-page-184.csv",
+                "start_date": "1909/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-267.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1900-1909_01_pt1-page-184.csv",
+            "start_date": "1907/13",
+            "end_date": "1908/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_01_pt1-page-184.csv",
+            "start_date": "1908/13",
+            "end_date": "1908/13"
+        }
+    ]
+}

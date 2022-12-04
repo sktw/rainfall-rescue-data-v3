@@ -1,0 +1,20 @@
+{
+    "name": "MAIDSTONE-LEEDS-SCHOOLHOUSE",
+    "data": {
+        "MAIDSTONE-LEEDS-SCHOOLHOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-187.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "MAIDSTONE-LEEDS-SCHOOLHOUSE.csv": [
+            {
+                "start_date": "1917/07",
+                "end_date": "1917/07"
+            }
+        ]
+    }
+}

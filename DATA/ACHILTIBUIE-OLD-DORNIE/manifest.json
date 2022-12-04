@@ -1,0 +1,17 @@
+{
+    "name": "ACHILTIBUIE-OLD-DORNIE",
+    "data": {
+        "ACHILTIBUIE-OLD-DORNIE.csv": [
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-146.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_32_pt1-page-163.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

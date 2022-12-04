@@ -1,0 +1,61 @@
+{
+    "name": "SWINGFIELD-ST-JOHNS",
+    "data": {
+        "SWINGFIELD-ST-JOHNS-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-140.csv",
+                "start_date": "1933/02",
+                "end_date": "1933/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-140.csv",
+                "start_date": "1934/02",
+                "end_date": "1934/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-140.csv",
+                "start_date": "1935/01",
+                "end_date": "1938/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-140.csv",
+                "start_date": "1940/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "SWINGFIELD-ST-JOHNS.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-041.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-140.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-140.csv",
+                "start_date": "1933/12",
+                "end_date": "1933/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-140.csv",
+                "start_date": "1936/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-140.csv",
+            "start_date": "1934/01",
+            "end_date": "1934/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-140.csv",
+            "start_date": "1934/13",
+            "end_date": "1934/13"
+        }
+    ]
+}

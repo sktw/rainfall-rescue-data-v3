@@ -1,0 +1,44 @@
+{
+    "name": "INVERGARRY-THE-SCHOOL-HOUSE",
+    "data": {
+        "INVERGARRY-THE-SCHOOL-HOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-224.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-224.csv",
+                "start_date": "1913/02",
+                "end_date": "1913/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-224.csv",
+                "start_date": "1914/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-147.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-037.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_28_pt1-page-224.csv",
+            "start_date": "1913/01",
+            "end_date": "1913/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_28_pt1-page-224.csv",
+            "start_date": "1913/13",
+            "end_date": "1913/13"
+        }
+    ]
+}

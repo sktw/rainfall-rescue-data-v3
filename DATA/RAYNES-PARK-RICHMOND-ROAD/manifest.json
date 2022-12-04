@@ -1,0 +1,46 @@
+{
+    "name": "RAYNES-PARK-RICHMOND-ROAD",
+    "data": {
+        "RAYNES-PARK-RICHMOND-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-188.csv",
+                "start_date": "1938/10",
+                "end_date": "1938/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-188.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-143.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "RAYNES-PARK-RICHMOND-ROAD.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-190.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-188.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-188.csv",
+            "start_date": "1938/09",
+            "end_date": "1938/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-188.csv",
+            "start_date": "1938/13",
+            "end_date": "1938/13"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "GUERNSEY-FORT-ROAD-LA-COTTE",
+    "data": {
+        "GUERNSEY-FORT-ROAD-LA-COTTE.csv": [
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-146.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-146.csv",
+            "start_date": "1930/10",
+            "end_date": "1930/13"
+        }
+    ]
+}

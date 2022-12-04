@@ -1,0 +1,49 @@
+{
+    "name": "LOCH-MORLICH-BADAGUISH",
+    "data": {
+        "LOCH-MORLICH-BADAGUISH.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-239.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-239.csv",
+                "start_date": "1945/02",
+                "end_date": "1945/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-239.csv",
+                "start_date": "1945/07",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-239.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-145.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_31_pt1-page-239.csv",
+            "start_date": "1945/01",
+            "end_date": "1945/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_31_pt1-page-239.csv",
+            "start_date": "1945/03",
+            "end_date": "1945/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_31_pt1-page-239.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "HINDHEAD-STOATLEY-HALL",
+    "data": {
+        "HINDHEAD-STOATLEY-HALL.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-154.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-226.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

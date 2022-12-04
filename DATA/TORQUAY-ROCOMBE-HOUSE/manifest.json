@@ -1,0 +1,39 @@
+{
+    "name": "TORQUAY-ROCOMBE-HOUSE",
+    "data": {
+        "TORQUAY-ROCOMBE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-060.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-048.csv",
+                "start_date": "1880/01",
+                "end_date": "1884/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-048.csv",
+                "start_date": "1885/03",
+                "end_date": "1885/12"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-048.csv",
+                "start_date": "1886/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_05_pt4-page-048.csv",
+            "start_date": "1885/01",
+            "end_date": "1885/02"
+        },
+        {
+            "filename": "TYRain_1880-1889_05_pt4-page-048.csv",
+            "start_date": "1885/13",
+            "end_date": "1885/13"
+        }
+    ]
+}

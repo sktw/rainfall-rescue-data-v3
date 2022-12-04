@@ -1,0 +1,17 @@
+{
+    "name": "BENTLEY-MARELANDS",
+    "data": {
+        "BENTLEY-MARELANDS.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-028.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-252.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

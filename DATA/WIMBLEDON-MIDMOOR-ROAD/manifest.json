@@ -1,0 +1,86 @@
+{
+    "name": "WIMBLEDON-MIDMOOR-ROAD",
+    "data": {
+        "WIMBLEDON-MIDMOOR-ROAD-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+                "start_date": "1945/07",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            }
+        ],
+        "WIMBLEDON-MIDMOOR-ROAD.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+                "start_date": "1943/02",
+                "end_date": "1943/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+                "start_date": "1944/01",
+                "end_date": "1944/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+                "start_date": "1944/09",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+                "start_date": "1945/01",
+                "end_date": "1945/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+            "start_date": "1943/01",
+            "end_date": "1943/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+            "start_date": "1943/13",
+            "end_date": "1943/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+            "start_date": "1944/07",
+            "end_date": "1944/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+            "start_date": "1945/06",
+            "end_date": "1945/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-134.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        }
+    ]
+}

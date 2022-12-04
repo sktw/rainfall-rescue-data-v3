@@ -1,0 +1,29 @@
+{
+    "name": "EVERSHOT-STICKLANDS-SCHOOL",
+    "data": {
+        "EVERSHOT-STICKLANDS-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_10_pt1-page-171.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_12_pt1-page-092.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "EVERSHOT-STICKLANDS-SCHOOL.csv": [
+            {
+                "start_date": "1934/13",
+                "end_date": "1934/13"
+            },
+            {
+                "start_date": "1935/13",
+                "end_date": "1935/13"
+            }
+        ]
+    }
+}

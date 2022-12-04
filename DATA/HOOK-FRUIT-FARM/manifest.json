@@ -1,0 +1,94 @@
+{
+    "name": "HOOK-FRUIT-FARM",
+    "data": {
+        "HOOK-FRUIT-FARM.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+                "start_date": "1954/04",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+                "start_date": "1955/06",
+                "end_date": "1955/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+                "start_date": "1955/11",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+                "start_date": "1956/01",
+                "end_date": "1957/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+                "start_date": "1957/03",
+                "end_date": "1957/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+                "start_date": "1957/07",
+                "end_date": "1957/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+                "start_date": "1957/11",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+            "start_date": "1954/13",
+            "end_date": "1955/05"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+            "start_date": "1955/10",
+            "end_date": "1955/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+            "start_date": "1957/02",
+            "end_date": "1957/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+            "start_date": "1957/06",
+            "end_date": "1957/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+            "start_date": "1957/10",
+            "end_date": "1957/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_04_pt1-page-131.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

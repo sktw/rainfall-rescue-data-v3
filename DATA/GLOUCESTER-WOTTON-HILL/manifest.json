@@ -1,0 +1,29 @@
+{
+    "name": "GLOUCESTER-WOTTON-HILL",
+    "data": {
+        "GLOUCESTER-WOTTON-HILL-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-173.csv",
+                "start_date": "1894/04",
+                "end_date": "1894/09"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-173.csv",
+                "start_date": "1894/13",
+                "end_date": "1899/13"
+            }
+        ],
+        "GLOUCESTER-WOTTON-HILL.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-173.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/03"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-173.csv",
+                "start_date": "1894/10",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

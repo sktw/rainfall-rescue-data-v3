@@ -1,0 +1,19 @@
+{
+    "name": "WROTHAM-WHITEHILL",
+    "data": {
+        "WROTHAM-WHITEHILL-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-210.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "WROTHAM-WHITEHILL.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-209.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

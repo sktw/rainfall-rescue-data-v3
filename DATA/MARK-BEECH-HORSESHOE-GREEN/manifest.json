@@ -1,0 +1,20 @@
+{
+    "name": "MARK-BEECH-HORSESHOE-GREEN",
+    "data": {
+        "MARK-BEECH-HORSESHOE-GREEN.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-114.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "MARK-BEECH-HORSESHOE-GREEN.csv": [
+            {
+                "start_date": "1960/06",
+                "end_date": "1960/06"
+            }
+        ]
+    }
+}

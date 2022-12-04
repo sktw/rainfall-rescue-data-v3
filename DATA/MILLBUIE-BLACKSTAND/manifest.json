@@ -1,0 +1,32 @@
+{
+    "name": "MILLBUIE-BLACKSTAND",
+    "data": {
+        "MILLBUIE-BLACKSTAND.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-014.csv",
+                "start_date": "1951/01",
+                "end_date": "1956/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_29_pt1-page-014.csv",
+                "start_date": "1956/08",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "MILLBUIE-BLACKSTAND.csv": [
+            {
+                "start_date": "1959/13",
+                "end_date": "1959/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_29_pt1-page-014.csv",
+            "start_date": "1956/07",
+            "end_date": "1956/07"
+        }
+    ]
+}

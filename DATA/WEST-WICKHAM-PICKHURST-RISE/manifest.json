@@ -1,0 +1,42 @@
+{
+    "name": "WEST-WICKHAM-PICKHURST-RISE",
+    "data": {
+        "WEST-WICKHAM-PICKHURST-RISE.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-201.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-201.csv",
+                "start_date": "1955/07",
+                "end_date": "1955/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-201.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "WEST-WICKHAM-PICKHURST-RISE.csv": [
+            {
+                "start_date": "1959/02",
+                "end_date": "1959/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-201.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-201.csv",
+            "start_date": "1955/12",
+            "end_date": "1955/13"
+        }
+    ]
+}

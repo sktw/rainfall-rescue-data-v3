@@ -1,0 +1,78 @@
+{
+    "name": "DOVER-BARTON-ROAD",
+    "data": {
+        "DOVER-BARTON-ROAD-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+                "start_date": "1933/12",
+                "end_date": "1933/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+                "start_date": "1934/01",
+                "end_date": "1937/06"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+                "start_date": "1939/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+                "start_date": "1940/08",
+                "end_date": "1940/13"
+            }
+        ],
+        "DOVER-BARTON-ROAD-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+                "start_date": "1937/10",
+                "end_date": "1937/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "DOVER-BARTON-ROAD.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-034.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+                "start_date": "1939/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+                "start_date": "1940/08",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+            "start_date": "1933/13",
+            "end_date": "1933/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+            "start_date": "1937/07",
+            "end_date": "1937/09"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-131.csv",
+            "start_date": "1937/13",
+            "end_date": "1937/13"
+        }
+    ]
+}

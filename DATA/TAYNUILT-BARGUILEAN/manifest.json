@@ -1,0 +1,20 @@
+{
+    "name": "TAYNUILT-BARGUILEAN",
+    "data": {
+        "TAYNUILT-BARGUILEAN.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_27_pt1-page-019.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "TAYNUILT-BARGUILEAN.csv": [
+            {
+                "start_date": "1913/13",
+                "end_date": "1913/13"
+            }
+        ]
+    }
+}

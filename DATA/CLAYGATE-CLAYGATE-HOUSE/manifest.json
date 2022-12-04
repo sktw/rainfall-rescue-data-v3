@@ -1,0 +1,68 @@
+{
+    "name": "CLAYGATE-CLAYGATE-HOUSE",
+    "data": {
+        "CLAYGATE-CLAYGATE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-152.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-152.csv",
+                "start_date": "1936/02",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-152.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-113.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_02_pt1-page-113.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "CLAYGATE-CLAYGATE-HOUSE.csv": [
+            {
+                "start_date": "1944/03",
+                "end_date": "1944/03"
+            },
+            {
+                "start_date": "1946/01",
+                "end_date": "1946/02"
+            },
+            {
+                "start_date": "1947/02",
+                "end_date": "1947/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_02_pt1-page-113.csv",
+            "start_date": "1941/11",
+            "end_date": "1941/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-152.csv",
+            "start_date": "1936/01",
+            "end_date": "1936/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-152.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_01_pt1-page-165.csv"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "WOOTTON-COURTNEY-GREENACRES",
+    "data": {
+        "WOOTTON-COURTNEY-GREENACRES.csv": [
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-342.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-342.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-121.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/10"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-121.csv",
+                "start_date": "1941/12",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-121.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "WOOTTON-COURTNEY-GREENACRES.csv": [
+            {
+                "start_date": "1935/11",
+                "end_date": "1935/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-342.csv",
+            "start_date": "1936/11",
+            "end_date": "1936/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-121.csv",
+            "start_date": "1941/11",
+            "end_date": "1941/11"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-121.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

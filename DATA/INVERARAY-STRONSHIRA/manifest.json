@@ -1,0 +1,39 @@
+{
+    "name": "INVERARAY-STRONSHIRA",
+    "data": {
+        "INVERARAY-STRONSHIRA.csv": [
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-201.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_27_pt1-page-052.csv",
+                "start_date": "1910/01",
+                "end_date": "1915/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_27_pt1-page-052.csv",
+                "start_date": "1916/01",
+                "end_date": "1918/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_27_pt1-page-052.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_27_pt1-page-052.csv",
+            "start_date": "1915/13",
+            "end_date": "1915/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1910-1919_27_pt1-page-052.csv",
+            "start_date": "1918/13",
+            "end_date": "1918/13"
+        }
+    ]
+}

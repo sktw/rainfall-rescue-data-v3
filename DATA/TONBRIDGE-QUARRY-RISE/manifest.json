@@ -1,0 +1,34 @@
+{
+    "name": "TONBRIDGE-QUARRY-RISE",
+    "data": {
+        "TONBRIDGE-QUARRY-RISE.csv": [
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-120.csv",
+                "start_date": "1941/01",
+                "end_date": "1944/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-120.csv",
+                "start_date": "1944/07",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_03_pt1-page-120.csv",
+                "start_date": "1945/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_03_pt1-page-120.csv",
+            "start_date": "1944/06",
+            "end_date": "1944/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_03_pt1-page-120.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        }
+    ]
+}

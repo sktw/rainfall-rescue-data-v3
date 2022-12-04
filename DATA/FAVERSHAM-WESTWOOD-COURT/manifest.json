@@ -1,0 +1,22 @@
+{
+    "name": "FAVERSHAM-WESTWOOD-COURT",
+    "data": {
+        "FAVERSHAM-WESTWOOD-COURT.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-263.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-101.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-102.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "SANDWICK-NORTH-PARK",
+    "data": {
+        "SANDWICK-NORTH-PARK.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-125.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

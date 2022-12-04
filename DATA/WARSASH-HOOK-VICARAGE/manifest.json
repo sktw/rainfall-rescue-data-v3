@@ -1,0 +1,17 @@
+{
+    "name": "WARSASH-HOOK-VICARAGE",
+    "data": {
+        "WARSASH-HOOK-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-189.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-136.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

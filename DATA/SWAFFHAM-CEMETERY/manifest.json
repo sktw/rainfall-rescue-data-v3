@@ -1,0 +1,24 @@
+{
+    "name": "SWAFFHAM-CEMETERY",
+    "data": {
+        "SWAFFHAM-CEMETERY.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_09_pt1-page-060.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "SWAFFHAM-CEMETERY.csv": [
+            {
+                "start_date": "1955/01",
+                "end_date": "1955/13"
+            },
+            {
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

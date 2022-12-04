@@ -1,0 +1,17 @@
+{
+    "name": "BETCHWORTH-BROCKHAM-VICARAGE",
+    "data": {
+        "BETCHWORTH-BROCKHAM-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-053.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-061.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "TUNBRIDGE-WELLS-SHERWOOD-PARK",
+    "data": {
+        "TUNBRIDGE-WELLS-SHERWOOD-PARK-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-138.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-224.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/09"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-224.csv",
+                "start_date": "1931/12",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-224.csv",
+                "start_date": "1932/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "TUNBRIDGE-WELLS-SHERWOOD-PARK.csv": [
+            {
+                "filename": "TYRain_1880-1889_02_pt1-page-081.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-224.csv",
+            "start_date": "1931/10",
+            "end_date": "1931/11"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-224.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        }
+    ]
+}

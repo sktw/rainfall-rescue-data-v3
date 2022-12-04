@@ -1,0 +1,45 @@
+{
+    "name": "WALTON-ON-THAMES-HERSHAM",
+    "data": {
+        "WALTON-ON-THAMES-HERSHAM.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-075.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-085.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-103.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_01_pt2-page-076.csv"
+        },
+        {
+            "filename": "TYRain_1870-1879_01_pt2-page-077.csv"
+        },
+        {
+            "filename": "TYRain_1880-1889_01_pt3-page-086.csv"
+        },
+        {
+            "filename": "TYRain_1880-1889_01_pt3-page-087.csv"
+        },
+        {
+            "filename": "TYRain_1880-1889_01_pt3-page-088.csv"
+        },
+        {
+            "filename": "TYRain_1880-1889_01_pt3-page-089.csv"
+        },
+        {
+            "filename": "TYRain_1880-1889_01_pt3-page-090.csv"
+        }
+    ]
+}

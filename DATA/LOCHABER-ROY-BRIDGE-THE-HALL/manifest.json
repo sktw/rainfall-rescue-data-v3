@@ -1,0 +1,17 @@
+{
+    "name": "LOCHABER-ROY-BRIDGE-THE-HALL",
+    "data": {
+        "LOCHABER-ROY-BRIDGE-THE-HALL.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt3-page-020.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_16_pt1-page-026.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

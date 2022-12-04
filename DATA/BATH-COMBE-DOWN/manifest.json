@@ -1,0 +1,38 @@
+{
+    "name": "BATH-COMBE-DOWN",
+    "data": {
+        "BATH-COMBE-DOWN-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-037.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BATH-COMBE-DOWN-3.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-165.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            }
+        ],
+        "BATH-COMBE-DOWN.csv": [
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-020.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_14_pt1-page-084.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-165.csv",
+            "start_date": "1930/01",
+            "end_date": "1930/13"
+        }
+    ]
+}

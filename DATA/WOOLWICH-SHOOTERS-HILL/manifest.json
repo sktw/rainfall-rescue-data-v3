@@ -1,0 +1,24 @@
+{
+    "name": "WOOLWICH-SHOOTERS-HILL",
+    "data": {
+        "WOOLWICH-SHOOTERS-HILL.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt1-page-020.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/10"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-016.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_01_pt1-page-020.csv",
+            "start_date": "1889/11",
+            "end_date": "1889/13"
+        }
+    ]
+}

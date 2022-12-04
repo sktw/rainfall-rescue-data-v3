@@ -1,0 +1,29 @@
+{
+    "name": "HORSELL-INGLEWOOD",
+    "data": {
+        "HORSELL-INGLEWOOD-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-307.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "HORSELL-INGLEWOOD.csv": [
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-036.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-307.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-307.csv",
+                "start_date": "1928/07",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

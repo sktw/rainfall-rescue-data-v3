@@ -1,0 +1,29 @@
+{
+    "name": "GILLINGHAM-BUCKHORN-WESTON",
+    "data": {
+        "GILLINGHAM-BUCKHORN-WESTON.csv": [
+            {
+                "filename": "TYRain_1941-1950_12_pt1-page-123.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-053.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-053.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_10_pt1-page-053.csv",
+            "start_date": "1955/12",
+            "end_date": "1955/13"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "BOROUGH-GREEN-PUMPING-STATION",
+    "data": {
+        "BOROUGH-GREEN-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1951-1960_02_pt1-page-147.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "MULL-CALGARY",
+    "data": {
+        "MULL-CALGARY.csv": [
+            {
+                "filename": "TYRain_1870-1879_11_pt3-page-106.csv",
+                "start_date": "1870/01",
+                "end_date": "1872/02"
+            },
+            {
+                "filename": "TYRain_1870-1879_11_pt3-page-106.csv",
+                "start_date": "1872/04",
+                "end_date": "1872/05"
+            },
+            {
+                "filename": "TYRain_1870-1879_11_pt3-page-106.csv",
+                "start_date": "1872/07",
+                "end_date": "1872/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_11_pt3-page-106.csv",
+                "start_date": "1873/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_15_pt1-page-085.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "idr": {
+        "MULL-CALGARY.csv": [
+            {
+                "start_date": "1877/05",
+                "end_date": "1877/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_11_pt3-page-106.csv",
+            "start_date": "1872/03",
+            "end_date": "1872/03"
+        },
+        {
+            "filename": "TYRain_1870-1879_11_pt3-page-106.csv",
+            "start_date": "1872/06",
+            "end_date": "1872/06"
+        },
+        {
+            "filename": "TYRain_1870-1879_11_pt3-page-106.csv",
+            "start_date": "1872/13",
+            "end_date": "1872/13"
+        }
+    ]
+}

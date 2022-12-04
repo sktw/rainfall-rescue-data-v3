@@ -1,0 +1,39 @@
+{
+    "name": "WEST-CLANDON-MARKSDENE",
+    "data": {
+        "WEST-CLANDON-MARKSDENE.csv": [
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-028.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-245.csv",
+                "start_date": "1941/01",
+                "end_date": "1942/05"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-245.csv",
+                "start_date": "1942/07",
+                "end_date": "1942/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-245.csv",
+                "start_date": "1943/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-245.csv",
+            "start_date": "1942/06",
+            "end_date": "1942/06"
+        },
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-245.csv",
+            "start_date": "1942/13",
+            "end_date": "1942/13"
+        }
+    ]
+}

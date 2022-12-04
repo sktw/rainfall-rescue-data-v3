@@ -1,0 +1,41 @@
+{
+    "name": "STREATHAM-WOODFIELD-AVENUE",
+    "data": {
+        "STREATHAM-WOODFIELD-AVENUE-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-008.csv",
+                "start_date": "1890/01",
+                "end_date": "1891/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-008.csv",
+                "start_date": "1894/06",
+                "end_date": "1894/12"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-008.csv",
+                "start_date": "1895/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-016.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "STREATHAM-WOODFIELD-AVENUE.csv": [
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-008.csv",
+                "start_date": "1890/01",
+                "end_date": "1894/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_01_pt1-page-008.csv",
+            "start_date": "1894/13",
+            "end_date": "1894/13"
+        }
+    ]
+}

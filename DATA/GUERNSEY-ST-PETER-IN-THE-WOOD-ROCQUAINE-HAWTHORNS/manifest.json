@@ -1,0 +1,37 @@
+{
+    "name": "GUERNSEY-ST-PETER-IN-THE-WOOD-ROCQUAINE-HAWTHORNS",
+    "data": {
+        "GUERNSEY-ST-PETER-IN-THE-WOOD-ROCQUAINE-HAWTHORNS.csv": [
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-035.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-141.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-141.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_23_pt1-page-185.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-141.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_23_pt1-page-183.csv"
+        }
+    ]
+}

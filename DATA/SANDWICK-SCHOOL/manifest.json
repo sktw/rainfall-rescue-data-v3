@@ -1,0 +1,39 @@
+{
+    "name": "SANDWICK-SCHOOL",
+    "data": {
+        "SANDWICK-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_34_pt1-page-089.csv",
+                "start_date": "1920/01",
+                "end_date": "1929/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_34_pt1-page-089.csv",
+                "start_date": "1930/04",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-211.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-211.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_34_pt1-page-089.csv",
+            "start_date": "1930/01",
+            "end_date": "1930/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_27_pt1-page-211.csv",
+            "start_date": "1933/12",
+            "end_date": "1933/13"
+        }
+    ]
+}

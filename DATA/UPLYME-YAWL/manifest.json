@@ -1,0 +1,25 @@
+{
+    "name": "UPLYME-YAWL",
+    "data": {
+        "UPLYME-YAWL.csv": [
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-180.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-233.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "UPLYME-YAWL.csv": [
+            {
+                "start_date": "1942/13",
+                "end_date": "1942/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "GREAT-BOOKHAM-POLESDEN-LACEY",
+    "data": {
+        "GREAT-BOOKHAM-POLESDEN-LACEY-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-132.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "GREAT-BOOKHAM-POLESDEN-LACEY.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-073.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-085.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

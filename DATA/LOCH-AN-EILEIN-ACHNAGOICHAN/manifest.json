@@ -1,0 +1,34 @@
+{
+    "name": "LOCH-AN-EILEIN-ACHNAGOICHAN",
+    "data": {
+        "LOCH-AN-EILEIN-ACHNAGOICHAN.csv": [
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-140.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-140.csv",
+                "start_date": "1957/01",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_30_pt1-page-140.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_30_pt1-page-140.csv",
+            "start_date": "1955/01",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_30_pt1-page-140.csv",
+            "start_date": "1958/01",
+            "end_date": "1958/13"
+        }
+    ]
+}

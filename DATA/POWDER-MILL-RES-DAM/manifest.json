@@ -1,0 +1,12 @@
+{
+    "name": "POWDER-MILL-RES-DAM",
+    "data": {
+        "POWDER-MILL-RES-DAM.csv": [
+            {
+                "filename": "TYRain_1951-1960_03_pt1-page-167.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "LOCH-AVICH-DRISSAIG",
+    "data": {
+        "LOCH-AVICH-DRISSAIG.csv": [
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-258.csv",
+                "start_date": "1931/01",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-258.csv",
+                "start_date": "1938/01",
+                "end_date": "1939/04"
+            },
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-258.csv",
+                "start_date": "1939/06",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-096.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_25_pt1-page-258.csv",
+            "start_date": "1937/01",
+            "end_date": "1937/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_25_pt1-page-258.csv",
+            "start_date": "1939/05",
+            "end_date": "1939/05"
+        }
+    ]
+}

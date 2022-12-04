@@ -1,0 +1,37 @@
+{
+    "name": "MINSTEAD-FURZEY",
+    "data": {
+        "MINSTEAD-FURZEY.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-099.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-083.csv",
+                "start_date": "1931/01",
+                "end_date": "1938/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-083.csv",
+                "start_date": "1939/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "MINSTEAD-FURZEY.csv": [
+            {
+                "start_date": "1940/08",
+                "end_date": "1940/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-083.csv",
+            "start_date": "1938/12",
+            "end_date": "1938/13"
+        }
+    ]
+}

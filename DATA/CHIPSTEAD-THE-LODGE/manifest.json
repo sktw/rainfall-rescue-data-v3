@@ -1,0 +1,37 @@
+{
+    "name": "CHIPSTEAD-THE-LODGE",
+    "data": {
+        "CHIPSTEAD-THE-LODGE.csv": [
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-055.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_02_pt1-page-054.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_02_pt1-page-054.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHIPSTEAD-THE-LODGE.csv": [
+            {
+                "start_date": "1921/08",
+                "end_date": "1921/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1920-1930_02_pt1-page-054.csv",
+            "start_date": "1923/12",
+            "end_date": "1923/13"
+        }
+    ]
+}

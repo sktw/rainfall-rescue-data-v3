@@ -1,0 +1,17 @@
+{
+    "name": "NORTH-PETHERTON-SHOVEL",
+    "data": {
+        "NORTH-PETHERTON-SHOVEL.csv": [
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-152.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_13_pt1-page-193.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

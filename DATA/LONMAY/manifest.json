@@ -1,0 +1,12 @@
+{
+    "name": "LONMAY",
+    "data": {
+        "LONMAY.csv": [
+            {
+                "filename": "TYRain_1830-1839_D_pt1-page-087.csv",
+                "start_date": "1830/01",
+                "end_date": "1839/13"
+            }
+        ]
+    }
+}

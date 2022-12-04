@@ -1,0 +1,19 @@
+{
+    "name": "WEST-MALLING-HARDRES",
+    "data": {
+        "WEST-MALLING-HARDRES-2.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-121.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "WEST-MALLING-HARDRES.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-122.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

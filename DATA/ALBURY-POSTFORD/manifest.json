@@ -1,0 +1,17 @@
+{
+    "name": "ALBURY-POSTFORD",
+    "data": {
+        "ALBURY-POSTFORD.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-132.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt2-page-096.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

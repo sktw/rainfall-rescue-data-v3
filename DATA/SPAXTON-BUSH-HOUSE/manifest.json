@@ -1,0 +1,45 @@
+{
+    "name": "SPAXTON-BUSH-HOUSE",
+    "data": {
+        "SPAXTON-BUSH-HOUSE.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-302.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-302.csv",
+                "start_date": "1932/05",
+                "end_date": "1932/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-302.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "SPAXTON-BUSH-HOUSE.csv": [
+            {
+                "start_date": "1940/13",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_12_pt1-page-302.csv",
+            "start_date": "1932/01",
+            "end_date": "1932/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_12_pt1-page-302.csv",
+            "start_date": "1932/13",
+            "end_date": "1932/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_14_pt1-page-076.csv"
+        }
+    ]
+}

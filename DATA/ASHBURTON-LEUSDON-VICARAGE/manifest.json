@@ -1,0 +1,39 @@
+{
+    "name": "ASHBURTON-LEUSDON-VICARAGE",
+    "data": {
+        "ASHBURTON-LEUSDON-VICARAGE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_11_pt1-page-230.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-253.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "ASHBURTON-LEUSDON-VICARAGE-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_10_pt1-page-131.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ASHBURTON-LEUSDON-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-043.csv",
+                "start_date": "1880/01",
+                "end_date": "1888/13"
+            }
+        ]
+    },
+    "idr": {
+        "ASHBURTON-LEUSDON-VICARAGE-2.csv": [
+            {
+                "start_date": "1913/08",
+                "end_date": "1913/08"
+            }
+        ]
+    }
+}

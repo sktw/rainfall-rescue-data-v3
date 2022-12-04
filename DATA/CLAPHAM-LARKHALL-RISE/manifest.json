@@ -1,0 +1,39 @@
+{
+    "name": "CLAPHAM-LARKHALL-RISE",
+    "data": {
+        "CLAPHAM-LARKHALL-RISE.csv": [
+            {
+                "filename": "TYRain_1920-1930_01_pt1-page-026.csv",
+                "start_date": "1920/01",
+                "end_date": "1924/04"
+            },
+            {
+                "filename": "TYRain_1920-1930_01_pt1-page-026.csv",
+                "start_date": "1924/06",
+                "end_date": "1924/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_01_pt1-page-026.csv",
+                "start_date": "1925/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_01_pt1-page-016.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_01_pt1-page-026.csv",
+            "start_date": "1924/05",
+            "end_date": "1924/05"
+        },
+        {
+            "filename": "TYRain_1920-1930_01_pt1-page-026.csv",
+            "start_date": "1924/13",
+            "end_date": "1924/13"
+        }
+    ]
+}

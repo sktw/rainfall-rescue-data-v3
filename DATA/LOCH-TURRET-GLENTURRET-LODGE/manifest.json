@@ -1,0 +1,24 @@
+{
+    "name": "LOCH-TURRET-GLENTURRET-LODGE",
+    "data": {
+        "LOCH-TURRET-GLENTURRET-LODGE-2.csv": [
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-314.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-128.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCH-TURRET-GLENTURRET-LODGE.csv": [
+            {
+                "filename": "TYRain_1910-1919_27_pt1-page-210.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

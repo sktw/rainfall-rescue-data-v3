@@ -1,0 +1,32 @@
+{
+    "name": "CLEVEDON-MOUNT-HEBER-COTTAGE",
+    "data": {
+        "CLEVEDON-MOUNT-HEBER-COTTAGE-2.csv": [
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-231.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "CLEVEDON-MOUNT-HEBER-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-278.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-231.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/13"
+            }
+        ]
+    },
+    "idr": {
+        "CLEVEDON-MOUNT-HEBER-COTTAGE.csv": [
+            {
+                "start_date": "1920/08",
+                "end_date": "1920/09"
+            }
+        ]
+    }
+}

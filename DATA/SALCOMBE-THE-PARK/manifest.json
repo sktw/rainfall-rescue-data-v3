@@ -1,0 +1,63 @@
+{
+    "name": "SALCOMBE-THE-PARK",
+    "data": {
+        "SALCOMBE-THE-PARK-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-149.csv",
+                "start_date": "1907/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-182.csv",
+                "start_date": "1910/01",
+                "end_date": "1910/13"
+            }
+        ],
+        "SALCOMBE-THE-PARK-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-183.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-192.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-261.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-261.csv",
+                "start_date": "1931/05",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_10_pt1-page-261.csv",
+                "start_date": "1932/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "SALCOMBE-THE-PARK.csv": [
+            {
+                "filename": "TYRain_1900-1909_11_pt1-page-149.csv",
+                "start_date": "1900/01",
+                "end_date": "1906/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-261.csv",
+            "start_date": "1931/04",
+            "end_date": "1931/04"
+        },
+        {
+            "filename": "TYRain_1931-1940_10_pt1-page-261.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        }
+    ]
+}

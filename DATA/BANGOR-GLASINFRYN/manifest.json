@@ -1,0 +1,17 @@
+{
+    "name": "BANGOR-GLASINFRYN",
+    "data": {
+        "BANGOR-GLASINFRYN.csv": [
+            {
+                "filename": "TYRain_1890-1899_20_pt1-page-180.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_26_pt1-page-102.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

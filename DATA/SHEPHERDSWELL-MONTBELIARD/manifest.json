@@ -1,0 +1,46 @@
+{
+    "name": "SHEPHERDSWELL-MONTBELIARD",
+    "data": {
+        "SHEPHERDSWELL-MONTBELIARD-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_03_pt1-page-055.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_03_pt1-page-055.csv",
+                "start_date": "1923/07",
+                "end_date": "1930/13"
+            }
+        ],
+        "SHEPHERDSWELL-MONTBELIARD.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_03_pt1-page-055.csv",
+                "start_date": "1920/01",
+                "end_date": "1923/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_03_pt1-page-055.csv",
+                "start_date": "1923/13",
+                "end_date": "1923/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_03_pt1-page-055.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "SHEPHERDSWELL-MONTBELIARD-2.csv": [
+            {
+                "start_date": "1925/06",
+                "end_date": "1925/06"
+            },
+            {
+                "start_date": "1928/11",
+                "end_date": "1928/11"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "REIGATE-HILL-GATTON",
+    "data": {
+        "REIGATE-HILL-GATTON.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-065.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-072.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

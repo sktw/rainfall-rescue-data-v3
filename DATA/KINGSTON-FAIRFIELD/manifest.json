@@ -1,0 +1,17 @@
+{
+    "name": "KINGSTON-FAIRFIELD",
+    "data": {
+        "KINGSTON-FAIRFIELD.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-123.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-082.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

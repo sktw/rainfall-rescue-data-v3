@@ -1,0 +1,29 @@
+{
+    "name": "TELLISFORD-CRABB-HALL",
+    "data": {
+        "TELLISFORD-CRABB-HALL.csv": [
+            {
+                "filename": "TYRain_1920-1930_12_pt1-page-155.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_12_pt1-page-105.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "TELLISFORD-CRABB-HALL.csv": [
+            {
+                "start_date": "1931/13",
+                "end_date": "1931/13"
+            },
+            {
+                "start_date": "1934/03",
+                "end_date": "1934/03"
+            }
+        ]
+    }
+}

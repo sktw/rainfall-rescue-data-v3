@@ -1,0 +1,20 @@
+{
+    "name": "OKEHAMPTON-PLEASURE-GROUNDS",
+    "data": {
+        "OKEHAMPTON-PLEASURE-GROUNDS.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_11_pt1-page-068.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "OKEHAMPTON-PLEASURE-GROUNDS.csv": [
+            {
+                "start_date": "1958/04",
+                "end_date": "1958/04"
+            }
+        ]
+    }
+}

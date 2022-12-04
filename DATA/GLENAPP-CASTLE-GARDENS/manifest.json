@@ -1,0 +1,62 @@
+{
+    "name": "GLENAPP-CASTLE-GARDENS",
+    "data": {
+        "GLENAPP-CASTLE-GARDENS.csv": [
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-045.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_29_pt1-page-194.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_29_pt1-page-194.csv",
+                "start_date": "1944/02",
+                "end_date": "1944/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_29_pt1-page-194.csv",
+                "start_date": "1945/01",
+                "end_date": "1945/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_29_pt1-page-194.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-295.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "GLENAPP-CASTLE-GARDENS.csv": [
+            {
+                "start_date": "1951/08",
+                "end_date": "1951/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_29_pt1-page-194.csv",
+            "start_date": "1944/01",
+            "end_date": "1944/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_29_pt1-page-194.csv",
+            "start_date": "1944/13",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_29_pt1-page-194.csv",
+            "start_date": "1945/10",
+            "end_date": "1945/13"
+        }
+    ]
+}

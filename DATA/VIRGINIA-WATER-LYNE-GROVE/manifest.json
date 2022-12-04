@@ -1,0 +1,12 @@
+{
+    "name": "VIRGINIA-WATER-LYNE-GROVE",
+    "data": {
+        "VIRGINIA-WATER-LYNE-GROVE.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-260.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

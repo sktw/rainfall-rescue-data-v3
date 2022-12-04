@@ -1,0 +1,17 @@
+{
+    "name": "KILMARNOCK-GRANGE-SCHOOL",
+    "data": {
+        "KILMARNOCK-GRANGE-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1931-1940_24_pt1-page-253.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_29_pt1-page-131.csv"
+        }
+    ]
+}

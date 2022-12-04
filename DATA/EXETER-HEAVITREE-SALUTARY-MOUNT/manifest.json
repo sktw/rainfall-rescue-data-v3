@@ -1,0 +1,17 @@
+{
+    "name": "EXETER-HEAVITREE-SALUTARY-MOUNT",
+    "data": {
+        "EXETER-HEAVITREE-SALUTARY-MOUNT.csv": [
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-097.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-067.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

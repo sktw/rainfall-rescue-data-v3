@@ -1,0 +1,17 @@
+{
+    "name": "CHOBHAM-NORTHBOURNE",
+    "data": {
+        "CHOBHAM-NORTHBOURNE.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-140.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-106.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

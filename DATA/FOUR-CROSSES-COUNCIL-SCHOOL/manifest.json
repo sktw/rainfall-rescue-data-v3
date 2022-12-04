@@ -1,0 +1,59 @@
+{
+    "name": "FOUR-CROSSES-COUNCIL-SCHOOL",
+    "data": {
+        "FOUR-CROSSES-COUNCIL-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1910-1919_24_pt1-page-239.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-065.csv",
+                "start_date": "1920/01",
+                "end_date": "1921/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-065.csv",
+                "start_date": "1921/09",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-065.csv",
+                "start_date": "1922/01",
+                "end_date": "1923/06"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-065.csv",
+                "start_date": "1923/09",
+                "end_date": "1923/11"
+            },
+            {
+                "filename": "TYRain_1920-1930_28_pt1-page-065.csv",
+                "start_date": "1924/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-065.csv",
+            "start_date": "1921/08",
+            "end_date": "1921/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-065.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-065.csv",
+            "start_date": "1923/07",
+            "end_date": "1923/08"
+        },
+        {
+            "filename": "TYRain_1920-1930_28_pt1-page-065.csv",
+            "start_date": "1923/12",
+            "end_date": "1923/13"
+        }
+    ]
+}

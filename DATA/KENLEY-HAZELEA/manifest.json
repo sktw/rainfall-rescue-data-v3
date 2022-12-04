@@ -1,0 +1,29 @@
+{
+    "name": "KENLEY-HAZELEA",
+    "data": {
+        "KENLEY-HAZELEA-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-031.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-058.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "KENLEY-HAZELEA.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-034.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_02_pt1-page-031.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/13"
+            }
+        ]
+    }
+}

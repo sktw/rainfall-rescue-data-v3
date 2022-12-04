@@ -1,0 +1,24 @@
+{
+    "name": "BEXLEY-HEATH-ROOKWOOD",
+    "data": {
+        "BEXLEY-HEATH-ROOKWOOD-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-279.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "BEXLEY-HEATH-ROOKWOOD.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-295.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-281.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

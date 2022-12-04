@@ -1,0 +1,24 @@
+{
+    "name": "PEEBLES-HIGH-SCHOOL",
+    "data": {
+        "PEEBLES-HIGH-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_25_pt1-page-235.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_25_pt1-page-235.csv",
+                "start_date": "1958/13",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_25_pt1-page-235.csv",
+            "start_date": "1958/12",
+            "end_date": "1958/12"
+        }
+    ]
+}

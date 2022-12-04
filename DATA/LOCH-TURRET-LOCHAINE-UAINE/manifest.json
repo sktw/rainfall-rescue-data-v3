@@ -1,0 +1,59 @@
+{
+    "name": "LOCH-TURRET-LOCHAINE-UAINE",
+    "data": {
+        "LOCH-TURRET-LOCHAINE-UAINE.csv": [
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-319.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-134.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-134.csv",
+                "start_date": "1952/07",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-134.csv",
+                "start_date": "1953/02",
+                "end_date": "1953/03"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-134.csv",
+                "start_date": "1953/08",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-134.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-134.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-134.csv",
+            "start_date": "1952/13",
+            "end_date": "1953/01"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-134.csv",
+            "start_date": "1953/04",
+            "end_date": "1953/07"
+        },
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-134.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        }
+    ]
+}

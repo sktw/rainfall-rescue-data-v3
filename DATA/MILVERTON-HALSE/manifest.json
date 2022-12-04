@@ -1,0 +1,39 @@
+{
+    "name": "MILVERTON-HALSE",
+    "data": {
+        "MILVERTON-HALSE.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-071.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-099.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/06"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-099.csv",
+                "start_date": "1892/12",
+                "end_date": "1893/06"
+            },
+            {
+                "filename": "TYRain_1890-1899_11_pt1-page-099.csv",
+                "start_date": "1893/12",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1890-1899_11_pt1-page-099.csv",
+            "start_date": "1892/07",
+            "end_date": "1892/11"
+        },
+        {
+            "filename": "TYRain_1890-1899_11_pt1-page-099.csv",
+            "start_date": "1893/07",
+            "end_date": "1893/11"
+        }
+    ]
+}

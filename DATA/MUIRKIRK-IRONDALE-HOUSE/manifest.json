@@ -1,0 +1,12 @@
+{
+    "name": "MUIRKIRK-IRONDALE-HOUSE",
+    "data": {
+        "MUIRKIRK-IRONDALE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1870-1879_11_pt2-page-100.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

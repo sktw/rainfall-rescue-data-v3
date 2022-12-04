@@ -1,0 +1,19 @@
+{
+    "name": "TORQUAY-THE-CASTLE-COLLEGE",
+    "data": {
+        "TORQUAY-THE-CASTLE-COLLEGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-052.csv",
+                "start_date": "1880/01",
+                "end_date": "1888/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_05_pt4-page-052.csv",
+            "start_date": "1889/01",
+            "end_date": "1889/13"
+        }
+    ]
+}

@@ -13,5 +13,13 @@
                 "end_date": "1919/13"
             }
         ]
+    },
+    "idr": {
+        "COLINSBURGH-MANSE.csv": [
+            {
+                "start_date": "1902/10",
+                "end_date": "1902/10"
+            }
+        ]
     }
 }

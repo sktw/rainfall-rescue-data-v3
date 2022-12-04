@@ -1,0 +1,22 @@
+{
+    "name": "ENGLEFIELD-GREEN-HARVEST-ROAD",
+    "data": {
+        "ENGLEFIELD-GREEN-HARVEST-ROAD.csv": [
+            {
+                "filename": "TYRain_1910-1919_2B_pt2-page-086.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-086.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_02_pt1-page-288.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

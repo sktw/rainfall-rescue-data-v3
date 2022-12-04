@@ -1,0 +1,57 @@
+{
+    "name": "BEN-ALDER-LOCH-AN-SGOIR",
+    "data": {
+        "BEN-ALDER-LOCH-AN-SGOIR.csv": [
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-175.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-066.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-066.csv",
+                "start_date": "1935/04",
+                "end_date": "1935/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-066.csv",
+                "start_date": "1936/04",
+                "end_date": "1936/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-066.csv",
+                "start_date": "1937/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "BEN-ALDER-LOCH-AN-SGOIR.csv": [
+            {
+                "start_date": "1931/03",
+                "end_date": "1931/03"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_27_pt1-page-066.csv",
+            "start_date": "1935/01",
+            "end_date": "1935/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_27_pt1-page-066.csv",
+            "start_date": "1935/11",
+            "end_date": "1936/03"
+        },
+        {
+            "filename": "TYRain_1931-1940_27_pt1-page-066.csv",
+            "start_date": "1936/11",
+            "end_date": "1936/13"
+        }
+    ]
+}

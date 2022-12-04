@@ -1,0 +1,17 @@
+{
+    "name": "WIMBLEDON-COMMON-RICHMOND-HOUSE",
+    "data": {
+        "WIMBLEDON-COMMON-RICHMOND-HOUSE.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-127.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-018.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

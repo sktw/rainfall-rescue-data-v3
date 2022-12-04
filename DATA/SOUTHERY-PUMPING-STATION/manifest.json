@@ -1,0 +1,20 @@
+{
+    "name": "SOUTHERY-PUMPING-STATION",
+    "data": {
+        "SOUTHERY-PUMPING-STATION.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_09_pt1-page-048.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "SOUTHERY-PUMPING-STATION.csv": [
+            {
+                "start_date": "1959/05",
+                "end_date": "1959/05"
+            }
+        ]
+    }
+}

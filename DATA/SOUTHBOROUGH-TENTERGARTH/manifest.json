@@ -1,0 +1,89 @@
+{
+    "name": "SOUTHBOROUGH-TENTERGARTH",
+    "data": {
+        "SOUTHBOROUGH-TENTERGARTH.csv": [
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-147.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-147.csv",
+                "start_date": "1929/03",
+                "end_date": "1929/07"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-147.csv",
+                "start_date": "1929/12",
+                "end_date": "1929/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_03_pt1-page-147.csv",
+                "start_date": "1930/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-230.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-230.csv",
+                "start_date": "1931/06",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-230.csv",
+                "start_date": "1932/01",
+                "end_date": "1932/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-230.csv",
+                "start_date": "1932/08",
+                "end_date": "1932/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_03_pt1-page-230.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-147.csv",
+            "start_date": "1929/01",
+            "end_date": "1929/02"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-147.csv",
+            "start_date": "1929/08",
+            "end_date": "1929/11"
+        },
+        {
+            "filename": "TYRain_1920-1930_03_pt1-page-147.csv",
+            "start_date": "1929/13",
+            "end_date": "1929/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-230.csv",
+            "start_date": "1931/04",
+            "end_date": "1931/05"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-230.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-230.csv",
+            "start_date": "1932/06",
+            "end_date": "1932/07"
+        },
+        {
+            "filename": "TYRain_1931-1940_03_pt1-page-230.csv",
+            "start_date": "1932/13",
+            "end_date": "1932/13"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "ELTHAM-VICTORIA-ROAD",
+    "data": {
+        "ELTHAM-VICTORIA-ROAD.csv": [
+            {
+                "filename": "TYRain_1880-1889_01_pt1-page-013.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/04"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt1-page-013.csv",
+                "start_date": "1883/07",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_01_pt1-page-022.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_01_pt1-page-013.csv",
+            "start_date": "1883/05",
+            "end_date": "1883/06"
+        }
+    ]
+}

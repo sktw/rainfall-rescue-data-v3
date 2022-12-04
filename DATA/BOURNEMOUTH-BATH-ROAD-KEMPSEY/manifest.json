@@ -1,0 +1,24 @@
+{
+    "name": "BOURNEMOUTH-BATH-ROAD-KEMPSEY",
+    "data": {
+        "BOURNEMOUTH-BATH-ROAD-KEMPSEY-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-172.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "BOURNEMOUTH-BATH-ROAD-KEMPSEY.csv": [
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-028.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-171.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

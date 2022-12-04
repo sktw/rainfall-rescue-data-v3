@@ -1,0 +1,24 @@
+{
+    "name": "CHERTSEY-FLUTTERS-HILL",
+    "data": {
+        "CHERTSEY-FLUTTERS-HILL.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-207.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHERTSEY-FLUTTERS-HILL.csv": [
+            {
+                "start_date": "1893/02",
+                "end_date": "1893/02"
+            },
+            {
+                "start_date": "1893/04",
+                "end_date": "1893/04"
+            }
+        ]
+    }
+}

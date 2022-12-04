@@ -1,0 +1,19 @@
+{
+    "name": "ABERDEEN-CASTLE-HILL",
+    "data": {
+        "ABERDEEN-CASTLE-HILL-2.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-008.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ],
+        "ABERDEEN-CASTLE-HILL.csv": [
+            {
+                "filename": "TYRain_1860-1869_08_pt1-page-007.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

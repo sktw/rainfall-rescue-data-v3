@@ -1,0 +1,12 @@
+{
+    "name": "HYTHE-BLACKROCK-RES-SEABROOK",
+    "data": {
+        "HYTHE-BLACKROCK-RES-SEABROOK.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-099.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

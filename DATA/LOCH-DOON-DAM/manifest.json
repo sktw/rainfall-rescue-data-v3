@@ -1,0 +1,24 @@
+{
+    "name": "LOCH-DOON-DAM",
+    "data": {
+        "LOCH-DOON-DAM.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-278.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_26_pt1-page-278.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_26_pt1-page-278.csv",
+            "start_date": "1954/01",
+            "end_date": "1956/13"
+        }
+    ]
+}

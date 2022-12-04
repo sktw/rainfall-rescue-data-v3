@@ -1,0 +1,25 @@
+{
+    "name": "WITHIEL-RECTORY",
+    "data": {
+        "WITHIEL-RECTORY.csv": [
+            {
+                "filename": "TYRain_1900-1909_13_pt1-page-074.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_12_pt1-page-185.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "WITHIEL-RECTORY.csv": [
+            {
+                "start_date": "1912/13",
+                "end_date": "1912/13"
+            }
+        ]
+    }
+}

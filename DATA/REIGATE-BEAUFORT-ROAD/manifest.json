@@ -1,0 +1,29 @@
+{
+    "name": "REIGATE-BEAUFORT-ROAD",
+    "data": {
+        "REIGATE-BEAUFORT-ROAD.csv": [
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-111.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-157.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/09"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-157.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_02_pt1-page-157.csv",
+            "start_date": "1925/10",
+            "end_date": "1925/13"
+        }
+    ]
+}

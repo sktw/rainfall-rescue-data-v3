@@ -1,0 +1,39 @@
+{
+    "name": "LEATHERHEAD-GREAT-BOOKHAM-RECTORY",
+    "data": {
+        "LEATHERHEAD-GREAT-BOOKHAM-RECTORY.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-115.csv",
+                "start_date": "1860/01",
+                "end_date": "1867/13"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-115.csv",
+                "start_date": "1868/02",
+                "end_date": "1868/12"
+            },
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-115.csv",
+                "start_date": "1869/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-068.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_01_pt1-page-115.csv",
+            "start_date": "1868/01",
+            "end_date": "1868/01"
+        },
+        {
+            "filename": "TYRain_1860-1869_01_pt1-page-115.csv",
+            "start_date": "1868/13",
+            "end_date": "1868/13"
+        }
+    ]
+}

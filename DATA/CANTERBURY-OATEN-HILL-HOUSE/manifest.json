@@ -1,0 +1,17 @@
+{
+    "name": "CANTERBURY-OATEN-HILL-HOUSE",
+    "data": {
+        "CANTERBURY-OATEN-HILL-HOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-069.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1920-1930_03_pt1-page-070.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

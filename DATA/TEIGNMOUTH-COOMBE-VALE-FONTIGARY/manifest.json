@@ -1,0 +1,25 @@
+{
+    "name": "TEIGNMOUTH-COOMBE-VALE-FONTIGARY",
+    "data": {
+        "TEIGNMOUTH-COOMBE-VALE-FONTIGARY.csv": [
+            {
+                "filename": "ERROR_TYRain_1920-1930_10_pt1-page-283.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-038.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "TEIGNMOUTH-COOMBE-VALE-FONTIGARY.csv": [
+            {
+                "start_date": "1928/04",
+                "end_date": "1928/04"
+            }
+        ]
+    }
+}

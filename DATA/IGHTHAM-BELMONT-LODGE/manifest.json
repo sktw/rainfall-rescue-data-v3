@@ -1,0 +1,17 @@
+{
+    "name": "IGHTHAM-BELMONT-LODGE",
+    "data": {
+        "IGHTHAM-BELMONT-LODGE.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-192.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-205.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

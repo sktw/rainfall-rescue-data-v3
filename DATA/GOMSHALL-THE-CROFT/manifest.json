@@ -1,0 +1,22 @@
+{
+    "name": "GOMSHALL-THE-CROFT",
+    "data": {
+        "GOMSHALL-THE-CROFT.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-206.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-293.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_02_pt1-page-258.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

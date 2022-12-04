@@ -1,0 +1,17 @@
+{
+    "name": "CLAPHAM-COMMON-MACAULAY-ROAD",
+    "data": {
+        "CLAPHAM-COMMON-MACAULAY-ROAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_01_pt1-page-022.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-026.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

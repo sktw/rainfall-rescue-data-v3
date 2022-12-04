@@ -1,0 +1,17 @@
+{
+    "name": "HORLEY-GATWICK-AIRPORT",
+    "data": {
+        "HORLEY-GATWICK-AIRPORT.csv": [
+            {
+                "filename": "TYRain_1951-1960_01_pt1-page-112.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_02_pt1-page-066.csv"
+        }
+    ]
+}

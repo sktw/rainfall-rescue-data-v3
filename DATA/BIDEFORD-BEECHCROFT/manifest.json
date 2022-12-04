@@ -1,0 +1,51 @@
+{
+    "name": "BIDEFORD-BEECHCROFT",
+    "data": {
+        "BIDEFORD-BEECHCROFT-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-152.csv",
+                "start_date": "1910/03",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-152.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "BIDEFORD-BEECHCROFT.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-123.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-151.csv",
+                "start_date": "1910/01",
+                "end_date": "1913/05"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-151.csv",
+                "start_date": "1913/07",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-151.csv",
+            "start_date": "1913/06",
+            "end_date": "1913/06"
+        },
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-152.csv",
+            "start_date": "1910/01",
+            "end_date": "1910/02"
+        },
+        {
+            "filename": "TYRain_1910-1919_12_pt1-page-152.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        }
+    ]
+}

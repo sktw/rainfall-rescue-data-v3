@@ -1,0 +1,17 @@
+{
+    "name": "BEAULY-CULMILL",
+    "data": {
+        "BEAULY-CULMILL.csv": [
+            {
+                "filename": "TYRain_1920-1930_33_pt1-page-155.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_27_pt1-page-044.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

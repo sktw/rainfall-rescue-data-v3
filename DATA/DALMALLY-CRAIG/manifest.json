@@ -1,0 +1,46 @@
+{
+    "name": "DALMALLY-CRAIG",
+    "data": {
+        "DALMALLY-CRAIG-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-211.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-211.csv",
+                "start_date": "1955/13",
+                "end_date": "1958/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-211.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "DALMALLY-CRAIG.csv": [
+            {
+                "filename": "TYRain_1941-1950_30_pt1-page-100.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-210.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_27_pt1-page-211.csv",
+            "start_date": "1955/10",
+            "end_date": "1955/12"
+        },
+        {
+            "filename": "TYRain_1951-1960_27_pt1-page-211.csv",
+            "start_date": "1959/01",
+            "end_date": "1959/13"
+        }
+    ]
+}

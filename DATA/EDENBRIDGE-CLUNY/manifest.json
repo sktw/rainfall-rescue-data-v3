@@ -1,0 +1,24 @@
+{
+    "name": "EDENBRIDGE-CLUNY",
+    "data": {
+        "EDENBRIDGE-CLUNY-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-176.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "EDENBRIDGE-CLUNY.csv": [
+            {
+                "filename": "TYRain_1900-1909_03_pt1-page-167.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-175.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

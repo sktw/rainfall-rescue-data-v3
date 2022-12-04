@@ -1,0 +1,34 @@
+{
+    "name": "WIMBLEDON-WORPLE-ROAD",
+    "data": {
+        "WIMBLEDON-WORPLE-ROAD.csv": [
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-198.csv",
+                "start_date": "1910/02",
+                "end_date": "1910/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_2A_pt1-page-198.csv",
+                "start_date": "1911/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-189.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-198.csv",
+            "start_date": "1910/01",
+            "end_date": "1910/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_2A_pt1-page-198.csv",
+            "start_date": "1910/13",
+            "end_date": "1910/13"
+        }
+    ]
+}

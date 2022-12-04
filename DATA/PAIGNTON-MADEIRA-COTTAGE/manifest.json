@@ -1,0 +1,17 @@
+{
+    "name": "PAIGNTON-MADEIRA-COTTAGE",
+    "data": {
+        "PAIGNTON-MADEIRA-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt2-page-037.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-038.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

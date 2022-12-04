@@ -1,0 +1,43 @@
+{
+    "name": "NORWOOD-BEULAH-HILL",
+    "data": {
+        "NORWOOD-BEULAH-HILL-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-023.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-015.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "NORWOOD-BEULAH-HILL-3.csv": [
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-091.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/03"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-091.csv",
+                "start_date": "1939/05",
+                "end_date": "1940/13"
+            }
+        ],
+        "NORWOOD-BEULAH-HILL.csv": [
+            {
+                "filename": "TYRain_1870-1879_01_pt2-page-022.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_02_pt1-page-091.csv",
+            "start_date": "1939/04",
+            "end_date": "1939/04"
+        }
+    ]
+}

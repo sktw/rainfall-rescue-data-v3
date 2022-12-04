@@ -1,0 +1,12 @@
+{
+    "name": "RYDE-BINSTEAD-QUARR-HILL",
+    "data": {
+        "RYDE-BINSTEAD-QUARR-HILL.csv": [
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-026.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

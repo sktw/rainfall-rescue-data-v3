@@ -1,0 +1,27 @@
+{
+    "name": "TONBRIDGE-PINNACLES",
+    "data": {
+        "TONBRIDGE-PINNACLES-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_03_pt1-page-174.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "TONBRIDGE-PINNACLES.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_03_pt1-page-173.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "TONBRIDGE-PINNACLES.csv": [
+            {
+                "start_date": "1916/13",
+                "end_date": "1916/13"
+            }
+        ]
+    }
+}

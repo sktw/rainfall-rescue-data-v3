@@ -1,0 +1,22 @@
+{
+    "name": "MONTGOMERIE",
+    "data": {
+        "MONTGOMERIE.csv": [
+            {
+                "filename": "TYRain_1920-1930_30_pt1-page-217.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-019.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-173.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

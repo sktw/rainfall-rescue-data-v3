@@ -1,0 +1,26 @@
+{
+    "name": "CHELMSFORD-CHIGNALL",
+    "data": {
+        "CHELMSFORD-CHIGNALL-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_09_pt1-page-104.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CHELMSFORD-CHIGNALL.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_03_pt1-page-066.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1870-1879_03_pt1-page-066.csv",
+            "start_date": "1879/13",
+            "end_date": "1879/13"
+        }
+    ]
+}

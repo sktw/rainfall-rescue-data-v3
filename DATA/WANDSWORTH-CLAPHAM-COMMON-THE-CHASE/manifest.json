@@ -1,0 +1,58 @@
+{
+    "name": "WANDSWORTH-CLAPHAM-COMMON-THE-CHASE",
+    "data": {
+        "WANDSWORTH-CLAPHAM-COMMON-THE-CHASE-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-025.csv",
+                "start_date": "1918/09",
+                "end_date": "1918/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-025.csv",
+                "start_date": "1919/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_01_pt1-page-016.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "WANDSWORTH-CLAPHAM-COMMON-THE-CHASE.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_01_pt1-page-023.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_01_pt1-page-025.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/07"
+            }
+        ]
+    },
+    "idr": {
+        "WANDSWORTH-CLAPHAM-COMMON-THE-CHASE.csv": [
+            {
+                "start_date": "1904/04",
+                "end_date": "1904/04"
+            },
+            {
+                "start_date": "1909/09",
+                "end_date": "1909/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-025.csv",
+            "start_date": "1918/08",
+            "end_date": "1918/08"
+        },
+        {
+            "filename": "TYRain_1910-1919_01_pt1-page-025.csv",
+            "start_date": "1918/13",
+            "end_date": "1918/13"
+        }
+    ]
+}

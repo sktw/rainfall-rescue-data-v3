@@ -1,0 +1,64 @@
+{
+    "name": "ARDGOUR-INVERSANDA",
+    "data": {
+        "ARDGOUR-INVERSANDA.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_30_pt1-page-080.csv",
+                "start_date": "1941/01",
+                "end_date": "1946/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_30_pt1-page-080.csv",
+                "start_date": "1947/09",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_30_pt1-page-080.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_27_pt1-page-177.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/06"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_27_pt1-page-177.csv",
+                "start_date": "1960/08",
+                "end_date": "1960/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_27_pt1-page-177.csv",
+                "start_date": "1960/12",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_30_pt1-page-080.csv",
+            "start_date": "1947/01",
+            "end_date": "1947/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_30_pt1-page-080.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_27_pt1-page-177.csv",
+            "start_date": "1960/07",
+            "end_date": "1960/07"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_27_pt1-page-177.csv",
+            "start_date": "1960/11",
+            "end_date": "1960/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_27_pt1-page-177.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}
