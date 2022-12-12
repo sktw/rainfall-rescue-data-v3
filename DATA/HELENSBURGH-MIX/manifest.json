@@ -20,18 +20,13 @@
         ],
         "HELENSBURGH-MIX-3.csv": [
             {
-                "filename": "TYRain_1880-1889_15_pt1-page-004.csv",
-                "start_date": "1880/01",
-                "end_date": "1889/13"
+                "filename": "ERROR_TYRain_1890-1899_24_pt1-page-100.csv",
+                "start_date": "1895/06",
+                "end_date": "1895/12"
             },
             {
                 "filename": "ERROR_TYRain_1890-1899_24_pt1-page-100.csv",
-                "start_date": "1890/01",
-                "end_date": "1890/05"
-            },
-            {
-                "filename": "ERROR_TYRain_1890-1899_24_pt1-page-100.csv",
-                "start_date": "1898/01",
+                "start_date": "1896/01",
                 "end_date": "1899/13"
             }
         ],
@@ -61,8 +56,8 @@
         },
         {
             "filename": "ERROR_TYRain_1890-1899_24_pt1-page-100.csv",
-            "start_date": "1895/06",
-            "end_date": "1897/13"
+            "start_date": "1895/13",
+            "end_date": "1895/13"
         }
     ]
 }

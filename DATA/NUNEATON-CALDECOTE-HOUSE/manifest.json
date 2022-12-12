@@ -1,0 +1,12 @@
+{
+    "name": "NUNEATON-CALDECOTE-HOUSE",
+    "data": {
+        "NUNEATON-CALDECOTE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1880-1889_07_pt4-page-049.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

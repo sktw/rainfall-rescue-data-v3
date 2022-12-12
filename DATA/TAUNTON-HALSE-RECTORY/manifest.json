@@ -1,0 +1,29 @@
+{
+    "name": "TAUNTON-HALSE-RECTORY",
+    "data": {
+        "TAUNTON-HALSE-RECTORY.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt3-page-054.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-069.csv",
+                "start_date": "1880/01",
+                "end_date": "1883/03"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-069.csv",
+                "start_date": "1883/13",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1880-1889_06_pt2-page-069.csv",
+            "start_date": "1883/04",
+            "end_date": "1883/12"
+        }
+    ]
+}

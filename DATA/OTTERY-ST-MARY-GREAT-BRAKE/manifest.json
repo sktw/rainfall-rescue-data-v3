@@ -1,0 +1,17 @@
+{
+    "name": "OTTERY-ST-MARY-GREAT-BRAKE",
+    "data": {
+        "OTTERY-ST-MARY-GREAT-BRAKE.csv": [
+            {
+                "filename": "TYRain_1931-1940_11_pt1-page-183.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_13_pt1-page-234.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

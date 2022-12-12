@@ -1,0 +1,26 @@
+{
+    "name": "NAIRN-MIX",
+    "data": {
+        "NAIRN-MIX-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-093.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "NAIRN-MIX-3.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-094.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "NAIRN-MIX.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-092.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

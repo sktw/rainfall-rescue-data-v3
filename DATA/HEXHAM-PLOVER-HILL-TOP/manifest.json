@@ -1,0 +1,24 @@
+{
+    "name": "HEXHAM-PLOVER-HILL-TOP",
+    "data": {
+        "HEXHAM-PLOVER-HILL-TOP.csv": [
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-202.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_22_pt1-page-202.csv",
+                "start_date": "1953/12",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_22_pt1-page-202.csv",
+            "start_date": "1953/11",
+            "end_date": "1953/11"
+        }
+    ]
+}

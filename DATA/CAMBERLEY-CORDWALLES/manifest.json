@@ -19,6 +19,14 @@
             }
         ]
     },
+    "idr": {
+        "CAMBERLEY-CORDWALLES.csv": [
+            {
+                "start_date": "1925/06",
+                "end_date": "1925/06"
+            }
+        ]
+    },
     "unused": [
         {
             "filename": "TYRain_1920-1930_02_pt1-page-351.csv",

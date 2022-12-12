@@ -1,0 +1,17 @@
+{
+    "name": "CHAPEL-EN-LE-FRITH-FORD-HALL",
+    "data": {
+        "CHAPEL-EN-LE-FRITH-FORD-HALL.csv": [
+            {
+                "filename": "TYRain_1941-1950_18_pt1-page-088.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-089.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "LYME-REGIS-BOAT-HOUSE",
+    "data": {
+        "LYME-REGIS-BOAT-HOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-070.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-072.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "LYME-REGIS-BOAT-HOUSE.csv": [
+            {
+                "start_date": "1915/01",
+                "end_date": "1915/13"
+            }
+        ]
+    }
+}

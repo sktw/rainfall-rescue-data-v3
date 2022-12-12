@@ -1,0 +1,44 @@
+{
+    "name": "NANT-Y-BRAIN",
+    "data": {
+        "NANT-Y-BRAIN.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-288.csv",
+                "start_date": "1951/01",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-288.csv",
+                "start_date": "1957/01",
+                "end_date": "1957/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-288.csv",
+                "start_date": "1957/03",
+                "end_date": "1957/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_23_pt1-page-288.csv",
+                "start_date": "1958/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_23_pt1-page-288.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_23_pt1-page-288.csv",
+            "start_date": "1957/02",
+            "end_date": "1957/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_23_pt1-page-288.csv",
+            "start_date": "1957/13",
+            "end_date": "1957/13"
+        }
+    ]
+}

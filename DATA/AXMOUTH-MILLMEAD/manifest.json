@@ -1,0 +1,71 @@
+{
+    "name": "AXMOUTH-MILLMEAD",
+    "data": {
+        "AXMOUTH-MILLMEAD-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-227.csv",
+                "start_date": "1941/01",
+                "end_date": "1947/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-227.csv",
+                "start_date": "1947/07",
+                "end_date": "1947/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_13_pt1-page-227.csv",
+                "start_date": "1948/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-015.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/02"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-015.csv",
+                "start_date": "1953/04",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_11_pt1-page-015.csv",
+                "start_date": "1954/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "AXMOUTH-MILLMEAD.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-098.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_12_pt1-page-063.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_13_pt1-page-227.csv",
+            "start_date": "1947/02",
+            "end_date": "1947/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_13_pt1-page-227.csv",
+            "start_date": "1947/13",
+            "end_date": "1947/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-015.csv",
+            "start_date": "1953/03",
+            "end_date": "1953/03"
+        },
+        {
+            "filename": "TYRain_1951-1960_11_pt1-page-015.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        }
+    ]
+}

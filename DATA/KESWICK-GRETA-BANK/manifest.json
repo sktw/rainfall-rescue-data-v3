@@ -1,0 +1,12 @@
+{
+    "name": "KESWICK-GRETA-BANK",
+    "data": {
+        "KESWICK-GRETA-BANK.csv": [
+            {
+                "filename": "TYRain_1860-1869_06_pt1-page-032.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

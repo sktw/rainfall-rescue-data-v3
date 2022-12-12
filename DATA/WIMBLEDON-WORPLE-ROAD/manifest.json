@@ -30,5 +30,29 @@
             "start_date": "1910/13",
             "end_date": "1910/13"
         }
-    ]
+    ],
+    "external": {
+        "WIMBLEDON-WORPLE-ROAD.csv": [
+            {
+                "comment": "Data from British Rainfall 1927",
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1928",
+                "start_date": "1928/13",
+                "end_date": "1928/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1929",
+                "start_date": "1929/13",
+                "end_date": "1929/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1930",
+                "start_date": "1930/13",
+                "end_date": "1930/13"
+            }
+        ]
+    }
 }

@@ -1,0 +1,29 @@
+{
+    "name": "BLACK-MOUNTAINS-CNAPIAU",
+    "data": {
+        "BLACK-MOUNTAINS-CNAPIAU.csv": [
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-283.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/08"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-283.csv",
+                "start_date": "1960/11",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-283.csv",
+            "start_date": "1960/09",
+            "end_date": "1960/10"
+        },
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-283.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

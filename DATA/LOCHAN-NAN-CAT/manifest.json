@@ -1,0 +1,31 @@
+{
+    "name": "LOCHAN-NAN-CAT",
+    "data": {
+        "LOCHAN-NAN-CAT-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-190.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCHAN-NAN-CAT.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-189.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-189.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-189.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/13"
+        }
+    ]
+}

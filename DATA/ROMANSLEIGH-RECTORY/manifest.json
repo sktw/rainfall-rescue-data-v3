@@ -1,0 +1,53 @@
+{
+    "name": "ROMANSLEIGH-RECTORY",
+    "data": {
+        "ROMANSLEIGH-RECTORY-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-116.csv",
+                "start_date": "1889/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-142.csv",
+                "start_date": "1890/01",
+                "end_date": "1890/03"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-142.csv",
+                "start_date": "1890/13",
+                "end_date": "1890/13"
+            }
+        ],
+        "ROMANSLEIGH-RECTORY-3.csv": [
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-142.csv",
+                "start_date": "1890/04",
+                "end_date": "1895/08"
+            },
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-142.csv",
+                "start_date": "1895/13",
+                "end_date": "1895/13"
+            }
+        ],
+        "ROMANSLEIGH-RECTORY-4.csv": [
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-142.csv",
+                "start_date": "1895/09",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-171.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "ROMANSLEIGH-RECTORY.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt4-page-116.csv",
+                "start_date": "1880/01",
+                "end_date": "1888/13"
+            }
+        ]
+    }
+}

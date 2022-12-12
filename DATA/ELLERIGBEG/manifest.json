@@ -13,5 +13,13 @@
                 "end_date": "1960/13"
             }
         ]
+    },
+    "idr": {
+        "ELLERIGBEG.csv": [
+            {
+                "start_date": "1958/01",
+                "end_date": "1958/01"
+            }
+        ]
     }
 }

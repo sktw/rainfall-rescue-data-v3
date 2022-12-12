@@ -1,0 +1,19 @@
+{
+    "name": "RATHO-INGLISTON",
+    "data": {
+        "RATHO-INGLISTON-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_11_pt2-page-049.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "RATHO-INGLISTON.csv": [
+            {
+                "filename": "TYRain_1870-1879_11_pt2-page-048.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

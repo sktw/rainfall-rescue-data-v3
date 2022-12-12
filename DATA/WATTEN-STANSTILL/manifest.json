@@ -1,0 +1,12 @@
+{
+    "name": "WATTEN-STANSTILL",
+    "data": {
+        "WATTEN-STANSTILL.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-197.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    }
+}

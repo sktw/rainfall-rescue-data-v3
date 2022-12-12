@@ -1,0 +1,24 @@
+{
+    "name": "BRAUNTON-TYSPANE",
+    "data": {
+        "BRAUNTON-TYSPANE.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_12_pt1-page-123.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1910-1919_12_pt1-page-123.csv",
+                "start_date": "1919/13",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1910-1919_12_pt1-page-123.csv",
+            "start_date": "1919/12",
+            "end_date": "1919/12"
+        }
+    ]
+}

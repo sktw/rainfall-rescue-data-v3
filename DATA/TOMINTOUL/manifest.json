@@ -1,0 +1,55 @@
+{
+    "name": "TOMINTOUL",
+    "data": {
+        "TOMINTOUL-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-075.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ],
+        "TOMINTOUL.csv": [
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-074.csv",
+                "start_date": "1870/01",
+                "end_date": "1870/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-074.csv",
+                "start_date": "1871/03",
+                "end_date": "1871/12"
+            },
+            {
+                "filename": "TYRain_1870-1879_12_pt2-page-074.csv",
+                "start_date": "1872/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1870-1879_12_pt2-page-074.csv",
+            "start_date": "1871/01",
+            "end_date": "1871/02"
+        },
+        {
+            "filename": "TYRain_1870-1879_12_pt2-page-074.csv",
+            "start_date": "1871/13",
+            "end_date": "1871/13"
+        }
+    ],
+    "external": {
+        "TOMINTOUL-2.csv": [
+            {
+                "comment": "Data from British Rainfall 1880",
+                "start_date": "1880/13",
+                "end_date": "1880/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1881",
+                "start_date": "1881/13",
+                "end_date": "1881/13"
+            }
+        ]
+    }
+}

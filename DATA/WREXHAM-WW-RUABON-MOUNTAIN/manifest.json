@@ -1,0 +1,64 @@
+{
+    "name": "WREXHAM-WW-RUABON-MOUNTAIN",
+    "data": {
+        "WREXHAM-WW-RUABON-MOUNTAIN.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+                "start_date": "1951/01",
+                "end_date": "1952/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+                "start_date": "1953/02",
+                "end_date": "1953/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+                "start_date": "1953/10",
+                "end_date": "1953/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+                "start_date": "1954/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+                "start_date": "1955/02",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+            "start_date": "1953/01",
+            "end_date": "1953/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+            "start_date": "1953/09",
+            "end_date": "1953/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+            "start_date": "1953/13",
+            "end_date": "1953/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-110.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

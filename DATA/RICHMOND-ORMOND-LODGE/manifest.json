@@ -1,6 +1,18 @@
 {
     "name": "RICHMOND-ORMOND-LODGE",
     "data": {
+        "RICHMOND-ORMOND-LODGE-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt2-page-085.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_01_pt3-page-105.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
         "RICHMOND-ORMOND-LODGE.csv": [
             {
                 "filename": "TYRain_1880-1889_01_pt3-page-106.csv",

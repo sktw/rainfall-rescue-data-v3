@@ -1,0 +1,27 @@
+{
+    "name": "GLEANN-DA-EIG",
+    "data": {
+        "GLEANN-DA-EIG-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-202.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "GLEANN-DA-EIG.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-201.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "GLEANN-DA-EIG.csv": [
+            {
+                "start_date": "1955/02",
+                "end_date": "1955/02"
+            }
+        ]
+    }
+}

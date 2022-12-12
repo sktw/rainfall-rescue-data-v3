@@ -1,0 +1,41 @@
+{
+    "name": "CHRISTCHURCH-MILL-HOUSE-HURN",
+    "data": {
+        "CHRISTCHURCH-MILL-HOUSE-HURN-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-044.csv",
+                "start_date": "1911/10",
+                "end_date": "1911/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-044.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "CHRISTCHURCH-MILL-HOUSE-HURN.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-183.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-044.csv",
+                "start_date": "1910/01",
+                "end_date": "1911/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_05_pt1-page-044.csv",
+            "start_date": "1911/09",
+            "end_date": "1911/09"
+        },
+        {
+            "filename": "TYRain_1910-1919_05_pt1-page-044.csv",
+            "start_date": "1911/13",
+            "end_date": "1911/13"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "CASTLETOWN-WEST-GREENLAND-FARM",
+    "data": {
+        "CASTLETOWN-WEST-GREENLAND-FARM.csv": [
+            {
+                "filename": "TYRain_1910-1919_28_pt1-page-199.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "CASTLETOWN-WEST-GREENLAND-FARM.csv": [
+            {
+                "start_date": "1913/06",
+                "end_date": "1913/06"
+            },
+            {
+                "start_date": "1915/06",
+                "end_date": "1915/06"
+            }
+        ]
+    }
+}

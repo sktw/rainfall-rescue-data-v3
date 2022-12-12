@@ -1,0 +1,12 @@
+{
+    "name": "CHRISTCHURCH-SCHOOL",
+    "data": {
+        "CHRISTCHURCH-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1880-1889_03_pt1-page-026.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

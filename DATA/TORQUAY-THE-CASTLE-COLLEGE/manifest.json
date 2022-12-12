@@ -15,5 +15,14 @@
             "start_date": "1889/01",
             "end_date": "1889/13"
         }
-    ]
+    ],
+    "external": {
+        "TORQUAY-THE-CASTLE-COLLEGE.csv": [
+            {
+                "comment": "Data from British Rainfall 1879",
+                "start_date": "1879/13",
+                "end_date": "1879/13"
+            }
+        ]
+    }
 }

@@ -24,6 +24,18 @@
             }
         ]
     },
+    "idr": {
+        "MAUCHLINE-THE-MANSE.csv": [
+            {
+                "start_date": "1894/05",
+                "end_date": "1894/05"
+            },
+            {
+                "start_date": "1894/12",
+                "end_date": "1894/12"
+            }
+        ]
+    },
     "unused": [
         {
             "filename": "TYRain_1880-1889_14_pt1-page-195.csv",

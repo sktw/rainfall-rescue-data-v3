@@ -1,0 +1,12 @@
+{
+    "name": "SUTTON-COLDFIELD",
+    "data": {
+        "SUTTON-COLDFIELD.csv": [
+            {
+                "filename": "TYRain_1890-1899_13_pt1-page-059.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    }
+}

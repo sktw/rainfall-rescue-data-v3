@@ -1,0 +1,17 @@
+{
+    "name": "HEREFORD-EIGN-STREET",
+    "data": {
+        "HEREFORD-EIGN-STREET.csv": [
+            {
+                "filename": "TYRain_1850-1859_F_pt1-page-009.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_06_pt1-page-013.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

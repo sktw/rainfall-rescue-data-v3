@@ -1,0 +1,19 @@
+{
+    "name": "FELTON",
+    "data": {
+        "FELTON-2.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt4-page-058.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ],
+        "FELTON.csv": [
+            {
+                "filename": "TYRain_1880-1889_11_pt4-page-059.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

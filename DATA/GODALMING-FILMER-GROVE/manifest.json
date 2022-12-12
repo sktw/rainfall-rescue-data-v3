@@ -1,7 +1,7 @@
 {
     "name": "GODALMING-FILMER-GROVE",
     "data": {
-        "GODALMING-FILMER-GROVE.csv": [
+        "GODALMING-FILMER-GROVE-2.csv": [
             {
                 "filename": "TYRain_1931-1940_02_pt1-page-243.csv",
                 "start_date": "1931/01",
@@ -32,15 +32,29 @@
                 "start_date": "1943/01",
                 "end_date": "1950/13"
             }
+        ],
+        "GODALMING-FILMER-GROVE.csv": [
+            {
+                "filename": "MISFILED_TYRain_1910-1919_2A_pt1-page-257.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_02_pt1-page-240.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "GODALMING-FILMER-GROVE.csv": [
+            {
+                "start_date": "1923/13",
+                "end_date": "1930/13"
+            }
         ]
     },
     "unused": [
-        {
-            "filename": "MISFILED_TYRain_1910-1919_2A_pt1-page-257.csv"
-        },
-        {
-            "filename": "TYRain_1931-1940_02_pt1-page-240.csv"
-        },
         {
             "filename": "TYRain_1931-1940_02_pt1-page-243.csv",
             "start_date": "1935/08",

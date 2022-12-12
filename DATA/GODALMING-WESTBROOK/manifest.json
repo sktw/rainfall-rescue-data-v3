@@ -3,15 +3,39 @@
     "data": {
         "GODALMING-WESTBROOK.csv": [
             {
+                "filename": "MISFILED_TYRain_1910-1919_2A_pt1-page-258.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
                 "filename": "TYRain_1931-1940_02_pt1-page-241.csv",
                 "start_date": "1931/01",
                 "end_date": "1940/13"
             }
         ]
     },
-    "unused": [
-        {
-            "filename": "MISFILED_TYRain_1910-1919_2A_pt1-page-258.csv"
-        }
-    ]
+    "idr": {
+        "GODALMING-WESTBROOK.csv": [
+            {
+                "start_date": "1920/13",
+                "end_date": "1922/07"
+            },
+            {
+                "start_date": "1922/09",
+                "end_date": "1922/12"
+            },
+            {
+                "start_date": "1923/13",
+                "end_date": "1927/05"
+            },
+            {
+                "start_date": "1927/07",
+                "end_date": "1927/11"
+            },
+            {
+                "start_date": "1928/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
 }

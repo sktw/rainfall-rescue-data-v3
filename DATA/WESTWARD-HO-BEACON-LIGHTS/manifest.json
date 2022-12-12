@@ -1,0 +1,36 @@
+{
+    "name": "WESTWARD-HO-BEACON-LIGHTS",
+    "data": {
+        "WESTWARD-HO-BEACON-LIGHTS-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_12_pt1-page-119.csv",
+                "start_date": "1903/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "WESTWARD-HO-BEACON-LIGHTS.csv": [
+            {
+                "filename": "TYRain_1890-1899_10_pt1-page-172.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_12_pt1-page-119.csv",
+                "start_date": "1900/01",
+                "end_date": "1902/13"
+            }
+        ]
+    },
+    "idr": {
+        "WESTWARD-HO-BEACON-LIGHTS.csv": [
+            {
+                "start_date": "1901/07",
+                "end_date": "1901/07"
+            },
+            {
+                "start_date": "1901/12",
+                "end_date": "1901/12"
+            }
+        ]
+    }
+}

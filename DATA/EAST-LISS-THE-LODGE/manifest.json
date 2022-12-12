@@ -1,0 +1,75 @@
+{
+    "name": "EAST-LISS-THE-LODGE",
+    "data": {
+        "EAST-LISS-THE-LODGE-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-129.csv",
+                "start_date": "1901/05",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-226.csv",
+                "start_date": "1910/01",
+                "end_date": "1912/13"
+            }
+        ],
+        "EAST-LISS-THE-LODGE-3.csv": [
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-226.csv",
+                "start_date": "1912/12",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-264.csv",
+                "start_date": "1920/01",
+                "end_date": "1928/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-264.csv",
+                "start_date": "1929/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "EAST-LISS-THE-LODGE-4.csv": [
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-225.csv",
+                "start_date": "1912/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-263.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ],
+        "EAST-LISS-THE-LODGE.csv": [
+            {
+                "filename": "TYRain_1890-1899_05_pt1-page-101.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-129.csv",
+                "start_date": "1900/01",
+                "end_date": "1901/03"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-129.csv",
+                "start_date": "1901/13",
+                "end_date": "1901/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_05_pt1-page-129.csv",
+            "start_date": "1901/04",
+            "end_date": "1901/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-264.csv",
+            "start_date": "1928/09",
+            "end_date": "1928/13"
+        }
+    ]
+}

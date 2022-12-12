@@ -1,0 +1,24 @@
+{
+    "name": "CALDER-BRIDGE-PONSONBY-OLD-PARSONAGE",
+    "data": {
+        "CALDER-BRIDGE-PONSONBY-OLD-PARSONAGE.csv": [
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-082.csv",
+                "start_date": "1920/01",
+                "end_date": "1925/10"
+            },
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-082.csv",
+                "start_date": "1926/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_25_pt1-page-082.csv",
+            "start_date": "1925/11",
+            "end_date": "1925/13"
+        }
+    ]
+}

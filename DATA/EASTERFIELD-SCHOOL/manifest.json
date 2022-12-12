@@ -1,0 +1,49 @@
+{
+    "name": "EASTERFIELD-SCHOOL",
+    "data": {
+        "EASTERFIELD-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-183.csv",
+                "start_date": "1941/01",
+                "end_date": "1945/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-183.csv",
+                "start_date": "1946/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-081.csv",
+                "start_date": "1951/01",
+                "end_date": "1953/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-081.csv",
+                "start_date": "1954/03",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_30_pt1-page-081.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_31_pt1-page-183.csv",
+            "start_date": "1945/13",
+            "end_date": "1945/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-081.csv",
+            "start_date": "1954/01",
+            "end_date": "1954/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_30_pt1-page-081.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
+}

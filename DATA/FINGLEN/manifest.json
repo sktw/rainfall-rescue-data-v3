@@ -1,0 +1,48 @@
+{
+    "name": "FINGLEN",
+    "data": {
+        "FINGLEN-2.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-210.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-210.csv",
+                "start_date": "1955/04",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-210.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "FINGLEN-3.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-211.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "FINGLEN.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-212.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_28_pt1-page-210.csv",
+            "start_date": "1955/01",
+            "end_date": "1955/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_28_pt1-page-210.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

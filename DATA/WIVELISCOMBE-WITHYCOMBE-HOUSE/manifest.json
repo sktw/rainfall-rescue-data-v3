@@ -1,0 +1,17 @@
+{
+    "name": "WIVELISCOMBE-WITHYCOMBE-HOUSE",
+    "data": {
+        "WIVELISCOMBE-WITHYCOMBE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1870-1879_05_pt3-page-057.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-068.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

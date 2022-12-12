@@ -1,0 +1,12 @@
+{
+    "name": "KIRKBY-LONSDALE-LECK-HALL",
+    "data": {
+        "KIRKBY-LONSDALE-LECK-HALL.csv": [
+            {
+                "filename": "TYRain_1860-1869_04_pt3-page-103.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

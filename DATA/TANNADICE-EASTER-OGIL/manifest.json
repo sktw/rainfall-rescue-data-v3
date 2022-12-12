@@ -1,0 +1,39 @@
+{
+    "name": "TANNADICE-EASTER-OGIL",
+    "data": {
+        "TANNADICE-EASTER-OGIL.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-112.csv",
+                "start_date": "1941/02",
+                "end_date": "1941/10"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-112.csv",
+                "start_date": "1941/12",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_31_pt1-page-112.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1941-1950_31_pt1-page-112.csv",
+            "start_date": "1941/01",
+            "end_date": "1941/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_31_pt1-page-112.csv",
+            "start_date": "1941/11",
+            "end_date": "1941/11"
+        },
+        {
+            "filename": "ERROR_TYRain_1941-1950_31_pt1-page-112.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

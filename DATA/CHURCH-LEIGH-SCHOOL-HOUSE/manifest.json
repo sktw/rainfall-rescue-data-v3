@@ -1,0 +1,54 @@
+{
+    "name": "CHURCH-LEIGH-SCHOOL-HOUSE",
+    "data": {
+        "CHURCH-LEIGH-SCHOOL-HOUSE.csv": [
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-099.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/07"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-099.csv",
+                "start_date": "1958/10",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-099.csv",
+                "start_date": "1959/01",
+                "end_date": "1959/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-099.csv",
+                "start_date": "1959/09",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-099.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_14_pt1-page-099.csv",
+            "start_date": "1958/08",
+            "end_date": "1958/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_14_pt1-page-099.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_14_pt1-page-099.csv",
+            "start_date": "1959/07",
+            "end_date": "1959/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_14_pt1-page-099.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

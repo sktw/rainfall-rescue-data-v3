@@ -1,0 +1,34 @@
+{
+    "name": "GRINDLEFORD-THE-GRANGE",
+    "data": {
+        "GRINDLEFORD-THE-GRANGE.csv": [
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-178.csv",
+                "start_date": "1951/01",
+                "end_date": "1956/06"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-178.csv",
+                "start_date": "1956/09",
+                "end_date": "1956/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-178.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-178.csv",
+            "start_date": "1956/07",
+            "end_date": "1956/08"
+        },
+        {
+            "filename": "TYRain_1951-1960_16_pt1-page-178.csv",
+            "start_date": "1956/13",
+            "end_date": "1956/13"
+        }
+    ]
+}

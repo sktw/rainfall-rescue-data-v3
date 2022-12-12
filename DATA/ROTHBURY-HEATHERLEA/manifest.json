@@ -1,0 +1,32 @@
+{
+    "name": "ROTHBURY-HEATHERLEA",
+    "data": {
+        "ROTHBURY-HEATHERLEA.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-217.csv",
+                "start_date": "1931/01",
+                "end_date": "1931/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-217.csv",
+                "start_date": "1932/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "ROTHBURY-HEATHERLEA.csv": [
+            {
+                "start_date": "1931/09",
+                "end_date": "1931/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_20_pt1-page-217.csv",
+            "start_date": "1931/13",
+            "end_date": "1931/13"
+        }
+    ]
+}

@@ -13,5 +13,21 @@
         {
             "filename": "TYRain_1677-1886_A_pt1-page-097.csv"
         }
-    ]
+    ],
+    "external": {
+        "AYLSHAM-BUXTON.csv": [
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-099.jpg",
+                "comment": "Data from untranscribed columns",
+                "start_date": "1786/07",
+                "end_date": "1786/12"
+            },
+            {
+                "filename": "TYRain_1677-1886_A_pt1-page-099.jpg",
+                "comment": "Data from untranscribed columns",
+                "start_date": "1787/01",
+                "end_date": "1789/13"
+            }
+        ]
+    }
 }

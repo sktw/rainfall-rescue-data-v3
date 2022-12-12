@@ -1,0 +1,41 @@
+{
+    "name": "SLAIDBURN-MERRYBENT",
+    "data": {
+        "SLAIDBURN-MERRYBENT-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-213.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "SLAIDBURN-MERRYBENT.csv": [
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-212.csv",
+                "start_date": "1951/01",
+                "end_date": "1959/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-212.csv",
+                "start_date": "1959/07",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_18_pt1-page-212.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-212.csv",
+            "start_date": "1959/05",
+            "end_date": "1959/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_18_pt1-page-212.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

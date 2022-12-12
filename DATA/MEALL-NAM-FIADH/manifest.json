@@ -1,0 +1,24 @@
+{
+    "name": "MEALL-NAM-FIADH",
+    "data": {
+        "MEALL-NAM-FIADH.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-110.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-110.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-110.csv",
+            "start_date": "1958/01",
+            "end_date": "1958/13"
+        }
+    ]
+}

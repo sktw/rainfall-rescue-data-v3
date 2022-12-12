@@ -1,0 +1,17 @@
+{
+    "name": "WIMBORNE-WEST-BOROUGH",
+    "data": {
+        "WIMBORNE-WEST-BOROUGH.csv": [
+            {
+                "filename": "TYRain_1870-1879_04_pt1-page-082.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt3-page-042.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

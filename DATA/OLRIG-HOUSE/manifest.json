@@ -1,0 +1,17 @@
+{
+    "name": "OLRIG-HOUSE",
+    "data": {
+        "OLRIG-HOUSE.csv": [
+            {
+                "filename": "TYRain_1890-1899_26_pt1-page-098.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_30_pt1-page-129.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

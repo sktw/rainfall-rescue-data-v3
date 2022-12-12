@@ -1,0 +1,17 @@
+{
+    "name": "COLINTON-NORTHFIELD",
+    "data": {
+        "COLINTON-NORTHFIELD.csv": [
+            {
+                "filename": "TYRain_1910-1919_25_pt1-page-293.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_30_pt1-page-049.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "CREDENHILL-SWAINSHILL",
+    "data": {
+        "CREDENHILL-SWAINSHILL.csv": [
+            {
+                "filename": "TYRain_1900-1909_15_pt1-page-029.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_14_pt1-page-185.csv",
+                "start_date": "1910/01",
+                "end_date": "1918/13"
+            }
+        ]
+    }
+}

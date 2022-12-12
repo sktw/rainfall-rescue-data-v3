@@ -1,0 +1,24 @@
+{
+    "name": "ENFIELD-KING-GEORGES-PUMPING-STATION",
+    "data": {
+        "ENFIELD-KING-GEORGES-PUMPING-STATION.csv": [
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-088.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/11"
+            },
+            {
+                "filename": "TYRain_1951-1960_05_pt1-page-088.csv",
+                "start_date": "1955/13",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_05_pt1-page-088.csv",
+            "start_date": "1955/12",
+            "end_date": "1955/12"
+        }
+    ]
+}

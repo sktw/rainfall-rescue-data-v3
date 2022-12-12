@@ -1,0 +1,22 @@
+{
+    "name": "LARBERT-CARRON-PARK",
+    "data": {
+        "LARBERT-CARRON-PARK.csv": [
+            {
+                "filename": "TYRain_1890-1899_24_pt1-page-114.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "external": {
+        "LARBERT-CARRON-PARK.csv": [
+            {
+                "filename": "TYRain_1890-1899_24_pt1-page-114.csv",
+                "comment": "Data from notes at foot of sheet",
+                "start_date": "1900/01",
+                "end_date": "1900/02"
+            }
+        ]
+    }
+}

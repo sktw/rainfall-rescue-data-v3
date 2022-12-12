@@ -1,0 +1,39 @@
+{
+    "name": "HOLMBRIDGE-RED-CABIN",
+    "data": {
+        "HOLMBRIDGE-RED-CABIN.csv": [
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-148.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/01"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-148.csv",
+                "start_date": "1960/03",
+                "end_date": "1960/05"
+            },
+            {
+                "filename": "TYRain_1951-1960_19_pt1-page-148.csv",
+                "start_date": "1960/07",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-148.csv",
+            "start_date": "1960/02",
+            "end_date": "1960/02"
+        },
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-148.csv",
+            "start_date": "1960/06",
+            "end_date": "1960/06"
+        },
+        {
+            "filename": "TYRain_1951-1960_19_pt1-page-148.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "STOKE-CLIMSLAND-SCHOOL",
+    "data": {
+        "STOKE-CLIMSLAND-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1931-1940_12_pt1-page-072.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_12_pt1-page-118.csv"
+        },
+        {
+            "filename": "TYRain_1931-1940_12_pt1-page-072.csv",
+            "start_date": "1931/01",
+            "end_date": "1932/13"
+        }
+    ]
+}

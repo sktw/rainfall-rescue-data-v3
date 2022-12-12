@@ -1,0 +1,74 @@
+{
+    "name": "STRATHBLANE-CRAIGBARNET",
+    "data": {
+        "STRATHBLANE-CRAIGBARNET.csv": [
+            {
+                "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+                "start_date": "1900/01",
+                "end_date": "1900/01"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+                "start_date": "1900/03",
+                "end_date": "1900/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+                "start_date": "1900/07",
+                "end_date": "1900/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+                "start_date": "1901/01",
+                "end_date": "1903/05"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+                "start_date": "1903/07",
+                "end_date": "1903/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_26_pt1-page-269.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-124.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+            "start_date": "1900/02",
+            "end_date": "1900/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+            "start_date": "1900/06",
+            "end_date": "1900/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+            "start_date": "1900/13",
+            "end_date": "1900/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+            "start_date": "1903/06",
+            "end_date": "1903/06"
+        },
+        {
+            "filename": "ERROR_TYRain_1900-1909_28_pt1-page-138.csv",
+            "start_date": "1903/13",
+            "end_date": "1903/13"
+        }
+    ]
+}

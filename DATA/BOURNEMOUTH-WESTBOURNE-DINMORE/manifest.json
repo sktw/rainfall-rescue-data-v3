@@ -1,0 +1,41 @@
+{
+    "name": "BOURNEMOUTH-WESTBOURNE-DINMORE",
+    "data": {
+        "BOURNEMOUTH-WESTBOURNE-DINMORE-2.csv": [
+            {
+                "filename": "TYRain_1870-1879_04_pt1-page-070.csv",
+                "start_date": "1879/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_05_pt3-page-007.csv",
+                "start_date": "1880/01",
+                "end_date": "1882/13"
+            }
+        ],
+        "BOURNEMOUTH-WESTBOURNE-DINMORE-3.csv": [
+            {
+                "filename": "TYRain_1880-1889_05_pt3-page-006.csv",
+                "start_date": "1883/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "TYRain_1890-1899_09_pt1-page-126.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ],
+        "BOURNEMOUTH-WESTBOURNE-DINMORE.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt3-page-012.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_04_pt2-page-013.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

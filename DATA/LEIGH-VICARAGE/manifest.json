@@ -45,5 +45,59 @@
             "start_date": "1906/01",
             "end_date": "1906/13"
         }
-    ]
+    ],
+    "external": {
+        "LEIGH-VICARAGE.csv": [
+            {
+                "comment": "Data from British Rainfall 1921",
+                "start_date": "1921/13",
+                "end_date": "1921/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1922",
+                "start_date": "1922/13",
+                "end_date": "1922/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1923",
+                "start_date": "1923/13",
+                "end_date": "1923/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1924",
+                "start_date": "1924/13",
+                "end_date": "1924/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1925",
+                "start_date": "1925/13",
+                "end_date": "1925/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1926",
+                "start_date": "1926/13",
+                "end_date": "1926/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1927",
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1928",
+                "start_date": "1928/13",
+                "end_date": "1928/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1929",
+                "start_date": "1929/13",
+                "end_date": "1929/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1930",
+                "start_date": "1930/13",
+                "end_date": "1930/13"
+            }
+        ]
+    }
 }

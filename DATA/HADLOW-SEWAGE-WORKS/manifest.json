@@ -5,8 +5,30 @@
             {
                 "filename": "ERROR_TYRain_1951-1960_02_pt1-page-125.csv",
                 "start_date": "1951/01",
+                "end_date": "1958/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-125.csv",
+                "start_date": "1959/09",
+                "end_date": "1959/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_02_pt1-page-125.csv",
+                "start_date": "1959/11",
                 "end_date": "1960/13"
             }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-125.csv",
+            "start_date": "1959/01",
+            "end_date": "1959/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_02_pt1-page-125.csv",
+            "start_date": "1959/10",
+            "end_date": "1959/10"
+        }
+    ]
 }

@@ -1,0 +1,39 @@
+{
+    "name": "NAIRN-URCHANY-RES",
+    "data": {
+        "NAIRN-URCHANY-RES.csv": [
+            {
+                "filename": "TYRain_1931-1940_26_pt1-page-323.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-226.csv",
+                "start_date": "1941/01",
+                "end_date": "1943/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-226.csv",
+                "start_date": "1945/01",
+                "end_date": "1948/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_31_pt1-page-226.csv",
+                "start_date": "1950/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_31_pt1-page-226.csv",
+            "start_date": "1944/01",
+            "end_date": "1944/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_31_pt1-page-226.csv",
+            "start_date": "1949/01",
+            "end_date": "1949/13"
+        }
+    ]
+}

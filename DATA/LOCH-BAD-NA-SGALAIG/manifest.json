@@ -30,6 +30,21 @@
                 "filename": "ERROR_TYRain_1941-1950_32_pt1-page-168.csv",
                 "start_date": "1941/01",
                 "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-078.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/09"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-078.csv",
+                "start_date": "1951/13",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_29_pt1-page-078.csv",
+                "start_date": "1957/12",
+                "end_date": "1960/13"
             }
         ]
     },
@@ -38,6 +53,10 @@
             {
                 "start_date": "1950/13",
                 "end_date": "1950/13"
+            },
+            {
+                "start_date": "1951/01",
+                "end_date": "1951/09"
             }
         ]
     },

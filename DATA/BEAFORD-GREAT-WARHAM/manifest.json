@@ -1,0 +1,20 @@
+{
+    "name": "BEAFORD-GREAT-WARHAM",
+    "data": {
+        "BEAFORD-GREAT-WARHAM.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_11_pt1-page-072.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BEAFORD-GREAT-WARHAM.csv": [
+            {
+                "start_date": "1959/13",
+                "end_date": "1959/13"
+            }
+        ]
+    }
+}

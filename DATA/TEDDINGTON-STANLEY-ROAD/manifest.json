@@ -1,0 +1,24 @@
+{
+    "name": "TEDDINGTON-STANLEY-ROAD",
+    "data": {
+        "TEDDINGTON-STANLEY-ROAD.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_05_pt1-page-009.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "TEDDINGTON-STANLEY-ROAD.csv": [
+            {
+                "start_date": "1957/01",
+                "end_date": "1957/01"
+            },
+            {
+                "start_date": "1959/10",
+                "end_date": "1959/10"
+            }
+        ]
+    }
+}

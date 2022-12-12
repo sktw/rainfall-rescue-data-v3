@@ -1,0 +1,12 @@
+{
+    "name": "LYMM-AGDEN-HALL",
+    "data": {
+        "LYMM-AGDEN-HALL.csv": [
+            {
+                "filename": "TYRain_1880-1889_08_pt4-page-014.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

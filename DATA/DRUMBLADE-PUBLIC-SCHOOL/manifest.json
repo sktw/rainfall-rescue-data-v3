@@ -18,5 +18,13 @@
                 "end_date": "1930/13"
             }
         ]
+    },
+    "idr": {
+        "DRUMBLADE-PUBLIC-SCHOOL.csv": [
+            {
+                "start_date": "1919/08",
+                "end_date": "1919/08"
+            }
+        ]
     }
 }

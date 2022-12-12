@@ -1,0 +1,20 @@
+{
+    "name": "FINDERN-MILL-HILL-FARM",
+    "data": {
+        "FINDERN-MILL-HILL-FARM.csv": [
+            {
+                "filename": "TYRain_1900-1909_18_pt1-page-114.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "FINDERN-MILL-HILL-FARM.csv": [
+            {
+                "start_date": "1907/01",
+                "end_date": "1907/02"
+            }
+        ]
+    }
+}

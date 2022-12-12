@@ -1,0 +1,17 @@
+{
+    "name": "MARYPORT-WYNDHAM-ROW",
+    "data": {
+        "MARYPORT-WYNDHAM-ROW.csv": [
+            {
+                "filename": "TYRain_1870-1879_09_pt3-page-082.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_12_pt1-page-022.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

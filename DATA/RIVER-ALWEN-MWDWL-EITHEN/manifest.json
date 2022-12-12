@@ -1,0 +1,57 @@
+{
+    "name": "RIVER-ALWEN-MWDWL-EITHEN",
+    "data": {
+        "RIVER-ALWEN-MWDWL-EITHEN.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-136.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-136.csv",
+                "start_date": "1958/04",
+                "end_date": "1958/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-136.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/08"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-136.csv",
+                "start_date": "1960/10",
+                "end_date": "1960/12"
+            }
+        ]
+    },
+    "idr": {
+        "RIVER-ALWEN-MWDWL-EITHEN.csv": [
+            {
+                "start_date": "1959/02",
+                "end_date": "1959/02"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-136.csv",
+            "start_date": "1958/03",
+            "end_date": "1958/03"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-136.csv",
+            "start_date": "1958/13",
+            "end_date": "1958/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-136.csv",
+            "start_date": "1960/09",
+            "end_date": "1960/09"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-136.csv",
+            "start_date": "1960/13",
+            "end_date": "1960/13"
+        }
+    ]
+}

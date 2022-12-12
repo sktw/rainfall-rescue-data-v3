@@ -1,0 +1,34 @@
+{
+    "name": "LEEK-STONEYCLIFF",
+    "data": {
+        "LEEK-STONEYCLIFF.csv": [
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-110.csv",
+                "start_date": "1951/01",
+                "end_date": "1959/04"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-110.csv",
+                "start_date": "1959/06",
+                "end_date": "1959/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_14_pt1-page-110.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_14_pt1-page-110.csv",
+            "start_date": "1959/05",
+            "end_date": "1959/05"
+        },
+        {
+            "filename": "TYRain_1951-1960_14_pt1-page-110.csv",
+            "start_date": "1959/13",
+            "end_date": "1959/13"
+        }
+    ]
+}

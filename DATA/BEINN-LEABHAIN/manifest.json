@@ -1,0 +1,19 @@
+{
+    "name": "BEINN-LEABHAIN",
+    "data": {
+        "BEINN-LEABHAIN-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-153.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BEINN-LEABHAIN.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-154.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

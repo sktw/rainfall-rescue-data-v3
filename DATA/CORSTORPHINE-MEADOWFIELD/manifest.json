@@ -1,0 +1,27 @@
+{
+    "name": "CORSTORPHINE-MEADOWFIELD",
+    "data": {
+        "CORSTORPHINE-MEADOWFIELD.csv": [
+            {
+                "filename": "TYRain_1850-1859_H_pt1-page-107.csv",
+                "start_date": "1850/01",
+                "end_date": "1859/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1860-1869_07_pt1-page-097.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_11_pt2-page-047.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            },
+            {
+                "filename": "TYRain_1880-1889_14_pt1-page-139.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    }
+}

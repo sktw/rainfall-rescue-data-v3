@@ -1,0 +1,25 @@
+{
+    "name": "SWIMBRIDGE-THE-VICARAGE",
+    "data": {
+        "SWIMBRIDGE-THE-VICARAGE.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_11_pt1-page-225.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_15_pt1-page-022.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "SWIMBRIDGE-THE-VICARAGE.csv": [
+            {
+                "start_date": "1940/13",
+                "end_date": "1940/13"
+            }
+        ]
+    }
+}

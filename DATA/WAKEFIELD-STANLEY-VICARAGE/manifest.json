@@ -8,5 +8,44 @@
                 "end_date": "1889/13"
             }
         ]
+    },
+    "external": {
+        "WAKEFIELD-STANLEY-VICARAGE.csv": [
+            {
+                "comment": "Data from British Rainfall 1873",
+                "start_date": "1873/13",
+                "end_date": "1873/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1874",
+                "start_date": "1874/13",
+                "end_date": "1874/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1875",
+                "start_date": "1875/13",
+                "end_date": "1875/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1876",
+                "start_date": "1876/13",
+                "end_date": "1876/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1877",
+                "start_date": "1877/13",
+                "end_date": "1877/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1878",
+                "start_date": "1878/13",
+                "end_date": "1878/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1879",
+                "start_date": "1879/13",
+                "end_date": "1879/13"
+            }
+        ]
     }
 }

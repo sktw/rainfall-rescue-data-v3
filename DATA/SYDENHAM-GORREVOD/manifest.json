@@ -8,5 +8,14 @@
                 "end_date": "1899/13"
             }
         ]
+    },
+    "external": {
+        "SYDENHAM-GORREVOD.csv": [
+            {
+                "filename": "TYRain_1890-1899_03_pt1-page-183.jpg",
+                "start_date": "1900/01",
+                "end_date": "1900/05"
+            }
+        ]
     }
 }

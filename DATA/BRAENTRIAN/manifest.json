@@ -1,0 +1,31 @@
+{
+    "name": "BRAENTRIAN",
+    "data": {
+        "BRAENTRIAN-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-168.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BRAENTRIAN.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-169.csv",
+                "start_date": "1951/01",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-169.csv",
+                "start_date": "1960/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_28_pt1-page-169.csv",
+            "start_date": "1958/01",
+            "end_date": "1959/13"
+        }
+    ]
+}

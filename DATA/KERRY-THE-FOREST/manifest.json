@@ -1,0 +1,24 @@
+{
+    "name": "KERRY-THE-FOREST",
+    "data": {
+        "KERRY-THE-FOREST.csv": [
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-028.csv",
+                "start_date": "1951/01",
+                "end_date": "1958/10"
+            },
+            {
+                "filename": "TYRain_1951-1960_24_pt1-page-028.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_24_pt1-page-028.csv",
+            "start_date": "1958/11",
+            "end_date": "1958/13"
+        }
+    ]
+}

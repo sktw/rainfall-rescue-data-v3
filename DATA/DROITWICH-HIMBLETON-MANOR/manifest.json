@@ -1,0 +1,12 @@
+{
+    "name": "DROITWICH-HIMBLETON-MANOR",
+    "data": {
+        "DROITWICH-HIMBLETON-MANOR.csv": [
+            {
+                "filename": "TYRain_1900-1909_16_pt1-page-231.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

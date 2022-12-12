@@ -1,0 +1,49 @@
+{
+    "name": "BATH-BATHWICK-ST-JOHN-BAPTIST-VICARAGE",
+    "data": {
+        "BATH-BATHWICK-ST-JOHN-BAPTIST-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt2-page-016.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_11_pt1-page-023.csv",
+                "start_date": "1890/01",
+                "end_date": "1892/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_11_pt1-page-023.csv",
+                "start_date": "1893/03",
+                "end_date": "1893/07"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_11_pt1-page-023.csv",
+                "start_date": "1893/09",
+                "end_date": "1893/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_11_pt1-page-023.csv",
+                "start_date": "1894/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1890-1899_11_pt1-page-023.csv",
+            "start_date": "1893/01",
+            "end_date": "1893/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_11_pt1-page-023.csv",
+            "start_date": "1893/08",
+            "end_date": "1893/08"
+        },
+        {
+            "filename": "ERROR_TYRain_1890-1899_11_pt1-page-023.csv",
+            "start_date": "1893/12",
+            "end_date": "1893/13"
+        }
+    ]
+}

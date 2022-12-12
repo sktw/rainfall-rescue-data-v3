@@ -1,0 +1,39 @@
+{
+    "name": "LLANFERRES-COED-CLWYD-FOREST",
+    "data": {
+        "LLANFERRES-COED-CLWYD-FOREST.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-129.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-129.csv",
+                "start_date": "1952/02",
+                "end_date": "1952/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-129.csv",
+                "start_date": "1953/01",
+                "end_date": "1960/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-129.csv",
+            "start_date": "1952/01",
+            "end_date": "1952/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-129.csv",
+            "start_date": "1952/13",
+            "end_date": "1952/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-129.csv",
+            "start_date": "1960/10",
+            "end_date": "1960/13"
+        }
+    ]
+}

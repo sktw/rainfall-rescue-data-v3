@@ -1,0 +1,29 @@
+{
+    "name": "ROSEWELL",
+    "data": {
+        "ROSEWELL.csv": [
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-221.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/06"
+            },
+            {
+                "filename": "TYRain_1941-1950_28_pt1-page-221.csv",
+                "start_date": "1950/10",
+                "end_date": "1950/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1941-1950_28_pt1-page-221.csv",
+            "start_date": "1950/07",
+            "end_date": "1950/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_28_pt1-page-221.csv",
+            "start_date": "1950/13",
+            "end_date": "1950/13"
+        }
+    ]
+}

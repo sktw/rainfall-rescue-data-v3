@@ -1,0 +1,25 @@
+{
+    "name": "GUILDFORD-CRANLEIGH",
+    "data": {
+        "GUILDFORD-CRANLEIGH.csv": [
+            {
+                "filename": "TYRain_1860-1869_01_pt1-page-127.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1870-1879_01_pt2-page-088.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    },
+    "idr": {
+        "GUILDFORD-CRANLEIGH.csv": [
+            {
+                "start_date": "1871/06",
+                "end_date": "1871/06"
+            }
+        ]
+    }
+}

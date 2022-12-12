@@ -1,0 +1,39 @@
+{
+    "name": "RHANDIRMWYN-NANTYWYN",
+    "data": {
+        "RHANDIRMWYN-NANTYWYN.csv": [
+            {
+                "filename": "TYRain_1941-1950_25_pt1-page-157.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-114.csv",
+                "start_date": "1951/01",
+                "end_date": "1954/08"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-114.csv",
+                "start_date": "1954/10",
+                "end_date": "1954/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_23_pt1-page-114.csv",
+                "start_date": "1955/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-114.csv",
+            "start_date": "1954/09",
+            "end_date": "1954/09"
+        },
+        {
+            "filename": "TYRain_1951-1960_23_pt1-page-114.csv",
+            "start_date": "1954/13",
+            "end_date": "1954/13"
+        }
+    ]
+}

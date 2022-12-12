@@ -1,0 +1,66 @@
+{
+    "name": "FRODSHAM-CASTLE-PARK",
+    "data": {
+        "FRODSHAM-CASTLE-PARK.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-263.csv",
+                "start_date": "1931/01",
+                "end_date": "1935/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-257.csv",
+                "start_date": "1936/01",
+                "end_date": "1936/02"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-263.csv",
+                "start_date": "1936/03",
+                "end_date": "1936/12"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-257.csv",
+                "start_date": "1936/13",
+                "end_date": "1936/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_16_pt1-page-263.csv",
+                "start_date": "1937/01",
+                "end_date": "1937/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-257.csv",
+                "start_date": "1938/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1941-1950_19_pt1-page-067.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "FRODSHAM-CASTLE-PARK.csv": [
+            {
+                "start_date": "1936/09",
+                "end_date": "1936/09"
+            },
+            {
+                "start_date": "1941/13",
+                "end_date": "1941/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1931-1940_16_pt1-page-263.csv",
+            "start_date": "1936/01",
+            "end_date": "1936/02"
+        },
+        {
+            "filename": "ERROR_TYRain_1931-1940_16_pt1-page-263.csv",
+            "start_date": "1936/13",
+            "end_date": "1936/13"
+        }
+    ]
+}

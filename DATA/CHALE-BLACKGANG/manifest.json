@@ -1,0 +1,60 @@
+{
+    "name": "CHALE-BLACKGANG",
+    "data": {
+        "CHALE-BLACKGANG-2.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-003.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/02"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-003.csv",
+                "start_date": "1930/04",
+                "end_date": "1930/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1931-1940_05_pt1-page-004.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ],
+        "CHALE-BLACKGANG.csv": [
+            {
+                "filename": "TYRain_1910-1919_05_pt1-page-003.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-006.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHALE-BLACKGANG-2.csv": [
+            {
+                "start_date": "1932/08",
+                "end_date": "1932/08"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-003.csv",
+            "start_date": "1930/03",
+            "end_date": "1930/03"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-003.csv",
+            "start_date": "1930/13",
+            "end_date": "1930/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-004.csv"
+        },
+        {
+            "filename": "TYRain_1920-1930_05_pt1-page-007.csv"
+        }
+    ]
+}

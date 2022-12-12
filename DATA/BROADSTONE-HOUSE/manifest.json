@@ -1,0 +1,79 @@
+{
+    "name": "BROADSTONE-HOUSE",
+    "data": {
+        "BROADSTONE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-064.csv",
+                "start_date": "1910/01",
+                "end_date": "1915/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-064.csv",
+                "start_date": "1916/02",
+                "end_date": "1916/12"
+            },
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-064.csv",
+                "start_date": "1917/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-069.csv",
+                "start_date": "1920/01",
+                "end_date": "1920/03"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-069.csv",
+                "start_date": "1920/05",
+                "end_date": "1920/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-069.csv",
+                "start_date": "1921/01",
+                "end_date": "1921/08"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-069.csv",
+                "start_date": "1921/10",
+                "end_date": "1921/12"
+            },
+            {
+                "filename": "TYRain_1920-1930_10_pt1-page-069.csv",
+                "start_date": "1922/01",
+                "end_date": "1930/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1910-1919_11_pt1-page-064.csv",
+            "start_date": "1916/01",
+            "end_date": "1916/01"
+        },
+        {
+            "filename": "TYRain_1910-1919_11_pt1-page-064.csv",
+            "start_date": "1916/13",
+            "end_date": "1916/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-069.csv",
+            "start_date": "1920/04",
+            "end_date": "1920/04"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-069.csv",
+            "start_date": "1920/13",
+            "end_date": "1920/13"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-069.csv",
+            "start_date": "1921/09",
+            "end_date": "1921/09"
+        },
+        {
+            "filename": "TYRain_1920-1930_10_pt1-page-069.csv",
+            "start_date": "1921/13",
+            "end_date": "1921/13"
+        }
+    ]
+}

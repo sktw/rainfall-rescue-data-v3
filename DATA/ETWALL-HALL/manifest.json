@@ -1,0 +1,26 @@
+{
+    "name": "ETWALL-HALL",
+    "data": {
+        "ETWALL-HALL.csv": [
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-005.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "external": {
+        "ETWALL-HALL.csv": [
+            {
+                "comment": "Data from British Rainfall 1929",
+                "start_date": "1929/13",
+                "end_date": "1929/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1930",
+                "start_date": "1930/13",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

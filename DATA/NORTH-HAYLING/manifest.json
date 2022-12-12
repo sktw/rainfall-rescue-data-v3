@@ -1,0 +1,25 @@
+{
+    "name": "NORTH-HAYLING",
+    "data": {
+        "NORTH-HAYLING.csv": [
+            {
+                "filename": "ERROR_TYRain_1890-1899_05_pt1-page-044.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "TYRain_1900-1909_05_pt1-page-087.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "NORTH-HAYLING.csv": [
+            {
+                "start_date": "1890/12",
+                "end_date": "1890/12"
+            }
+        ]
+    }
+}

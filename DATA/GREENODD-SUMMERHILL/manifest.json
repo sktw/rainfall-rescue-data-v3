@@ -1,0 +1,20 @@
+{
+    "name": "GREENODD-SUMMERHILL",
+    "data": {
+        "GREENODD-SUMMERHILL.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_18_pt1-page-214.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "idr": {
+        "GREENODD-SUMMERHILL.csv": [
+            {
+                "start_date": "1916/13",
+                "end_date": "1916/13"
+            }
+        ]
+    }
+}

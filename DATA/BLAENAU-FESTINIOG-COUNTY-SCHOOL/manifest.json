@@ -1,0 +1,34 @@
+{
+    "name": "BLAENAU-FESTINIOG-COUNTY-SCHOOL",
+    "data": {
+        "BLAENAU-FESTINIOG-COUNTY-SCHOOL.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-213.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/09"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-213.csv",
+                "start_date": "1955/11",
+                "end_date": "1955/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_24_pt1-page-213.csv",
+                "start_date": "1956/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-213.csv",
+            "start_date": "1955/10",
+            "end_date": "1955/10"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_24_pt1-page-213.csv",
+            "start_date": "1955/13",
+            "end_date": "1955/13"
+        }
+    ]
+}

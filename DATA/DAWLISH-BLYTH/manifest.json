@@ -1,0 +1,19 @@
+{
+    "name": "DAWLISH-BLYTH",
+    "data": {
+        "DAWLISH-BLYTH-2.csv": [
+            {
+                "filename": "TYRain_1910-1919_11_pt1-page-270.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ],
+        "DAWLISH-BLYTH.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-017.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    }
+}

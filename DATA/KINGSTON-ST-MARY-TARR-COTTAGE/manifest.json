@@ -1,0 +1,36 @@
+{
+    "name": "KINGSTON-ST-MARY-TARR-COTTAGE",
+    "data": {
+        "KINGSTON-ST-MARY-TARR-COTTAGE-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_12_pt1-page-144.csv",
+                "start_date": "1951/10",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_12_pt1-page-144.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "KINGSTON-ST-MARY-TARR-COTTAGE.csv": [
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-058.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_12_pt1-page-144.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_12_pt1-page-144.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        }
+    ]
+}

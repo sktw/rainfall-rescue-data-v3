@@ -1,0 +1,19 @@
+{
+    "name": "LOCH-DAIMH",
+    "data": {
+        "LOCH-DAIMH-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-213.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "LOCH-DAIMH.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-214.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

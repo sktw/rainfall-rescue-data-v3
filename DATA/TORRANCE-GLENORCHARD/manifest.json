@@ -1,0 +1,22 @@
+{
+    "name": "TORRANCE-GLENORCHARD",
+    "data": {
+        "TORRANCE-GLENORCHARD.csv": [
+            {
+                "filename": "TYRain_1900-1909_28_pt1-page-141.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_26_pt1-page-266.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_31_pt1-page-118.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

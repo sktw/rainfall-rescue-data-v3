@@ -1,0 +1,19 @@
+{
+    "name": "KENKNOCK",
+    "data": {
+        "KENKNOCK-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-177.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "KENKNOCK.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-178.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

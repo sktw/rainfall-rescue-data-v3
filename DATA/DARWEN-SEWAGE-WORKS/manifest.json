@@ -1,0 +1,22 @@
+{
+    "name": "DARWEN-SEWAGE-WORKS",
+    "data": {
+        "DARWEN-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-234.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-081.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1920-1930_20_pt1-page-086.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            }
+        ]
+    }
+}

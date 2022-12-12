@@ -1,0 +1,19 @@
+{
+    "name": "EAST-BUDLEIGH-OAKHILL",
+    "data": {
+        "EAST-BUDLEIGH-OAKHILL-2.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-110.csv",
+                "start_date": "1905/01",
+                "end_date": "1909/13"
+            }
+        ],
+        "EAST-BUDLEIGH-OAKHILL.csv": [
+            {
+                "filename": "TYRain_1900-1909_12_pt1-page-110.csv",
+                "start_date": "1900/01",
+                "end_date": "1904/13"
+            }
+        ]
+    }
+}

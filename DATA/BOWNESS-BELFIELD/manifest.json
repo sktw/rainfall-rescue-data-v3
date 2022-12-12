@@ -1,0 +1,32 @@
+{
+    "name": "BOWNESS-BELFIELD",
+    "data": {
+        "BOWNESS-BELFIELD.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt2-page-006.csv",
+                "start_date": "1840/01",
+                "end_date": "1841/13"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt2-page-005.csv",
+                "start_date": "1842/01",
+                "end_date": "1844/01"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt2-page-006.csv",
+                "start_date": "1844/02",
+                "end_date": "1844/02"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt2-page-005.csv",
+                "start_date": "1844/03",
+                "end_date": "1844/07"
+            },
+            {
+                "filename": "TYRain_1840-1849_E_pt2-page-006.csv",
+                "start_date": "1844/08",
+                "end_date": "1849/13"
+            }
+        ]
+    }
+}

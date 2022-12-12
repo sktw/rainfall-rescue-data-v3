@@ -1,0 +1,19 @@
+{
+    "name": "INVERMEARAN",
+    "data": {
+        "INVERMEARAN-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-199.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "INVERMEARAN.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-200.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "ANDOVER-HATHERDEN",
+    "data": {
+        "ANDOVER-HATHERDEN.csv": [
+            {
+                "filename": "TYRain_1920-1930_05_pt1-page-139.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-111.csv",
+                "start_date": "1931/01",
+                "end_date": "1933/10"
+            },
+            {
+                "filename": "TYRain_1931-1940_05_pt1-page-111.csv",
+                "start_date": "1934/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_05_pt1-page-111.csv",
+            "start_date": "1933/11",
+            "end_date": "1933/13"
+        }
+    ]
+}

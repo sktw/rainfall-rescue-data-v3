@@ -1,0 +1,20 @@
+{
+    "name": "KINETON-BUTLERS-MARSTON",
+    "data": {
+        "KINETON-BUTLERS-MARSTON.csv": [
+            {
+                "filename": "ERROR_TYRain_1941-1950_17_pt1-page-012.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "KINETON-BUTLERS-MARSTON.csv": [
+            {
+                "start_date": "1949/13",
+                "end_date": "1949/13"
+            }
+        ]
+    }
+}

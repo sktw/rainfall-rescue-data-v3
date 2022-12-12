@@ -1,0 +1,20 @@
+{
+    "name": "MAYEN-HOUSE",
+    "data": {
+        "MAYEN-HOUSE.csv": [
+            {
+                "filename": "TYRain_1840-1849_E_pt3-page-070.csv",
+                "start_date": "1840/01",
+                "end_date": "1849/13"
+            }
+        ]
+    },
+    "idr": {
+        "MAYEN-HOUSE.csv": [
+            {
+                "start_date": "1847/13",
+                "end_date": "1847/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "FELBRIDGE-PLACE",
+    "data": {
+        "FELBRIDGE-PLACE.csv": [
+            {
+                "filename": "TYRain_1890-1899_02_pt1-page-008.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1900-1909_02_pt1-page-001.csv",
+                "start_date": "1900/01",
+                "end_date": "1909/13"
+            }
+        ]
+    },
+    "idr": {
+        "FELBRIDGE-PLACE.csv": [
+            {
+                "start_date": "1900/06",
+                "end_date": "1900/06"
+            }
+        ]
+    }
+}

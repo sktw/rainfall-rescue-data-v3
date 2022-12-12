@@ -1,0 +1,29 @@
+{
+    "name": "CLIBURN-COUNCIL-SCHOOL",
+    "data": {
+        "CLIBURN-COUNCIL-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1920-1930_25_pt1-page-129.csv",
+                "start_date": "1920/01",
+                "end_date": "1930/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-046.csv",
+                "start_date": "1931/01",
+                "end_date": "1934/11"
+            },
+            {
+                "filename": "TYRain_1931-1940_21_pt1-page-046.csv",
+                "start_date": "1935/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_21_pt1-page-046.csv",
+            "start_date": "1934/12",
+            "end_date": "1934/13"
+        }
+    ]
+}

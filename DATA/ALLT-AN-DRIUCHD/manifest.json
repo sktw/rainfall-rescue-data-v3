@@ -1,0 +1,56 @@
+{
+    "name": "ALLT-AN-DRIUCHD",
+    "data": {
+        "ALLT-AN-DRIUCHD-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_28_pt1-page-115.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "ALLT-AN-DRIUCHD.csv": [
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-114.csv",
+                "start_date": "1951/02",
+                "end_date": "1951/03"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-114.csv",
+                "start_date": "1951/05",
+                "end_date": "1951/11"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-114.csv",
+                "start_date": "1951/13",
+                "end_date": "1957/13"
+            },
+            {
+                "filename": "ERROR_TYRain_1951-1960_28_pt1-page-114.csv",
+                "start_date": "1959/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1951-1960_28_pt1-page-114.csv",
+            "start_date": "1951/01",
+            "end_date": "1951/01"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_28_pt1-page-114.csv",
+            "start_date": "1951/04",
+            "end_date": "1951/04"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_28_pt1-page-114.csv",
+            "start_date": "1951/12",
+            "end_date": "1951/12"
+        },
+        {
+            "filename": "ERROR_TYRain_1951-1960_28_pt1-page-114.csv",
+            "start_date": "1958/01",
+            "end_date": "1958/13"
+        }
+    ]
+}

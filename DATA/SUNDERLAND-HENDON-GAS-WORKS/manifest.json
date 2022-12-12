@@ -1,0 +1,20 @@
+{
+    "name": "SUNDERLAND-HENDON-GAS-WORKS",
+    "data": {
+        "SUNDERLAND-HENDON-GAS-WORKS.csv": [
+            {
+                "filename": "ERROR_TYRain_1931-1940_20_pt1-page-148.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            }
+        ]
+    },
+    "idr": {
+        "SUNDERLAND-HENDON-GAS-WORKS.csv": [
+            {
+                "start_date": "1935/13",
+                "end_date": "1935/13"
+            }
+        ]
+    }
+}

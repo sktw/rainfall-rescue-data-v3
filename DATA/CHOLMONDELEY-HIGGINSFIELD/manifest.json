@@ -1,0 +1,62 @@
+{
+    "name": "CHOLMONDELEY-HIGGINSFIELD",
+    "data": {
+        "CHOLMONDELEY-HIGGINSFIELD.csv": [
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-223.csv",
+                "start_date": "1931/01",
+                "end_date": "1939/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_16_pt1-page-223.csv",
+                "start_date": "1940/02",
+                "end_date": "1940/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-026.csv",
+                "start_date": "1941/01",
+                "end_date": "1941/07"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-026.csv",
+                "start_date": "1941/10",
+                "end_date": "1941/12"
+            },
+            {
+                "filename": "TYRain_1941-1950_19_pt1-page-026.csv",
+                "start_date": "1942/01",
+                "end_date": "1950/13"
+            }
+        ]
+    },
+    "idr": {
+        "CHOLMONDELEY-HIGGINSFIELD.csv": [
+            {
+                "start_date": "1944/08",
+                "end_date": "1944/09"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-223.csv",
+            "start_date": "1940/01",
+            "end_date": "1940/01"
+        },
+        {
+            "filename": "TYRain_1931-1940_16_pt1-page-223.csv",
+            "start_date": "1940/13",
+            "end_date": "1940/13"
+        },
+        {
+            "filename": "TYRain_1941-1950_19_pt1-page-026.csv",
+            "start_date": "1941/08",
+            "end_date": "1941/09"
+        },
+        {
+            "filename": "TYRain_1941-1950_19_pt1-page-026.csv",
+            "start_date": "1941/13",
+            "end_date": "1941/13"
+        }
+    ]
+}

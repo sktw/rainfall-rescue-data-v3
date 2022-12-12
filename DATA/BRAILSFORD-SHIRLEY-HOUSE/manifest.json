@@ -1,0 +1,20 @@
+{
+    "name": "BRAILSFORD-SHIRLEY-HOUSE",
+    "data": {
+        "BRAILSFORD-SHIRLEY-HOUSE.csv": [
+            {
+                "filename": "TYRain_1951-1960_16_pt1-page-116.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "BRAILSFORD-SHIRLEY-HOUSE.csv": [
+            {
+                "start_date": "1957/01",
+                "end_date": "1957/02"
+            }
+        ]
+    }
+}
