@@ -1,0 +1,17 @@
+{
+    "name": "COATBRIDGE-WOODSIDE-HOUSE",
+    "data": {
+        "COATBRIDGE-WOODSIDE-HOUSE.csv": [
+            {
+                "filename": "TYRain_1860-1869_07_pt1-page-115.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            },
+            {
+                "filename": "TYRain_1870-1879_11_pt2-page-083.csv",
+                "start_date": "1870/01",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "WEST-PORLOCK",
+    "data": {
+        "WEST-PORLOCK-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_12_pt1-page-220.csv",
+                "start_date": "1951/06",
+                "end_date": "1951/12"
+            },
+            {
+                "filename": "TYRain_1951-1960_12_pt1-page-220.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "WEST-PORLOCK.csv": [
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-008.csv",
+                "start_date": "1931/01",
+                "end_date": "1932/05"
+            },
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-008.csv",
+                "start_date": "1933/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-134.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_12_pt1-page-220.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/05"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1931-1940_13_pt1-page-008.csv",
+            "start_date": "1932/06",
+            "end_date": "1932/13"
+        },
+        {
+            "filename": "TYRain_1951-1960_12_pt1-page-220.csv",
+            "start_date": "1951/13",
+            "end_date": "1951/13"
+        }
+    ]
+}

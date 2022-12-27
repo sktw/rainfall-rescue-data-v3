@@ -1,0 +1,29 @@
+{
+    "name": "BARRHEAD-SEWAGE-WORKS",
+    "data": {
+        "BARRHEAD-SEWAGE-WORKS-2.csv": [
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-017.csv",
+                "start_date": "1952/01",
+                "end_date": "1960/13"
+            }
+        ],
+        "BARRHEAD-SEWAGE-WORKS.csv": [
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-075.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-223.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-017.csv",
+                "start_date": "1951/01",
+                "end_date": "1951/13"
+            }
+        ]
+    }
+}

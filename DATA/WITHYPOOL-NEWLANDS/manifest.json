@@ -1,0 +1,17 @@
+{
+    "name": "WITHYPOOL-NEWLANDS",
+    "data": {
+        "WITHYPOOL-NEWLANDS.csv": [
+            {
+                "filename": "TYRain_1931-1940_13_pt1-page-025.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_14_pt1-page-145.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            }
+        ]
+    }
+}

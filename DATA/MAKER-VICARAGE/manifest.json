@@ -1,0 +1,21 @@
+{
+    "name": "MAKER-VICARAGE",
+    "data": {
+        "MAKER-VICARAGE.csv": [
+            {
+                "filename": "TYRain_1880-1889_06_pt1-page-056.csv",
+                "start_date": "1880/01",
+                "end_date": "1889/13"
+            }
+        ]
+    },
+    "external": {
+        "MAKER-VICARAGE.csv": [
+            {
+                "comment": "Data from British Rainfall 1879",
+                "start_date": "1879/13",
+                "end_date": "1879/13"
+            }
+        ]
+    }
+}

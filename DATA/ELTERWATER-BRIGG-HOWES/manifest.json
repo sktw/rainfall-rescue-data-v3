@@ -1,7 +1,7 @@
 {
     "name": "ELTERWATER-BRIGG-HOWES",
     "data": {
-        "ELTERWATER-BRIGG-HOWES-2.csv": [
+        "ELTERWATER-BRIGG-HOWES.csv": [
             {
                 "filename": "TYRain_1677-1886_B_pt1-page-036.csv",
                 "start_date": "1860/01",
@@ -12,18 +12,14 @@
                 "start_date": "1870/01",
                 "end_date": "1879/13"
             }
-        ],
-        "ELTERWATER-BRIGG-HOWES.csv": [
-            {
-                "filename": "TYRain_1860-1869_06_pt1-page-092.csv",
-                "start_date": "1860/01",
-                "end_date": "1869/13"
-            },
-            {
-                "filename": "TYRain_1870-1879_09_pt4-page-044.csv",
-                "start_date": "1870/01",
-                "end_date": "1879/13"
-            }
         ]
-    }
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1860-1869_06_pt1-page-092.csv"
+        },
+        {
+            "filename": "TYRain_1870-1879_09_pt4-page-044.csv"
+        }
+    ]
 }

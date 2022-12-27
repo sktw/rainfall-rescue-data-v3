@@ -1,0 +1,17 @@
+{
+    "name": "PAISLEY-THORNLY-PARK-SCHOOL",
+    "data": {
+        "PAISLEY-THORNLY-PARK-SCHOOL.csv": [
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-231.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-031.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "name": "GABLE-HAWES",
+    "data": {
+        "GABLE-HAWES.csv": [
+            {
+                "filename": "ERROR_TYRain_1880-1889_12_pt1-page-098.csv",
+                "start_date": "1880/01",
+                "end_date": "1880/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_12_pt1-page-098.csv",
+                "start_date": "1881/01",
+                "end_date": "1881/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_12_pt1-page-098.csv",
+                "start_date": "1882/01",
+                "end_date": "1886/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_12_pt1-page-098.csv",
+                "start_date": "1887/01",
+                "end_date": "1888/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1880-1889_12_pt1-page-098.csv",
+                "start_date": "1889/01",
+                "end_date": "1889/12"
+            },
+            {
+                "filename": "ERROR_TYRain_1890-1899_18_pt1-page-258.csv",
+                "start_date": "1890/01",
+                "end_date": "1899/13"
+            }
+        ]
+    },
+    "idr": {
+        "GABLE-HAWES.csv": [
+            {
+                "start_date": "1884/12",
+                "end_date": "1884/12"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "ERROR_TYRain_1880-1889_12_pt1-page-098.csv",
+            "start_date": "1880/13",
+            "end_date": "1880/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_12_pt1-page-098.csv",
+            "start_date": "1881/13",
+            "end_date": "1881/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_12_pt1-page-098.csv",
+            "start_date": "1886/13",
+            "end_date": "1886/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_12_pt1-page-098.csv",
+            "start_date": "1888/13",
+            "end_date": "1888/13"
+        },
+        {
+            "filename": "ERROR_TYRain_1880-1889_12_pt1-page-098.csv",
+            "start_date": "1889/13",
+            "end_date": "1889/13"
+        }
+    ]
+}

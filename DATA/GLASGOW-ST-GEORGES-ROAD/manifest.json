@@ -1,0 +1,12 @@
+{
+    "name": "GLASGOW-ST-GEORGES-ROAD",
+    "data": {
+        "GLASGOW-ST-GEORGES-ROAD.csv": [
+            {
+                "filename": "TYRain_1860-1869_07_pt1-page-116.csv",
+                "start_date": "1860/01",
+                "end_date": "1869/13"
+            }
+        ]
+    }
+}

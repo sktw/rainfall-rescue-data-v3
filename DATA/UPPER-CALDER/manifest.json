@@ -1,0 +1,24 @@
+{
+    "name": "UPPER-CALDER",
+    "data": {
+        "UPPER-CALDER.csv": [
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-027.csv",
+                "start_date": "1951/01",
+                "end_date": "1955/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-027.csv",
+                "start_date": "1957/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1951-1960_27_pt1-page-027.csv",
+            "start_date": "1956/01",
+            "end_date": "1956/13"
+        }
+    ]
+}

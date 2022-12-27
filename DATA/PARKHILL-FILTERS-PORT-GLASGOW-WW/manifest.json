@@ -1,0 +1,89 @@
+{
+    "name": "PARKHILL-FILTERS-PORT-GLASGOW-WW",
+    "data": {
+        "PARKHILL-FILTERS-PORT-GLASGOW-WW.csv": [
+            {
+                "filename": "ERROR_TYRain_1910-1919_26_pt1-page-175.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            },
+            {
+                "filename": "TYRain_1931-1940_25_pt1-page-106.csv",
+                "start_date": "1931/01",
+                "end_date": "1940/13"
+            },
+            {
+                "filename": "TYRain_1941-1950_29_pt1-page-245.csv",
+                "start_date": "1941/01",
+                "end_date": "1950/13"
+            },
+            {
+                "filename": "TYRain_1951-1960_27_pt1-page-045.csv",
+                "start_date": "1951/01",
+                "end_date": "1960/13"
+            }
+        ]
+    },
+    "idr": {
+        "PARKHILL-FILTERS-PORT-GLASGOW-WW.csv": [
+            {
+                "start_date": "1919/03",
+                "end_date": "1919/03"
+            }
+        ]
+    },
+    "external": {
+        "PARKHILL-FILTERS-PORT-GLASGOW-WW.csv": [
+            {
+                "comment": "Data from British Rainfall 1920",
+                "start_date": "1920/13",
+                "end_date": "1920/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1921",
+                "start_date": "1921/13",
+                "end_date": "1921/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1922",
+                "start_date": "1922/13",
+                "end_date": "1922/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1923",
+                "start_date": "1923/13",
+                "end_date": "1923/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1924",
+                "start_date": "1924/13",
+                "end_date": "1924/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1925",
+                "start_date": "1925/13",
+                "end_date": "1925/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1926",
+                "start_date": "1926/13",
+                "end_date": "1926/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1927",
+                "start_date": "1927/13",
+                "end_date": "1927/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1928",
+                "start_date": "1928/13",
+                "end_date": "1928/13"
+            },
+            {
+                "comment": "Data from British Rainfall 1929",
+                "start_date": "1929/13",
+                "end_date": "1929/13"
+            }
+        ]
+    }
+}

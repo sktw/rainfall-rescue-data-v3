@@ -1,0 +1,39 @@
+{
+    "name": "RAMSBOTTOM-GREAT-LODGE-HIGHER-HILL",
+    "data": {
+        "RAMSBOTTOM-GREAT-LODGE-HIGHER-HILL.csv": [
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-045.csv",
+                "start_date": "1900/01",
+                "end_date": "1903/04"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-045.csv",
+                "start_date": "1903/06",
+                "end_date": "1903/12"
+            },
+            {
+                "filename": "TYRain_1900-1909_19_pt1-page-045.csv",
+                "start_date": "1904/01",
+                "end_date": "1909/13"
+            },
+            {
+                "filename": "TYRain_1910-1919_18_pt1-page-039.csv",
+                "start_date": "1910/01",
+                "end_date": "1919/13"
+            }
+        ]
+    },
+    "unused": [
+        {
+            "filename": "TYRain_1900-1909_19_pt1-page-045.csv",
+            "start_date": "1903/05",
+            "end_date": "1903/05"
+        },
+        {
+            "filename": "TYRain_1900-1909_19_pt1-page-045.csv",
+            "start_date": "1903/13",
+            "end_date": "1903/13"
+        }
+    ]
+}
